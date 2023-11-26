@@ -1,0 +1,47 @@
+{
+    "context": "",
+    "count": [
+        {
+            "question": "How many teams were reported ready to join the rescue effort?",
+            "answer": "2,400"
+        },
+        {
+            "question": "How many men were in the search and rescue group?",
+            "answer": "There were six men in the search and rescue group."
+        },
+        {
+            "question": "How many kg of relief supplies did each man carry?",
+            "answer": "20 kg."
+        },
+        {
+            "question": "What was the height of the Tibetan village above sea level?",
+            "answer": "The maximum height of the Tibetan village above sea level was 10,000 feet."
+        },
+        {
+            "question": "How many days were the Tibetan villagers stranded without food and water?",
+            "answer": "At least four days."
+        }
+    ],
+    "yesno": [
+        {
+            "question": "1. Is the Red Cross Society of China willing to accept donations of tents, medical supplies, drinking water, and food?",
+            "answer": "Yes"
+        },
+        {
+            "question": "2. Is the Red Cross Society of China only willing to accept cash donations?",
+            "answer": "No."
+        },
+        {
+            "question": "3. Did a search and rescue group from a motorized infantry brigade under commander Yang Wenyao reach the ethnically Tibetan village of Sier?",
+            "answer": "The motorized infantry brigade did not reach the village."
+        },
+        {
+            "question": "4. Were over 300 of the Tibetan villagers stranded in their demolished village for five days without food and water?",
+            "answer": "No, less than 300."
+        },
+        {
+            "question": "5. Was helicopter evacuation not an option due to the extreme terrain conditions?",
+            "answer": "No, helicopter was not an option."
+        }
+    ]
+}

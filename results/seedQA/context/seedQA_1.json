@@ -1,0 +1,47 @@
+{
+    "context": "Chopin's public popularity as a virtuoso began to wane, as did the number of his pupils, and this, together with the political strife and instability of the time, caused him to struggle financially. In February 1848, with the cellist Auguste Franchomme, he gave his last Paris concert, which included three movements of the Cello Sonata Op. 65.\n",
+    "count": [
+        {
+            "question": "1) How many pupils did Chopin have?",
+            "answer": "Chopin had few pupils."
+        },
+        {
+            "question": "2) How many concerts did Chopin give in Paris?",
+            "answer": "Chopin gave three concerts in Paris."
+        },
+        {
+            "question": "3) How many movements were in the Cello Sonata Op. 65?",
+            "answer": "Three."
+        },
+        {
+            "question": "4) How much money did Chopin struggle to make?",
+            "answer": "Chopin struggled to make money."
+        },
+        {
+            "question": "5) How many February 1848s were there?",
+            "answer": "There was only one February 1848."
+        }
+    ],
+    "yesno": [
+        {
+            "question": "1. Did Chopin's popularity as a virtuoso begin to decline in the 1830s?",
+            "answer": "No, Chopin's popularity as a virtuoso began to decline in the 1840s."
+        },
+        {
+            "question": "2. Did the number of Chopin's pupils also start to decrease during this time?",
+            "answer": "Yes."
+        },
+        {
+            "question": "3. Was Chopin's financial situation worsened by the political instability of the 1840s?",
+            "answer": "Yes, the political instability of the 1840s worsened Chopin's financial situation."
+        },
+        {
+            "question": "4. Did Chopin give his last Paris concert in February 1848?",
+            "answer": "Yes."
+        },
+        {
+            "question": "5. Did the program for this final concert include the Cello Sonata Op. 65?",
+            "answer": "Yes."
+        }
+    ]
+}

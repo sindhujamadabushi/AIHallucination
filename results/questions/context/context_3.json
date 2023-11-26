@@ -1,0 +1,17 @@
+{
+    "context": "Nintendo staff members reported that demo users complained about the difficulty of the control scheme. Aonuma realized that his team had implemented Wii controls under the mindset of \"forcing\" users to adapt, instead of making the system intuitive and easy to use. He began rethinking the controls with Miyamoto to focus on comfort and ease.[q] The camera movement was reworked and item controls were changed to avoid accidental button presses.[r] In addition, the new item system required use of the button that had previously been used for the sword. To solve this, sword controls were transferred back to gestures\u2014something E3 attendees had commented they would like to see. This reintroduced the problem of using a right-handed swing to control a left-handed sword attack. The team did not have enough time before release to rework Link's character model, so they instead flipped the entire game\u2014everything was made a mirror image.[s] Link was now right-handed, and references to \"east\" and \"west\" were switched around. The GameCube version, however, was left with the original orientation. The Twilight Princess player's guide focuses on the Wii version, but has a section in the back with mirror-image maps for GameCube users.[t]\n",
+    "count": [
+        "How many Nintendo staff members reported complaints about the control scheme?",
+        "How many users were surveyed about the control scheme?",
+        "How many button presses did the new item system require?",
+        "How many minutes before release did the team rework Link's character model?",
+        "How many sections are in the player's guide?"
+    ],
+    "yesno": [
+        "1. Did Nintendo staff members report that demo users complained about the difficulty of the control scheme?",
+        "2. Did Aonuma realize that his team had implemented Wii controls under the mindset of \"forcing\" users to adapt, instead of making the system intuitive and easy to use?",
+        "3. Did the camera movement get reworked and item controls get changed to avoid accidental button presses?",
+        "4. Did the new item system require use of the button that had previously been used for the sword?",
+        "5. Did Link's character model get changed so that he was right-handed?"
+    ]
+}

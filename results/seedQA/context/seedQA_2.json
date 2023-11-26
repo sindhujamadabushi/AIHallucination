@@ -1,0 +1,47 @@
+{
+    "context": "The Association for Asian Studies states that there is no known written evidence to suggest that later leaders of the Gelug\u2014Gend\u00fcn Drup (1391\u20131474) and Gend\u00fcn Gyatso (1475\u20131571)\u2014had any contacts with Ming China. These two religious leaders were preoccupied with an overriding concern for dealing with the powerful secular Rinpungpa princes, who were patrons and protectors of the Karma Kargyu lamas. The Rinpungpa leaders were relatives of the Phagmodrupa, yet their authority shifted over time from simple governors to rulers in their own right over large areas of \u00dc-Tsang. The prince of Rinbung occupied Lhasa in 1498 and excluded the Gelug from attending New Years ceremonies and prayers, the most important event in the Gelug. While the task of New Years prayers in Lhasa was granted to the Karmapa and others, Gend\u00fcn Gyatso traveled in exile looking for allies. However, it was not until 1518 that the secular Phagmodru ruler captured Lhasa from the Rinbung, and thereafter the Gelug was given rights to conduct the New Years prayer. When the Drikung Kagyu abbot of Drigung Monastery threatened Lhasa in 1537, Gend\u00fcn Gyatso was forced to abandon the Drepung Monastery, although he eventually returned.\n",
+    "count": [
+        {
+            "question": "How many religious leaders were preoccupied with an overriding concern for dealing with the powerful secular Rinpungpa princes?",
+            "answer": "Two."
+        },
+        {
+            "question": "How many princes of Rinbung occupied Lhasa?",
+            "answer": "Two."
+        },
+        {
+            "question": "How many abbots of Drigung Monastery threatened Lhasa?",
+            "answer": "One."
+        },
+        {
+            "question": "How many times was Gend\u00fcn Gyatso forced to abandon the Drepung Monastery?",
+            "answer": "Gend\u00fcn Gyatso was forced to abandon the Drepung Monastery twice."
+        },
+        {
+            "question": "How many years was the Gelug given rights to conduct the New Years prayer?",
+            "answer": "1518."
+        }
+    ],
+    "yesno": [
+        {
+            "question": "1. Did the Association for Asian Studies state that there is evidence to suggest that later leaders of the Gelug had contacts with Ming China?",
+            "answer": "No"
+        },
+        {
+            "question": "2. Did Gend\u00fcn Drup and Gend\u00fcn Gyatso have an overriding concern for dealing with secular Rinpungpa princes?",
+            "answer": "Yes, the overriding concern was for dealing with secular Rinpungpa princes."
+        },
+        {
+            "question": "3. Was the authority of the Rinpungpa leaders simple?",
+            "answer": "No, their authority was not simple."
+        },
+        {
+            "question": "4. Was it 1518 when the secular Phagmodru ruler captured Lhasa from the Rinbung?",
+            "answer": "Yes."
+        },
+        {
+            "question": "5. Was Gend\u00fcn Gyatso forced to abandon the Drepung Monastery when the Drikung Kagyu abbot threatened Lhasa?",
+            "answer": "Yes."
+        }
+    ]
+}

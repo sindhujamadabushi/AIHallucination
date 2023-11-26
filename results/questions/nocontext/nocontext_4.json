@@ -1,0 +1,17 @@
+{
+    "context": "",
+    "count": [
+        "How many teams were reported ready to join the rescue effort?",
+        "How many men were in the search and rescue group?",
+        "How many kg of relief supplies did each man carry?",
+        "What was the height of the Tibetan village above sea level?",
+        "How many days were the Tibetan villagers stranded without food and water?"
+    ],
+    "yesno": [
+        "1. Is the Red Cross Society of China willing to accept donations of tents, medical supplies, drinking water, and food?",
+        "2. Is the Red Cross Society of China only willing to accept cash donations?",
+        "3. Did a search and rescue group from a motorized infantry brigade under commander Yang Wenyao reach the ethnically Tibetan village of Sier?",
+        "4. Were over 300 of the Tibetan villagers stranded in their demolished village for five days without food and water?",
+        "5. Was helicopter evacuation not an option due to the extreme terrain conditions?"
+    ]
+}
