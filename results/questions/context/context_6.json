@@ -1,0 +1,17 @@
+{
+    "context": "Service dogs such as guide dogs, utility dogs, assistance dogs, hearing dogs, and psychological therapy dogs provide assistance to individuals with physical or mental disabilities. Some dogs owned by epileptics have been shown to alert their handler when the handler shows signs of an impending seizure, sometimes well in advance of onset, allowing the guardian to seek safety, medication, or medical care.\n",
+    "count": [
+        "1. How many service dog types are there?",
+        "2. How many states in the US have service dog laws?",
+        "3. Are there more service dogs or emotional support dogs?",
+        "4. How many types of assistance do service dogs provide?",
+        "5. How long does it typically take to train a service dog?"
+    ],
+    "yesno": [
+        "1. Are service dogs trained to provide assistance to individuals with physical or mental disabilities?",
+        "2. Do service dogs go through extensive training?",
+        "3. Are service dogs allowed in all public places?",
+        "4. Do service dogs provide their handlers with advance warning of an impending seizure?",
+        "5. Do all service dog owners have a disability?"
+    ]
+}
