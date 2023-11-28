@@ -1,1 +1,19 @@
-{"context": "Postwar broadcast coverage was extended to Birmingham in 1949 with the opening of the Sutton Coldfield transmitting station, and by the mid-1950s most of the country was covered, transmitting a 405-line interlaced image on VHF.[original research?]\n", "count": ["1. How many transmitting stations were opened in 1949?", "2. How many lines were used to transmit the image?", "3. By how many years was the country covered?", "4. How many countries were covered by the transmitting station?", "5. What was the purpose of the transmitting station?"], "yesno": ["1.Did post-war broadcast coverage extend to Birmingham in 1949?", "2.Was the Sutton Coldfield transmitting station the reason for this extension?", "3.Did most of the country have access to 405-line interlaced image transmission by the mid-1950s?", "4. Was VHF the only means of transmission available?", "5. Was this level of coverage uniform throughout the country?"]}
+{
+    "context": "Suffering (P\u0101li: \u0926\u0941\u0915\u094d\u0916 dukkha; Sanskrit \u0926\u0941\u0903\u0916 du\u1e25kha) is also a central concept in Buddhism. The word roughly corresponds to a number of terms in English including suffering, pain, unsatisfactoriness, sorrow, affliction, anxiety, dissatisfaction, discomfort, anguish, stress, misery, and frustration. Although the term is often translated as \"suffering\", its philosophical meaning is more analogous to \"disquietude\" as in the condition of being disturbed. As such, \"suffering\" is too narrow a translation with \"negative emotional connotations\"[web 9] that can give the impression that the Buddhist view is pessimistic, but Buddhism seeks to be neither pessimistic nor optimistic, but realistic. In English-language Buddhist literature translated from P\u0101li, \"dukkha\" is often left untranslated, so as to encompass its full range of meaning.[note 8]\n",
+    "count": [
+        "How many types of suffering are there in Buddhism?",
+        "What is the main cause of suffering in Buddhism?",
+        "What is the purpose of suffering in Buddhism?",
+        "What are the different emotions that suffering can encompass?",
+        "How many different English words can be used to translate the concept of suffering?"
+    ],
+    "yesno": [
+        "1. Does the Buddhist concept of suffering correspond to any terms in English?",
+        "2. Is suffering a central concept in Buddhism?",
+        "3. Is the word 'suffering' too narrow a translation for the Buddhist concept of 'dukkha'?",
+        "4. Is the Buddhist view pessimistic?",
+        "5. What is the English-language Buddhist literature's approach to translating 'dukkha'?"
+    ],
+    "count_gt":["twelve", "unknown", "unknown", "NaN", "zero"],
+    "yesno_gt":["no", "yes", "yes", "no", "NaN"] 
+}
