@@ -1,7 +1,7 @@
 import json
 from answerGenerator import generate_answers
 from evaluationMetrics import llm_selfevaluation, bert_score
-from loadDataset import read_all_json_files
+from loadDataset import read_all_json_files, call_gpt_api
 
 def evaluate_llmevaluation(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -68,8 +68,17 @@ def evaluate_bert_score(file_path):
         json.dump(data, file, indent=4)
 
 
-read_all_json_files('../results/questions/generated/')
+all_data = read_all_json_files('../results/questions/generated/')
 
-evaluate_llmevaluation('../results/questions/generated/context.json')
-evaluate_bert_score('../results/questions/generated/test_context.json')
+for i, dataset in enumerate(all_data):
+    context = dataset['context']
+    count_questions = dataset['count']
+    yesno_questions = dataset['yesno']
 
+    dataset['count_variations'] = [[] for _ in count_questions]
+    dataset['yesno_variations'] = [[] for _ in yesno_questions]
+
+    for idx, question in enumerate(count_questions):
+        evaluate_llmevaluation('../results/questions/generated/context.json')
+    for idx, question in enumerate(yesno_questions):
+        evaluate_bert_score('../results/questions/generated/test_context.json')

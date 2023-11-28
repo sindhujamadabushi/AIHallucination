@@ -22,10 +22,6 @@ class DiverseQuestionGenerator:
             os.makedirs(output_directory)
 
         for i, dataset in enumerate(self.datasets):
-
-            if i <= 3:
-                continue
-
             context = dataset['context']
             count_questions = dataset['count']
             yesno_questions = dataset['yesno']
