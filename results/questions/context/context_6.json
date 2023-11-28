@@ -16,10 +16,10 @@
     ],
     "count_gt": [
         "five",
-        "NaN",
+        "unknown",
         "NaN",
         "five",
-        "NaN"
+        "unknown"
     ],
     "yesno_gt": [
         "yes",

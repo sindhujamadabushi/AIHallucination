@@ -15,11 +15,11 @@
         "5. Did Link's character model get changed so that he was right-handed?"
     ],
     "count_gt": [
-        "NaN",
-        "NaN",
+        "unknown",
+        "unknown",
         "one",
-        "NaN",
-        "NaN"
+        "unknown",
+        "unknown"
     ],
     "yesno_gt": [
         "yes",

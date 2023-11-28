@@ -15,11 +15,11 @@
         "5. Did the program for this final concert include the Cello Sonata Op. 65?"
     ],
     "count_gt": [
-        "NaN",
-        "NaN",
+        "unknown",
+        "unknown",
         "three",
-        "NaN",
-        "NaN"
+        "unknown",
+        "one"
     ],
     "yesno_gt": [
         "no",
