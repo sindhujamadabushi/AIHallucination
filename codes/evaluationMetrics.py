@@ -3,6 +3,9 @@ import torch
 import numpy as np
 from factsumm import FactSumm
 from selfcheckgpt.modeling_selfcheck import SelfCheckNLI
+from openai import OpenAI
+
+client = OpenAI(api_key="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")
 
 def bert_score(ground_truth,answer):
     # Load the pre-trained BERT model and tokenizer
@@ -39,13 +42,19 @@ def selfcheckGPT(ground_truth, answer):
         sentences = ground_truth,                          
         sampled_passages = [answer], 
     )
-    print(sent_scores_nli)
     return sent_scores_nli
 
-text1 = "Beyonce has won five awards"
-text2 = "five"
+def llm_selfevaluation(ground_truth, answer):
+    response = client.completions.create(
+        model="text-davinci-002",
+        prompt = f"Score the following summary given the corresponding context with respect to consistency from 1 to 10. Note that consistency measures how much information in the ground truth is present in the answer. 10 points indicate the answer contains the ground truth. Ground Truth: {ground_truth}\nAnswer: {answer}\nScore:",
+        max_tokens = 10
+    )
+    score = response.choices[0].text.strip().split("\\n")
+    return score
 
-print(selfcheckGPT(text1, text2))
-print(bert_score(text1, text2))
+    
+answer = "Beyonce has won seven awards"
+ground_truth = "five"
 
-
+print(llm_selfevaluation(ground_truth, answer))
