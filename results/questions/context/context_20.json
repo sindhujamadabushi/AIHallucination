@@ -1,2 +1,19 @@
-{"context": "In Eastern Christianity heresy most commonly refers to those beliefs declared heretical by the first seven Ecumenical Councils.[citation needed] Since the Great Schism and the Protestant Reformation, various Christian churches have also used the concept in proceedings against individuals and groups those churches deemed heretical. The Orthodox Church also rejects the early Christian heresies such as Arianism, Gnosticism, Origenism, Montanism, Judaizers, Marcionism, Docetism, Adoptionism, Nestorianism, Monophysitism, Monothelitism and Iconoclasm.\n", "count": ["1. How many Ecumenical Councils were there?", "2. How many heresies are there?", "3. How many early Christian heresies are there?", "4. How many heresies does the Orthodox Church reject?", "5. How many heresies are there in total?"], "yesno": ["1. Did the first seven Ecumenical Councils declare heresy?", "2. Has the concept of heresy been used by various Christian churches since the Great Schism and the Protestant Reformation?", "3. Does the Orthodox Church reject Arianism, Gnosticism, Origenism, Montanism, Judaizers, Marcionism, Docetism, Adoptionism, Nestorianism, Monophysitism, Monothelitism and Iconoclasm?", "4. Is heresy a belief declared heretical by the first seven Ecumenical Councils?", "5. Are those churches that deem individuals and groups heretical using the concept of heresy correctly?"], "count_gt":["seven", "twelve", "twelve", "twelve", "twelve"],
-    "yesno_gt":["yes", "yes", "yes", "yes", "NaN"]}
+{
+    "context": "Many Fortune 500 corporations are headquartered in New York City, as are a large number of foreign corporations. One out of ten private sector jobs in the city is with a foreign company. New York City has been ranked first among cities across the globe in attracting capital, business, and tourists. This ability to attract foreign investment helped New York City top the FDi Magazine American Cities of the Future ranking for 2013.\n",
+    "count": [
+        "1) How many Fortune 500 corporations are headquartered in New York City?",
+        "2) How many private sector jobs in the city are with a foreign company?",
+        "3) What is the ranking for New York City among cities across the globe in attracting capital?",
+        "4) What is the ranking for New York City among cities across the globe in attracting business?",
+        "5) What is the ranking for New York City among cities across the globe in attracting tourists?"
+    ],
+    "yesno": [
+        "1. Does New York City have more Fortune 500 corporations than any other city?",
+        "2. Do foreign corporations headquartered in New York City outnumber private sector jobs?",
+        "3. Is New York City ranked first in the world for attracting capital, business, and tourists?",
+        "4. Did New York City's ability to attract foreign investment help it top the FDi Magazine American Cities of the Future ranking for 2013?",
+        "5. Is New York City expected to maintain its ranking as the top city for attracting foreign investment in the future?"
+    ],
+    "count_gt":["unknown", "unknown", "one", "one", "one"],
+    "yesno_gt":["yes", "yes", "yes", "yes", "yes"]
+}
