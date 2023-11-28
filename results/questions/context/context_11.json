@@ -1,1 +1,19 @@
-{"context": "Forms of lighting include alcove lighting, which like most other uplighting is indirect. This is often done with fluorescent lighting (first available at the 1939 World's Fair) or rope light, occasionally with neon lighting, and recently with LED strip lighting. It is a form of backlighting.\n", "count": ["How many types of lighting are there?", "How many types of indirect lighting are there?", "What is the first type of lighting mentioned?", "What year was the first type of lighting available?", "What is the last type of lighting mentioned?"], "yesno": ["Does lighting include alcove lighting?", "Does lighting have to be indirect?", "Can lighting be done with fluorescent lighting?", "Can lighting be done with LED strip lighting?", "What is the purpose of backlighting?"]}
+{
+    "context": "The second part of the novel deals with what book reviewer Harding LeMay termed \"the spirit-corroding shame of the civilized white Southerner in the treatment of the Negro\". In the years following its release, many reviewers considered To Kill a Mockingbird a novel primarily concerned with race relations. Claudia Durst Johnson considers it \"reasonable to believe\" that the novel was shaped by two events involving racial issues in Alabama: Rosa Parks' refusal to yield her seat on a city bus to a white person, which sparked the 1955 Montgomery Bus Boycott, and the 1956 riots at the University of Alabama after Autherine Lucy and Polly Myers were admitted (Myers eventually withdrew her application and Lucy was expelled, but reinstated in 1980). In writing about the historical context of the novel's construction, two other literary scholars remark: \"To Kill a Mockingbird was written and published amidst the most significant and conflict-ridden social change in the South since the Civil War and Reconstruction. Inevitably, despite its mid-1930s setting, the story told from the perspective of the 1950s voices the conflicts, tensions, and fears induced by this transition.\"\n",
+    "count": [
+        "How many people were on the bus with Rosa Parks?",
+        "How many people were in the Bus Boycott?",
+        "How many people were applied to the University of Alabama?",
+        "How many people were admitted to the University of Alabama?",
+        "How many people were expelled from the University of Alabama?"
+    ],
+    "yesno": [
+        "1) Did the novel To Kill a Mockingbird primarily deal with race relations?",
+        "2) Did the event of Rosa Parks refusing to yield her bus seat to a white person happen before or after the novel was published?",
+        "3) Did two events involving racial issues in Alabama contribute to the shaping of the novel?",
+        "4) Did literary scholars believe that the story in To Kill a Mockingbird was told from the perspective of the 1950s?",
+        "5) Was the social change in the South during the time the novel was written and published the most significant and conflict-ridden since the Civil War and Reconstruction?"
+    ],
+    "count_gt":["unknown", "unknown", "two", "two", "one"],
+    "yesno_gt":["yes", "NaN", "yes", "yes", "yes"]
+}
