@@ -48,7 +48,7 @@ def save_to_csv(hallucination_params, question_type, metric, output_directory):
     print(f"Saved {metric} hallucination parameter distribution for {question_type} questions to {csv_path}")
 
 def main():
-    dataset_directory = '../results/questions/generated/'
+    dataset_directory = '../results/questions/generated2/'
     output_directory = './hallucination_analysis_results/'
     if not os.path.exists(output_directory):
         os.makedirs(output_directory)

@@ -81,7 +81,6 @@ class DiverseQuestionGenerator:
             FP = random.choice([1.2, 1.4, 1.6, 1.8])
             PP = random.choice([1.2, 1.4, 1.6, 1.8])
             top_p = random.choice([0.92, 0.95])
-
             paraphrased_questions.append({'parameters': (T, FP, PP, top_p), 'question': self.paraphrase_question(question, T, FP, PP, top_p)})
 
 

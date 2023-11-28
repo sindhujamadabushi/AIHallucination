@@ -2,8 +2,7 @@ import json
 import os
 from openai import OpenAI
 
-client = OpenAI(api_key="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")
-
+client = OpenAI(api_key="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")
 def generate_answers(context, question):
     context_part = f"Context: {context}\n" if context else "Context: \n"
     prompt = f"{context_part}Question: {question}\nAnswer:\nAnswer should not be more than five words."

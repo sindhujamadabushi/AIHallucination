@@ -5,7 +5,7 @@ from factsumm import FactSumm
 from selfcheckgpt.modeling_selfcheck import SelfCheckNLI
 from openai import OpenAI
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="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")
 
 def bert_score(ground_truth,answer):
     # Load the pre-trained BERT model and tokenizer
@@ -27,7 +27,7 @@ def bert_score(ground_truth,answer):
     similarity = np.dot(embeddings1, embeddings2.T) / (np.linalg.norm(embeddings1) * np.linalg.norm(embeddings2))
 
     # Step 8: Print the result
-    print("Similarity between the texts: {:.4f}".format(similarity[0][0]))
+    # print("Similarity between the texts: {:.4f}".format(similarity[0][0]))
     return str(similarity[0][0])
 
 def rogue_score(ground_truth,answer):
@@ -65,7 +65,7 @@ def llm_selfevaluation(context, ground_truth, answer):
     #         return 'yes'
     #     elif score[0] in ['No', 'NO', 'no']:
     #         return 'no'
-    print('score: ', score[0])
+    # print('score: ', score[0])
 
     return score[0]
 
