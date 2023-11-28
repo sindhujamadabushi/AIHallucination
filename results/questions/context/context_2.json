@@ -13,5 +13,19 @@
         "3. Was the authority of the Rinpungpa leaders simple?",
         "4. Was it 1518 when the secular Phagmodru ruler captured Lhasa from the Rinbung?",
         "5. Was Gend\u00fcn Gyatso forced to abandon the Drepung Monastery when the Drikung Kagyu abbot threatened Lhasa?"
+    ],
+    "count_gt": [
+        "two",
+        "one",
+        "one",
+        "one",
+        "twenty"
+    ],
+    "yesno_gt": [
+        "no",
+        "yes",
+        "no",
+        "yes",
+        "yes"
     ]
 }

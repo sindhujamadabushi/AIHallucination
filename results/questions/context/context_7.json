@@ -1,1 +1,31 @@
-{"context": "Reports on the Delhi relay were similarly distinct. Despite intended torchbearers Kiran Bedi, Soha Ali Khan, Sachin Tendulkar and Bhaichung Bhutia all withdrawing from the event, the official Chinese website for the relay reported \"Indian torchbearers vow to run for spirit of Olympics\", and quoted torchbearers Manavjit Singh Sandhu, Abhinav Bindra, Ayaan Ali Khan and Rajinder Singh Rahelu all stating that sports and politics should not be mixed.\n", "count": ["1) How many intended torchbearers withdrew from the Delhi relay?", "2) How many torchbearers were quoted on the official Chinese website?", "3) What was the stated reason for the withdrawal of the intended torchbearers?", "4) How many torchbearers ran for the spirit of the Olympics?", "5) How many torchbearers stated that sports and politics should not be mixed?"], "yesno": ["1. Do you think the Delhi relay went well?", "2. Were all of the intended torchbearers able to participate?", "3. Did the official Chinese website for the relay have positive things to say about it?", "4. Do you think sports and politics should be mixed?", "5. Do you think the torchbearers did a good job?"]}
+{
+    "context": "Reports on the Delhi relay were similarly distinct. Despite intended torchbearers Kiran Bedi, Soha Ali Khan, Sachin Tendulkar and Bhaichung Bhutia all withdrawing from the event, the official Chinese website for the relay reported \"Indian torchbearers vow to run for spirit of Olympics\", and quoted torchbearers Manavjit Singh Sandhu, Abhinav Bindra, Ayaan Ali Khan and Rajinder Singh Rahelu all stating that sports and politics should not be mixed.\n", 
+    "count": [
+        "1) How many intended torchbearers withdrew from the Delhi relay?", 
+        "2) How many torchbearers were quoted on the official Chinese website?", 
+        "3) What was the stated reason for the withdrawal of the intended torchbearers?", 
+        "4) How many torchbearers ran for the spirit of the Olympics?", 
+        "5) How many torchbearers stated that sports and politics should not be mixed?
+    "], 
+    "yesno": [
+        "1. Do you think the Delhi relay went well?", 
+        "2. Were all of the intended torchbearers able to participate?", 
+        "3. Did the official Chinese website for the relay have positive things to say about it?", 
+        "4. Do you think sports and politics should be mixed?", 
+        "5. Do you think the torchbearers did a good job?
+    "],
+    "count_gt": [
+        "four",
+        "four",
+        "NaN",
+        "four",
+        "four"
+    ],
+    "yesno_gt": [
+        "NaN",
+        "no",
+        "no",
+        "NaN",
+        "NaN"
+    ]
+}

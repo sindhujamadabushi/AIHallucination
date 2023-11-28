@@ -13,5 +13,19 @@
         "3. Are service dogs allowed in all public places?",
         "4. Do service dogs provide their handlers with advance warning of an impending seizure?",
         "5. Do all service dog owners have a disability?"
+    ],
+    "count_gt": [
+        "five",
+        "NaN",
+        "NaN",
+        "five",
+        "NaN"
+    ],
+    "yesno_gt": [
+        "yes",
+        "NaN",
+        "NaN",
+        "yes",
+        "NaN"
     ]
 }

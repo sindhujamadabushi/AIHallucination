@@ -13,5 +13,19 @@
         "Is Beyonc\u00e9 from Houston, Texas?",
         "Was Beyonc\u00e9 in a girl group?",
         "What is the name of Beyonc\u00e9's debut album?"
+    ],
+    "count_gt": [
+        "NaN",
+        "five",
+        "NaN",
+        "NaN",
+        "NaN"
+    ],
+    "yesno_gt": [
+        "NaN",
+        "yes",
+        "yes",
+        "yes",
+        "NaN"
     ]
 }

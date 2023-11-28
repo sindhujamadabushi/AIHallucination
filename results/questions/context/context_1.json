@@ -13,5 +13,19 @@
         "3. Was Chopin's financial situation worsened by the political instability of the 1840s?",
         "4. Did Chopin give his last Paris concert in February 1848?",
         "5. Did the program for this final concert include the Cello Sonata Op. 65?"
+    ],
+    "count_gt": [
+        "NaN",
+        "NaN",
+        "three",
+        "NaN",
+        "NaN"
+    ],
+    "yesno_gt": [
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
     ]
 }

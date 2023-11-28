@@ -13,5 +13,19 @@
         "3. Did a search and rescue group from a motorized infantry brigade under commander Yang Wenyao reach the ethnically Tibetan village of Sier?",
         "4. Were over 300 of the Tibetan villagers stranded in their demolished village for five days without food and water?",
         "5. Was helicopter evacuation not an option due to the extreme terrain conditions?"
+    ],
+    "count_gt": [
+        "NaN",
+        "eighty",
+        "forty",
+        "four-thousand",
+        "five"
+    ],
+    "yesno_gt": [
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "no"
     ]
 }
