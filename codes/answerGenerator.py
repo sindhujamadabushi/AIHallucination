@@ -2,20 +2,17 @@ import json
 import os
 from openai import OpenAI
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="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")
 
-def generate_answers(context, questions):
-    answers = []
-    for question in questions: 
-        context_part = f"Context: {context}\n" if context else "Context: \n"
-        prompt = f"{context_part}Question: {question}\nAnswer:\nAnswer should not be more than five words."
-        
-        response = client.completions.create(model="text-davinci-002",
-        prompt=prompt,
-        max_tokens=150)
-        answer = response.choices[0].text.strip()
-        answers.append({"question": question, "answer": answer})
-    return answers
+def generate_answers(context, question):
+    context_part = f"Context: {context}\n" if context else "Context: \n"
+    prompt = f"{context_part}Question: {question}\nAnswer:\nAnswer should not be more than five words."
+    
+    response = client.completions.create(model="text-davinci-002",
+    prompt=prompt,
+    max_tokens=150)
+    answer = response.choices[0].text.strip()
+    return answer
 
 def process_file(input_file_path, output_file_path, iscontext, counter):
     if iscontext:
@@ -29,8 +26,15 @@ def process_file(input_file_path, output_file_path, iscontext, counter):
     count_questions = data.get('count', [])
     yesno_questions = data.get('yesno', [])
 
-    count_answers = generate_answers(context, count_questions)
-    yesno_answers = generate_answers(context, yesno_questions)
+    count_answers = []  # Initialize as an empty list
+    for i in range(len(count_questions)):
+        answer = {"question": count_questions[i], "answer": generate_answers(context, count_questions[i])}
+        count_answers.append(answer)  # Append each answer as a dictionary
+
+    yesno_answers = []  # Initialize as an empty list
+    for i in range(len(yesno_questions)):
+        answer = {"question": yesno_questions[i], "answer": generate_answers(context, yesno_questions[i])}
+        yesno_answers.append(answer)  # Append each answer as a dictionary
 
     output_data = {
         "context": context,
