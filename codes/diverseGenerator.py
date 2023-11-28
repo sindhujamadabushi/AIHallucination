@@ -9,7 +9,7 @@ class DiverseQuestionGenerator:
     def __init__(self, dataset_directory):
         self.dataset_directory = dataset_directory
         self.datasets = self.load_all_datasets()
-        self.client = OpenAI(api_key="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")
+        self.client = OpenAI(api_key="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")
 
     def load_all_datasets(self):
         return LoadDataset.read_all_json_files(self.dataset_directory)
@@ -22,6 +22,10 @@ class DiverseQuestionGenerator:
             os.makedirs(output_directory)
 
         for i, dataset in enumerate(self.datasets):
+
+            if i <= 3:
+                continue
+
             context = dataset['context']
             count_questions = dataset['count']
             yesno_questions = dataset['yesno']

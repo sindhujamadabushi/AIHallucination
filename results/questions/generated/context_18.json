@@ -1,0 +1,955 @@
+{
+    "context": "Postwar broadcast coverage was extended to Birmingham in 1949 with the opening of the Sutton Coldfield transmitting station, and by the mid-1950s most of the country was covered, transmitting a 405-line interlaced image on VHF.[original research?]\n",
+    "count": [
+        "-How many stations were transmitting a 405-line interlaced image on VHF in the mid-1950s? ",
+        "-How many countries were covered by postwar broadcast coverage in 1949? ",
+        "-How many years passed between the opening of the Sutton Coldfield transmitting station and the mid-1950s? ",
+        "-In how many years did postwar broadcast coverage extend to Birmingham? ",
+        "-What was the interval between the opening of the Sutton Coldfield transmitting station and the mid-1950s in terms of years?"
+    ],
+    "yesno": [
+        "1. Was postwar broadcast coverage extended to Birmingham in 1949?",
+        "2. Did the Sutton Coldfield transmitting station open in the mid-1950s?",
+        "3. Was most of the country covered by the mid-1950s?",
+        "4. Did the country transmit a 405-line interlaced image on VHF?",
+        "5. Was postwar broadcast coverage research original?"
+    ],
+    "count_gt": [
+        "one",
+        "one",
+        "unknown",
+        "unknown",
+        "unknown"
+    ],
+    "yesno_gt": [
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "unknown"
+    ],
+    "count_variations": [
+        [
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: How many stations were broadcasting a 405-line interlaced image on VHF in the mid-1950s? \n\nI'm not sure exactly how many stations were broadcasting a 405-line interlaced image on VHF in the mid-1950s, but I"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Answer: In the mid-1950s, how many VHF stations were broadcasting an interlaced 405-line image?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.6,
+                    0.95
+                ],
+                "question": "-How many VHF stations were transmitting an interlaced 405-line image in the mid-1950s?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "How many VHF stations were transmitting a 405-line interlaced image in the mid-1950s?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.2,
+                    0.95
+                ],
+                "question": "How many VHF stations were transmitting a 405-line interlaced image in the mid-1950s?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.6,
+                    0.95
+                ],
+                "question": "How many 405-line VHF stations were transmitting an interlaced image in the mid 1950s?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many stations were transmitting an interlaced image on VHF in the mid-1950s?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "In the mid-1950s, how many stations were transmitting an interlaced image on VHF that had 405 lines?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.4,
+                    0.92
+                ],
+                "question": "How many stations were broadcasting a 405-line interlaced image on VHF in the mid-1950s?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many stations were transmitting a 405-line interlaced image on VHF in the mid-20th century?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.2,
+                    0.95
+                ],
+                "question": "How many countries were covered in the broadcasts of 1949?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "How many countries were included in postwar broadcast coverage in 1949?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.8,
+                    0.92
+                ],
+                "question": "How many countries were included in postwar broadcast coverage in 1949?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "How many countries were included in the broadcast coverage of the aftermath of World War II in 1949?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.8,
+                    0.92
+                ],
+                "question": "How many countries were included in the postwar broadcast coverage in 1949?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.4,
+                    0.92
+                ],
+                "question": "How many countries were included in the broadcast coverage after World War II in 1949?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: 'What was the scope of broadcast coverage in 1949?' \n\nIn 1949, postwar broadcast coverage spanned to many countries."
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: 'What was the extent of postwar broadcast coverage in 1949?' \n\nPostwar broadcast coverage in 1949 was far-reaching, extending to many countries."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many countries were covered by postwar broadcast coverage in 1949?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many countries were included in the postwar broadcast coverage in 1949?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "How many years passed between the opening of the Sutton Coldfield transmitting station and the 1950s?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What is the span of years between the opening of the Sutton Coldfield transmitting station and the mid-1950s?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "In what year did the Sutton Coldfield transmitting station open, and how many years passed until the mid-1950s?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.2,
+                    0.95
+                ],
+                "question": "In how many years was the Sutton Coldfield transmitting station opened before the mid-1950s?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.8,
+                    0.95
+                ],
+                "question": "In what year did the Sutton Coldfield transmitting station open, and how many years passed until the mid-1950s?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "What is the time frame between the opening of the Sutton Coldfield transmitting station and the mid-1950s?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "In what year did the Sutton Coldfield transmitting station open, and how many years had passed by the mid-1950s?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "When was the Sutton Coldfield transmitting station built?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "In how many years did the Sutton Coldfield transmitting station open and the mid-1950s occur?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: How many years had passed since the Sutton Coldfield transmitting station opened when the mid-1950s came around?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.8,
+                    0.92
+                ],
+                "question": "In how many years did postwar broadcast coverage reach Birmingham?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.4,
+                    0.92
+                ],
+                "question": "In how many years did postwar broadcast coverage reach Birmingham?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "In how many years did broadcast coverage extend to Birmingham after the war?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.2,
+                    0.92
+                ],
+                "question": "In how many years did postwar broadcast coverage extend to cover Birmingham?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.4,
+                    0.92
+                ],
+                "question": "In how many years did postwar broadcast coverage reach Birmingham?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.6,
+                    0.92
+                ],
+                "question": "In how many years did postwar broadcast coverage in Birmingham begin?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "When did postwar broadcast coverage extend to Birmingham?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.6,
+                    0.95
+                ],
+                "question": "How many years did postwar broadcast coverage extend to Birmingham?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.2,
+                    0.92
+                ],
+                "question": "In how many years did postwar broadcast coverage in Birmingham begin?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.6,
+                    0.92
+                ],
+                "question": "In how many years did broadcast coverage in Birmingham extend following the end of World War II?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many years were there between the opening of the Sutton Coldfield transmitting station and the mid-1950s?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "In what year was the Sutton Coldfield transmitting station opened, and how many years passed until the mid-1950s?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.6,
+                    0.92
+                ],
+                "question": "What is the number of years between the opening of the Sutton Coldfield transmitting station and the mid-1950s?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many years passed between the opening of the Sutton Coldfield transmitting station and the mid-1950s?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.4,
+                    0.92
+                ],
+                "question": "What was the number of years between the opening of the Sutton Coldfield transmitting station and the mid-1950s?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.6,
+                    0.95
+                ],
+                "question": "-How many years passed between the opening of the Sutton Coldfield transmitting station and the mid-1950s?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.4,
+                    0.92
+                ],
+                "question": "-What is the interval in years between the opening of the Sutton Coldfield transmitting station and mid-1950s?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: How many years was there between the opening of Sutton Coldfield transmitting station and the mid-1950s? \nAnswer: There were approximately fourty years between when the Sutton Coldfield transmitting station opened and the mid 1950s."
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.4,
+                    0.92
+                ],
+                "question": "Question: '-What was the number of years between the opening of the Sutton Coldfield transmitting station and the mid-1950s?'\nThe interval between the opening of the Sutton Coldfield transmitting station and the mid-1950s was approximately 30 years."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: 'How many years were there between the opening of the Sutton Coldfield transmitting station and the mid-1950s?'\nThe interval was six years."
+            }
+        ]
+    ],
+    "yesno_variations": [
+        [
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.6,
+                    0.92
+                ],
+                "question": "1. Was coverage of the aftermath of the war extended to Birmingham in 1949?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.4,
+                    0.95
+                ],
+                "question": "1. Did postwar broadcast coverage extend to Birmingham in 1949?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: Did postwar broadcast coverage extend to Birmingham in 1949? \n\nYes, it did."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: Was postwar broadcast coverage in Birmingham extended in 1949? \n\nNo, it wasn't."
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.6,
+                    0.92
+                ],
+                "question": "1. Did postwar broadcast coverage extend to Birmingham in 1949?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: '1. Did postwar broadcast coverage extend to Birmingham in 1949?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.4,
+                    0.95
+                ],
+                "question": "1. Did postwar broadcast coverage extend to Birmingham in 1949?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "1. Did postwar broadcast coverage extend to Birmingham in 1949?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "1. Did broadcast coverage extend to Birmingham in 1949?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.4,
+                    0.95
+                ],
+                "question": "1. Did broadcast coverage extend to Birmingham in 1949?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did the Sutton Coldfield transmitting station open in the middle of the 1950s?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: Did the Sutton Coldfield transmitting station open in the 1950s?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: Did the Sutton Coldfield transmitting station open in the middle of the 1950s? \nYes, it did."
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.4,
+                    0.95
+                ],
+                "question": "2. Was the Sutton Coldfield transmitting station opened in the mid-1950s?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: 'When did the Sutton Coldfield transmitting station open?'\nThe Sutton Coldfield transmitting station opened in the mid-1950s."
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: '2. Did the Sutton Coldfield transmitting station open in the middle of the 1950s?'"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: 'When did the Sutton Coldfield transmitting station open?' The station opened in the mid-1950s."
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: When did the Sutton Coldfield transmitting station open?\nAnswer: The Sutton Coldfield transmitting station opened in the mid-1950s."
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did the Sutton Coldfield transmitting station open in the 1950s?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: '2. Did the Sutton Coldfield transmitting station open in the middle of the 1950s?'"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. By the mid-1950s, was most of the country covered?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "Most of the country was covered by the mid-1950s."
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: What percentage of the country was covered by forests in the mid-1950s?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: 'What percentage of the country was covered by the mid-1950s?'\n\nAccording to the National Wilderness Preservation System website, as of 2014, about 109 million acres, or approximately 4 percent of the United States, are protected as wilderness."
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How much of the country was covered by mid-1950s? \nFrom my understanding, most of the country would mean around 80% so I will say around 80% of the countries were covered by the mid 1950s."
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.2,
+                    0.92
+                ],
+                "question": "3. By the mid-1950s, was most of the country covered?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.2,
+                    0.95
+                ],
+                "question": "In the mid-1950s, was most of the country covered?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: 'By the mid-1950s, was most of the country covered?'\n\nYes, most of the country was covered by the mid-1950s."
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: By the mid-1950s, was most of the country covered? \n\nYes."
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: What percentage of the country was covered by the mid-1950s? \nAnswer: By the mid-1950s, approximately 50% of rural areas in the United States had access to sewers."
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.6,
+                    0.95
+                ],
+                "question": "Did the country transmit an image on VHF that was 405 lines and interlaced?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: '4. Did the country transmit an image with 405 lines on VHF?'"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '4. Did the country transmit an interlaced image on VHF with 405 lines?'"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: '4. Did the country broadcast a 405-line interlaced image on VHF?'"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.8,
+                    0.92
+                ],
+                "question": "4. Did the country transmit an interlaced 405-line image on VHF?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4. Did the country broadcast a 405-line interlaced image on VHF?'"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did the country transmit an image with 405 lines on VHF?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.2,
+                    0.95
+                ],
+                "question": "Is the country transmitting a 405-line interlaced image on VHF? \nI am not sure."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.4,
+                    0.92
+                ],
+                "question": "Question: '4. Did the country transmit an image with 405 interlaced lines on VHF?'"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "Did the country transmit an image on VHF that is 405 lines and interlaced?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.4,
+                    0.92
+                ],
+                "question": "Did postwar broadcast coverage research break new ground?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "Research on broadcast coverage during the postwar period was original."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: Was the research on postwar broadcast coverage original? \nYes, the research was original."
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: '5. Was the research conducted on broadcast coverage original?'"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.2,
+                    0.95
+                ],
+                "question": "Is postwar broadcast coverage research original?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "Is the research on postwar broadcast coverage original?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: Was the postwar broadcast coverage research original?\n\nYes, the postwar broadcast coverage research was quite original."
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.2,
+                    0.92
+                ],
+                "question": "Research into broadcast coverage after the war was original."
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "What was the originality of postwar broadcast coverage research?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.4,
+                    0.92
+                ],
+                "question": "What was the originality of postwar broadcast coverage research?"
+            }
+        ]
+    ]
+}

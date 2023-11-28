@@ -1,0 +1,955 @@
+{
+    "context": "Beyoncé Giselle Knowles-Carter (/biːˈjɒnseɪ/ bee-YON-say) (born September 4, 1981) is an American singer, songwriter, record producer and actress. Born and raised in Houston, Texas, she performed in various singing and dancing competitions as a child, and rose to fame in the late 1990s as lead singer of R&B girl-group Destiny's Child. Managed by her father, Mathew Knowles, the group became one of the world's best-selling girl groups of all time. Their hiatus saw the release of Beyoncé's debut album, Dangerously in Love (2003), which established her as a solo artist worldwide, earned five Grammy Awards and featured the Billboard Hot 100 number-one singles \"Crazy in Love\" and \"Baby Boy\".\n",
+    "count": [
+        "-How many members were in Destiny's Child?",
+        "-How many Grammy Awards did Beyonce win for her album Dangerously in Love?",
+        "-What was the name of Beyonce's first solo album?",
+        "-What were the two number-one singles off of Beyonce's first album?",
+        "-What is Beyonce's middle name?"
+    ],
+    "yesno": [
+        "Did Beyoncé go to college?",
+        "Did Beyoncé release an album in 2003?",
+        "Is Beyoncé from Houston, Texas?",
+        "Was Beyoncé in a girl group?",
+        "What is the name of Beyoncé's debut album?"
+    ],
+    "count_gt": [
+        "unknown",
+        "five",
+        "NaN",
+        "NaN",
+        "NaN"
+    ],
+    "yesno_gt": [
+        "NaN",
+        "yes",
+        "yes",
+        "yes",
+        "NaN"
+    ],
+    "count_variations": [
+        [
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.8,
+                    0.92
+                ],
+                "question": "Answer: The girl group Destiny's Child had four members."
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.8,
+                    0.92
+                ],
+                "question": "Answer: Destiny's Child was a trio."
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "How many people were in Destiny's Child?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many people were in Destiny's Child?\n\nThe group had four members."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many members were in Destiny's Child when it originally formed?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.4,
+                    0.92
+                ],
+                "question": "How many people were in Destiny's Child?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.4,
+                    0.95
+                ],
+                "question": "Answer: The group Destiny's Child consisted of four members."
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.8,
+                    0.92
+                ],
+                "question": "How many members were in Destiny's Child at its peak?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.6,
+                    0.92
+                ],
+                "question": "What was the size of Destiny's Child?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.2,
+                    0.92
+                ],
+                "question": "What was the original line-up of Destiny's Child?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: 'How many Grammy Awards did Beyonce win for her album Dangerously in Love?'\nBeyonce won five Grammy Awards for her album Dangerously in Love."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: 'What is the album Dangerously in Love by Beyonce about?'\nThe album is a mix of R&B, soul, and hip-hop."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: 'How many Grammy Awards did Beyonce win for her album Dangerously in Love?'\nAnswer: five"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.8,
+                    0.92
+                ],
+                "question": "How many Grammy Awards did Beyonce win for her album Dangerously in Love?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.8,
+                    0.92
+                ],
+                "question": "How many Grammy Awards did Beyonce's album Dangerously in Love win?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.2,
+                    0.95
+                ],
+                "question": "What is the number of Grammy Awards that Beyonce won for her album Dangerously in Love?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "What is the total number of Grammy Awards that Beyonce won for her album Dangerously in Love?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.8,
+                    0.92
+                ],
+                "question": "What is the album that won Beyonce her first Grammy?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.8,
+                    0.92
+                ],
+                "question": "How many Grammy Awards did Beyonce win for her album Dangerously in Love?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.2,
+                    0.95
+                ],
+                "question": "How many Grammy Awards did Beyonce's album Dangerously in Love win?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: 'What was the name of Beyonce's first album that she released by herself?'"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.8,
+                    0.92
+                ],
+                "question": "What was the name of Beyonce's first album as a solo artist?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.4,
+                    0.92
+                ],
+                "question": "-What is the name of Beyonce's first solo album?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.6,
+                    0.92
+                ],
+                "question": "What is the name of Beyonce's first solo album?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the name of Beyonce's first solo album?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the name of Beyonce's first solo album?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What was the name of Beyonce's first album as a solo artist?'"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: 'What was the name of Beyonce's first album released as a solo artist?'"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.8,
+                    0.92
+                ],
+                "question": "What was the name of Beyonce's first album that she released by herself?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.2,
+                    0.92
+                ],
+                "question": "What was the name of Beyonce's first album after Destiny's Child?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.4,
+                    0.92
+                ],
+                "question": "Question: What were the two number-one singles off of Beyonce's first album?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.4,
+                    0.92
+                ],
+                "question": "What were the two number-one singles off of Beyonce's album \"Dangerously in Love?\""
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What were the two number-one singles from Beyonce's first album?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.6,
+                    0.95
+                ],
+                "question": "What were the two number-one singles from Beyonce's first album?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.2,
+                    0.92
+                ],
+                "question": "What were the two number-one singles from Beyonce's first album?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: What were the two number-one singles from Beyonce's first album?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: 'What were the two songs that topped the charts from Beyonce's first album?'"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What were the two number-one singles from Beyonce's first album?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.6,
+                    0.95
+                ],
+                "question": "What were the two number-one songs off Beyonce's first album?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.4,
+                    0.92
+                ],
+                "question": "What were the two number-one singles off of Beyonce's first album?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.4,
+                    0.92
+                ],
+                "question": "What is Beyonce's maiden name?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the middle name of Beyonce?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.6,
+                    0.92
+                ],
+                "question": "What is Beyonce's last name?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "-What is Beyonce's maiden name?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.6,
+                    0.95
+                ],
+                "question": "What is Beyonce's maiden name?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: 'What is Beyonce's maiden name?'"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "-What is Beyonce's maiden name?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.2,
+                    0.95
+                ],
+                "question": "What is the middle name of Beyonce?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the middle name of Beyonce?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "What is Beyonce's last name?"
+            }
+        ]
+    ],
+    "yesno_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.2,
+                    0.92
+                ],
+                "question": "Answer: No, Beyoncé did not go to college."
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: 'What is Beyoncé's educational background?'"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: 'Did Beyonce attend college?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: Did Beyoncé attend college?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is Beyoncé a college graduate?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.2,
+                    0.95
+                ],
+                "question": "Is Beyoncé a college graduate?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What is Beyoncé's educational background?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.92
+                ],
+                "question": "No, Beyoncé did not go to college."
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: Did Beyoncé attend college?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.4,
+                    0.95
+                ],
+                "question": "Did Beyoncé receive a college education?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: 'What year did Beyoncé release her first album?'\nBeyoncé released her first album in 2003."
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.4,
+                    0.92
+                ],
+                "question": "Did Beyoncé release an album titled \"Dangerously in Love\" in 2003?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: 'What year did Beyoncé release her first album?' \nBeyoncé released her first album in 2003."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.6,
+                    0.92
+                ],
+                "question": "No, Beyoncé's first album was released in 2003."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.4,
+                    0.95
+                ],
+                "question": "Did Beyoncé release an album titled \"2003\"?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What year did Beyoncé release her first album?' 2003"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.8,
+                    0.95
+                ],
+                "question": "No, Beyoncé's first album was released in 2003."
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: 'What year did Beyoncé release her album?' \n2003"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What year did Beyoncé release her album?'\n2003"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: 'What year did Beyoncé release her album?'\n2003"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "Yes, Beyoncé is from Houston, Texas."
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: Is Beyoncé a native of Houston, Texas?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.4,
+                    0.95
+                ],
+                "question": "No, Beyoncé is from New York City."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Beyoncé is from Houston, Texas, right?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.2,
+                    0.95
+                ],
+                "question": "Is Beyoncé a native of Houston, Texas?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "Yes, Beyoncé Giselle Knowles-Carter was born in Houston, Texas on September 4, 1981."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: Where is Beyoncé from?\nHouston, Texas."
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "What is Beyoncé's hometown?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: 'Is Beyoncé from Houston?'"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: Beyoncé's hometown is Houston, Texas, right?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: What was Beyoncé's first musical group?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.2,
+                    0.92
+                ],
+                "question": "No, Beyoncé was not in a girl group."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.92
+                ],
+                "question": "Did Beyoncé used to be in a girl group?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "Did Beyoncé start her career in a girl group?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: Did Beyoncé start her career in a girl group?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.2,
+                    0.95
+                ],
+                "question": "Is Beyoncé a former member of a girl group?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: Was Beyoncé a member of a girl group? \nYes, she was part of the R&B group Destiny's Child."
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.8,
+                    0.92
+                ],
+                "question": "Did Beyoncé start her career in a girl group?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "No, Beyoncé was not in a girl group."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.4,
+                    0.95
+                ],
+                "question": "Did Beyoncé used to be in a girl group?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: 'What is the name of Beyoncé's first album?'"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.4,
+                    0.92
+                ],
+                "question": "Question: What was the name of Beyoncé's first album?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.8,
+                    0.95
+                ],
+                "question": "What is the title of Beyoncé's first album?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the name of Beyoncé's first album?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "What was the name of Beyoncé's debut album?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "What was the name of Beyoncé's debut album?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What was the name of Beyoncé's first album?'"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.4,
+                    0.92
+                ],
+                "question": "What is the name of Beyoncé's first album?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.4,
+                    0.92
+                ],
+                "question": "What was the name of Beyoncé's debut album?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: 'What was the name of Beyoncé's debut album?'"
+            }
+        ]
+    ]
+}

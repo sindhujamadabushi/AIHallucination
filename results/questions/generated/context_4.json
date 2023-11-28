@@ -1,0 +1,955 @@
+{
+    "context": "In Eastern Christianity heresy most commonly refers to those beliefs declared heretical by the first seven Ecumenical Councils.[citation needed] Since the Great Schism and the Protestant Reformation, various Christian churches have also used the concept in proceedings against individuals and groups those churches deemed heretical. The Orthodox Church also rejects the early Christian heresies such as Arianism, Gnosticism, Origenism, Montanism, Judaizers, Marcionism, Docetism, Adoptionism, Nestorianism, Monophysitism, Monothelitism and Iconoclasm.\n",
+    "count": [
+        "How many Ecumenical Councils were there?",
+        "How many Christian churches are there?",
+        "How many heresies are there?",
+        "How many early Christian heresies are there?",
+        "How many Iconoclasms are there?"
+    ],
+    "yesno": [
+        "Did Eastern Christianity always deem certain beliefs heretical?",
+        "Has the concept of heresy changed since the Great Schism?",
+        "What is the Orthodox Church's stance on early Christian heresies?",
+        "Do all Christian churches see heresy in the same way?",
+        "What happens to individuals and groups deemed heretical by churches?"
+    ],
+    "count_gt": [
+        "seven",
+        "unknown",
+        "twelve",
+        "twelve",
+        "one"
+    ],
+    "yesno_gt": [
+        "yes",
+        "no",
+        "NaN",
+        "no",
+        "NaN"
+    ],
+    "count_variations": [
+        [
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "There were a total of seven Ecumenical Councils."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.6,
+                    0.92
+                ],
+                "question": "There have been seven Ecumenical Councils throughout history."
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.8,
+                    0.92
+                ],
+                "question": "There have been seven Ecumenical Councils."
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'How many Ecumenical Councils have been held?'"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.2,
+                    0.95
+                ],
+                "question": "How many Ecumenical Councils have there been?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.2,
+                    0.92
+                ],
+                "question": "What is the total number of Ecumenical Councils that have taken place throughout history?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.6,
+                    0.92
+                ],
+                "question": "What is the total number of Ecumenical Councils that have been held?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many councils were there in total?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.6,
+                    0.95
+                ],
+                "question": "How many Ecumenical Councils have been held?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What is the total number of Ecumenical Councils?'"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "How many Christian denominations are there?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: 'How many churches are there that consider themselves Christian?'"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: How many different Christian denominations are there?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: How many denominations of Christianity are there?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "How many churches are there that identify as Christian?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.8,
+                    0.95
+                ],
+                "question": "How many churches are there that identify as Christian?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.6,
+                    0.92
+                ],
+                "question": "There are tens of thousands of Christian churches."
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "How many Christian denominations are there?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.6,
+                    0.95
+                ],
+                "question": "There are numerous Christian churches."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.4,
+                    0.92
+                ],
+                "question": "How many churches are there that identify as Christian?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "How many types of heresy are there?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many types of heresy are there?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: 'How many different types of heresy are there?'"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.2,
+                    0.95
+                ],
+                "question": "How many different types of heresy are there?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What is the number of heresies?'"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.2,
+                    0.92
+                ],
+                "question": "How many different types of heresies are there?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: 'How many types of heresy are there?'"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: 'What is the number of heresies?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.92
+                ],
+                "question": "How many types of heresy are there?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: How many different types of heresy are there?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are some early Christian heresies?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.4,
+                    0.92
+                ],
+                "question": "What is the total number of early Christian heresies?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "How many early Christian theological disputes were there?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.2,
+                    0.92
+                ],
+                "question": "What are the early Christian heresies?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "What is the total number of early Christian heresies?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.8,
+                    0.92
+                ],
+                "question": "What are the different early Christian heresies?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.4,
+                    0.92
+                ],
+                "question": "Question: 'How many early Christian sects are there?'"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many different early Christian heresies are there?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.2,
+                    0.95
+                ],
+                "question": "How many early Christian sects were there?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.8,
+                    0.95
+                ],
+                "question": "How many different Christian beliefs were considered heresy during the early years of the religion?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What is the total number of Iconoclasms?'"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: How many times has the act of iconoclasm occurred?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.8,
+                    0.92
+                ],
+                "question": "How many times has the Iconoclast occurred?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How manyIconoclasm events are there?'\n\n an Iconoclast is a person who attacks cherished beliefs or institutions"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many times has the iconoclasm occurred?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: How many times has the destruction of icons been declared?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.2,
+                    0.92
+                ],
+                "question": "How many instances of Iconoclasm are there?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: How many Iconoclastic movements have there been?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.6,
+                    0.95
+                ],
+                "question": "How many religious movements involving the breaking of idols have there been?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: 'How many times has the destruction of icons occurred?'"
+            }
+        ]
+    ],
+    "yesno_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Has Eastern Christianity always deemed certain beliefs heretical?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: 'Has Eastern Christianity always deemed certain beliefs heretical?'"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: Has Eastern Christianity always deemed certain beliefs heretical?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: Has Eastern Christianity always considered certain beliefs to be heretical?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: Has Eastern Christianity always deem certain beliefs heretical?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Was Eastern Christianity always opposed to certain beliefs?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.8,
+                    0.92
+                ],
+                "question": "Is it true that Eastern Christianity has always considered certain beliefs to be heresy?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "Is it true that Eastern Christianity has always considered certain beliefs to be heresy?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.8,
+                    0.92
+                ],
+                "question": "Is it true that Eastern Christianity has always considered some beliefs to be heresy?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.4,
+                    0.92
+                ],
+                "question": "Is it true that Eastern Christianity has always considered certain beliefs to be heresy?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "How has the concept of heresy changed since the Great Schism?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How has the concept of heresy changed since the Great Schism?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "How has the concept of heresy changed since the Great Schism?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: Has the definition of heresy changed since the Great Schism?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.4,
+                    0.95
+                ],
+                "question": "How has the concept of heresy changed since the Great Schism?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.2,
+                    0.92
+                ],
+                "question": "How has the concept of heresy changed since the Great Schism?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.4,
+                    0.92
+                ],
+                "question": "Has the definition of heresy changed since the Great Schism?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: 'What is the concept of heresy and how has it changed since the Great Schism?' \nThe Catholic Church defines heresy as \"the obstinate post-baptismal denial of some truth which must be believed with divine and catholic faith, or it is likewise an"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: Has the definition of heresy changed since the Great Schism?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: Has the definition of heresy changed since the Great Schism?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: What are the Orthodox Church's beliefs regarding early Christian heresies?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "What does the Orthodox Church believe about early Christian heresies?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.6,
+                    0.95
+                ],
+                "question": "What does the Orthodox Church teach about early Christian heresies?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.6,
+                    0.92
+                ],
+                "question": "What are the Orthodox Church's views on early Christian heresies?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.2,
+                    0.95
+                ],
+                "question": "What are the Orthodox Church's beliefs regarding early Christian heresies?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: 'What is the Orthodox Church's view of early Christian heresies?'"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: 'What does the Orthodox Church say about early Christian heresies?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.6,
+                    0.95
+                ],
+                "question": "What does the Orthodox Church believe about early Christian heresies?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.4,
+                    0.92
+                ],
+                "question": "Question: 'What is the Orthodox Church's position on early Christian heresies?'"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.8,
+                    0.92
+                ],
+                "question": "What is the Orthodox Church's position on early Christian heresies?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "What is the Christian churches' stance on heresy?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Do Christian churches all have the same definition of heresy?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Do all Christian churches have the same definition of heresy?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.2,
+                    0.92
+                ],
+                "question": "How do different Christian churches view heresy?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What is the common view of heresy among Christian churches?' Heresy is seen as a rebellion against orthodoxy, or correct belief."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.92
+                ],
+                "question": "Question: 'Do all Christian churches have the same definition of heresy?'"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.6,
+                    0.92
+                ],
+                "question": "Are there different ways that Christian churches view heresy?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.92
+                ],
+                "question": "How do different Christian churches define heresy?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "How do different Christian churches define heresy?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: 'Do all Christian churches have the same definition of heresy?'"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.2,
+                    0.92
+                ],
+                "question": "What are the consequences for individuals and groups who are considered heretical by churches?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.4,
+                    0.92
+                ],
+                "question": "What is the fate of individuals and groups deemed heretical by churches?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: 'What is the fate of individuals and groups deemed heretical by churches?' The usual fate of heretics was excommunication from the Church, but in some cases they were persecuted."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.2,
+                    0.95
+                ],
+                "question": "What are the consequences for individuals and groups that are considered heretical by churches?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.6,
+                    0.92
+                ],
+                "question": "What are the consequences for individuals and groups that are considered heretical by churches?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.6,
+                    0.92
+                ],
+                "question": "What are the consequences for individuals and groups deemed heretical by churches?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What happens to individuals and groups that are considered to be against the orthodox beliefs of the church?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What is the fate of individuals and groups deemed heretical by churches?'\n\nThere is no one answer to this question as different churches have different views on heresy and what should be done about it. Some churches may excommunicate members who are considered heretical, while others"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "What are the consequences for individuals and groups who are considered heretical by churches?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.4,
+                    0.92
+                ],
+                "question": "What are the consequences for individuals and groups who are considered heretical by churches?"
+            }
+        ]
+    ]
+}

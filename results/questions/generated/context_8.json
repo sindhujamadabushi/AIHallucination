@@ -1,0 +1,955 @@
+{
+    "context": "Polytechnics in Singapore provides industry oriented education equivalent to a junior college or sixth form college in the UK. Singapore retains a system similar but not the same as in the United Kingdom from 1970–1992, distinguishing between polytechnics and universities. Unlike the British Polytechnic (United Kingdom) system Singapore Polytechnics do not offer bachelors, masters or PhD degrees. Under this system, most Singaporean students sit for their O-Level examinations after a five years of education in secondary school, and apply for a place at either a technical school termed ITE, a polytechnic or a university-preparatory school (a junior college or the Millennia Institute, a centralized institute). Polytechnic graduates may be granted transfer credits when they apply to local and overseas universities, depending on the overall performance in their grades, as well as the university's policies on transfer credits. A few secondary schools are now offering six-year program which leads directly to university entrance.\n",
+    "count": [
+        "How many polytechnics are in Singapore?",
+        "How many years of education are in a Singaporean secondary school?",
+        "How many O-Level examinations are there?",
+        "How many technical schools are there?",
+        "What is the Millennium Institute?"
+    ],
+    "yesno": [
+        "1. Is Polytechnics in Singapore an industry oriented education?",
+        "2. Does Polytechnics in Singapore offer bachelors, masters or PhD degrees?",
+        "3. How many years of education are in secondary school?",
+        "4. How many years of education are in Polytechnic?",
+        "5. What school is after Polytechnic?"
+    ],
+    "count_gt": [
+        "unknown",
+        "five",
+        "unknown",
+        "unknown",
+        "NaN"
+    ],
+    "yesno_gt": [
+        "yes",
+        "no",
+        "NaN",
+        "NaN",
+        "NaN"
+    ],
+    "count_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.8,
+                    0.95
+                ],
+                "question": "How many technical colleges are in Singapore?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: 'How many institutes of higher learning that offer courses leading to professional qualifications are in Singapore?'"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.4,
+                    0.92
+                ],
+                "question": "How many institutes of higher learning that offer courses leading to professional qualifications are in Singapore?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the total number of polytechnics in Singapore?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: 'How many polytechnics are there in Singapore?'"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: 'How many polytechnics are located in Singapore?'"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: How many polytechnics are there in Singapore?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "How many technical colleges are in Singapore?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.6,
+                    0.95
+                ],
+                "question": "There are five polytechnics in Singapore."
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: 'What is the number of polytechnics in Singapore?' \nThere are five polytechnics in Singapore."
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.2,
+                    0.92
+                ],
+                "question": "In Singapore, how many years of schooling are in a secondary school?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: What is the duration of a secondary education in Singapore?\nAnswer: The duration of a secondary education in Singapore is six years."
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.2,
+                    0.95
+                ],
+                "question": "What is the duration of a typical Singaporean secondary school education in years?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What is the duration of a Singaporean secondary school education?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.8,
+                    0.95
+                ],
+                "question": "What is the duration of a Singaporean secondary school education?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.6,
+                    0.95
+                ],
+                "question": "How long is the educational program for secondary school students in Singapore?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "How many years does a Singaporean secondary school last?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: What is the duration of a Singaporean secondary school education in years?\n\nA typical Singaporean secondary school education lasts for 6 years."
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: 'What is the length of secondary education in Singapore?'\nThe typical length of secondary education in Singapore is six years."
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.6,
+                    0.92
+                ],
+                "question": "How many years does a Singaporean secondary school last?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.8,
+                    0.92
+                ],
+                "question": "There are a total of eleven O-Level examinations."
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.8,
+                    0.95
+                ],
+                "question": "How many exams are there in the O-Levels?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many subjects are there in an O-Level examination?'"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.2,
+                    0.95
+                ],
+                "question": "What is the number of O-Level examinations?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "What is the number of O-Level examinations?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.4,
+                    0.92
+                ],
+                "question": "How many exams are in the O-Levels?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.2,
+                    0.92
+                ],
+                "question": "What is the total number of O-Level examinations?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.6,
+                    0.95
+                ],
+                "question": "What is the number of O-Level examinations?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.6,
+                    0.92
+                ],
+                "question": "How many O-Level courses are there?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: 'How many exams are in the O-Level curriculum?'"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.92
+                ],
+                "question": "How many vocational schools are there?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.2,
+                    0.95
+                ],
+                "question": "How many schools offer trade and technical programs?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.4,
+                    0.92
+                ],
+                "question": "How many vocational schools are there?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.4,
+                    0.92
+                ],
+                "question": "How many technical colleges are there?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "How many vocational or trade schools are there?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "How many vocational schools are there?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: 'What is the total number of technical schools?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "How many schools offer technical education?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.6,
+                    0.95
+                ],
+                "question": "What is the total number of technical schools?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "How many schools offer technical programs?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: 'What does the Millennium Institute do?'"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "What is the Millennium Institute's mission?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.6,
+                    0.95
+                ],
+                "question": "What is the meaning of the Millennium Institute?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.4,
+                    0.95
+                ],
+                "question": "The Millennium Institute is a think tank that produces research to help guide development policymaking."
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the purpose of the Millennium Institute?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.4,
+                    0.92
+                ],
+                "question": "What is the Millennium Institute's purpose?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: 'What is the meaning of the Millennium Institute?'\nThe Millennium Institute is a non-profit organization that uses systems thinking to help society transition to sustainability."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.2,
+                    0.92
+                ],
+                "question": "What is the Millennium Institute's purpose?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.2,
+                    0.92
+                ],
+                "question": "What is the Millennium Institute's purpose?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "The Millennium Institute is a 501(c)(3) non-profit organization that promotes sustainable development."
+            }
+        ]
+    ],
+    "yesno_variations": [
+        [
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.4,
+                    0.92
+                ],
+                "question": "Question: '1. Is Polytechnics in Singapore an education that is focused on industry?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.6,
+                    0.95
+                ],
+                "question": "1. Is the education at Singapore Polytechnics geared towards industry?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: '1. Is the curriculum at Polytechnics in Singapore industry oriented?'"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: '1. Does Polytechnics in Singapore offer industry-oriented education?'"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: Is Polytechnics in Singapore an education that focuses on industry?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.8,
+                    0.92
+                ],
+                "question": "1. Is the focus of Polytechnics in Singapore oriented towards industry?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: Is an education at a Polytechnic in Singapore focused on developing skills for industrial work?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.6,
+                    0.92
+                ],
+                "question": "1. Are Polytechnics in Singapore focused on providing an education that prepares students for careers in specific industries?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: '1. Does Polytechnics in Singapore offer an industry-oriented education?'"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "1. Is the education at Polytechnics in Singapore focused on preparing students for careers in industry?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.6,
+                    0.92
+                ],
+                "question": "What are the degree programmes offered by Polytechnics in Singapore?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: What type of degrees does Polytechnics in Singapore offer? \nPolytechnics in Singapore offers bachelors, masters and PhD degrees."
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.2,
+                    0.92
+                ],
+                "question": "What is the highest level of education offered by Polytechnics in Singapore?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.4,
+                    0.95
+                ],
+                "question": "What degrees does Polytechnics in Singapore offer?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "Do Polytechnics in Singapore offer any degrees beyond a diploma?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "What type of degrees does Polytechnics in Singapore offer?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.6,
+                    0.92
+                ],
+                "question": "2. Are there any polytechnics in Singapore that offer bachelors, masters or PhD degrees?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What types of degrees does Polytechnics in Singapore offer?'\n\nPolytechnics in Singapore typically offer diploma and degree programs."
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.4,
+                    0.92
+                ],
+                "question": "Does Polytechnics in Singapore offer any bachelor's, master's, or PhD degrees?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.4,
+                    0.92
+                ],
+                "question": "Does Polytechnics in Singapore offer any degrees beyond the diploma level?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.8,
+                    0.92
+                ],
+                "question": "In the United States, how many years of schooling are in secondary school?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.6,
+                    0.92
+                ],
+                "question": "How many years of education are required for secondary school?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.2,
+                    0.95
+                ],
+                "question": "How many years does it take to complete secondary school?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.6,
+                    0.92
+                ],
+                "question": "In most countries, secondary school includes grades 9-12. So in order to calculate the number of years of education in secondary school, you would take the average number of years spent in each grade (4) and multiply it by the number of grades in secondary school (9-12)."
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: 'How many years of education are in secondary school?'"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.8,
+                    0.95
+                ],
+                "question": "How many years is secondary school?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.6,
+                    0.92
+                ],
+                "question": "In how many years does one complete secondary school?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.4,
+                    0.92
+                ],
+                "question": "In the United States, how many years of education are in secondary school?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.6,
+                    0.95
+                ],
+                "question": "How many years of education are in high school?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What is the duration of secondary schooling in years?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "How long is the Polytechnic program?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.8,
+                    0.92
+                ],
+                "question": "What is the duration of a Polytechnic program?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What is the duration of a Polytechnic education?' The duration of a Polytechnic education is 4 years."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.92
+                ],
+                "question": "Question: 'What is the education requirements for Polytechnic?'\n\nPolytechnic usually requires 3 GCE ‘A’ level passes and at least 5 SPM credits in relevant subjects."
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.2,
+                    0.95
+                ],
+                "question": "How many years does it take to complete a Polytechnic education?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.6,
+                    0.95
+                ],
+                "question": "How many years of education are in a Polytechnic program?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.2,
+                    0.95
+                ],
+                "question": "How many years of schooling are in Polytechnic?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.92
+                ],
+                "question": "What is the Polytechnic education duration in years?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "How many years does it take to complete a Polytechnic education?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the duration of a Polytechnic education in years?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.2,
+                    0.92
+                ],
+                "question": "What is the school after Polytechnic?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: What school comes after Polytechnic?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.6,
+                    0.92
+                ],
+                "question": "What school comes after Polytechnic?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.4,
+                    0.92
+                ],
+                "question": "What school is after Polytechnic Institute?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.4,
+                    0.92
+                ],
+                "question": "What is the next school after Polytechnic?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: What school do you go to after Polytechnic?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.2,
+                    0.95
+                ],
+                "question": "What school is after Polytechnic Institute?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.8,
+                    0.92
+                ],
+                "question": "What is the next school after Polytechnic?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.4,
+                    0.92
+                ],
+                "question": "Question: '5. What school comes after Polytechnic?'"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What school is after Polytechnic?"
+            }
+        ]
+    ]
+}

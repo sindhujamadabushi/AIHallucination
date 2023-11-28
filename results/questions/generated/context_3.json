@@ -1,0 +1,955 @@
+{
+    "context": "Many rescue teams, including that of the Taipei Fire Department from Taiwan, were reported ready to join the rescue effort in Sichuan as early as Wednesday. However, the Red Cross Society of China said that (on May 13) \"it was inconvenient currently due to the traffic problem to the hardest hit areas closest to the epicenter.\" The Red Cross Society of China also stated that the disaster areas need tents, medical supplies, drinking water and food; however it recommended donating cash instead of other items, as it had not been possible to reach roads that were completely damaged or places that were blocked off by landslides. Landslides continuously threatened the progress of a search and rescue group of 80 men, each carrying about 40 kg of relief supplies, from a motorized infantry brigade under commander Yang Wenyao, as they tried to reach the ethnically Tibetan village of Sier at a height of 4000 m above sea level in Pingwu county. The extreme terrain conditions precluded the use of helicopter evacuation, and over 300 of the Tibetan villagers were stranded in their demolished village for five days without food and water before the rescue group finally arrived to help the injured and stranded villagers down the mountain.\n",
+    "count": [
+        "How many teams were reported ready to join the rescue effort?",
+        "How many men were in the search and rescue group?",
+        "How many kg of relief supplies did each man carry?",
+        "What was the height of the Tibetan village above sea level?",
+        "How many days were the Tibetan villagers stranded without food and water?"
+    ],
+    "yesno": [
+        "1. Is the Red Cross Society of China willing to accept donations of tents, medical supplies, drinking water, and food?",
+        "2. Is the Red Cross Society of China only willing to accept cash donations?",
+        "3. Did a search and rescue group from a motorized infantry brigade under commander Yang Wenyao reach the ethnically Tibetan village of Sier?",
+        "4. Were over 300 of the Tibetan villagers stranded in their demolished village for five days without food and water?",
+        "5. Was helicopter evacuation not an option due to the extreme terrain conditions?"
+    ],
+    "count_gt": [
+        "unknown",
+        "eighty",
+        "forty",
+        "four-thousand",
+        "five"
+    ],
+    "yesno_gt": [
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "no"
+    ],
+    "count_variations": [
+        [
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.2,
+                    0.95
+                ],
+                "question": "How many teams were deployed to the rescue effort?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.2,
+                    0.92
+                ],
+                "question": "How many teams were willing to join the rescue effort?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.8,
+                    0.95
+                ],
+                "question": "How many teams were prepared to join the rescue effort?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many teams were reported to be ready to join the rescue effort?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.6,
+                    0.92
+                ],
+                "question": "How many teams were prepared to join the rescue effort?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.6,
+                    0.92
+                ],
+                "question": "How many teams were deployed to join the rescue effort?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many teams were available to join the rescue effort?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "How many teams were available to join the rescue effort?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.8,
+                    0.95
+                ],
+                "question": "How many teams were expected to join the rescue effort?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.8,
+                    0.92
+                ],
+                "question": "How many teams were available to join the rescue effort?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people were in the search and rescue group?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "How many members were in the search and rescue group?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.92
+                ],
+                "question": "How many people were in the search and rescue group?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: How many members were in the search and rescue group?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people were in the search and rescue group?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.6,
+                    0.95
+                ],
+                "question": "How many members were in the search and rescue group?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "How many people were in the search and rescue group?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "How many people were in the search and rescue group?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.6,
+                    0.92
+                ],
+                "question": "How many members were in the search and rescue group?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people were in the search and rescue group?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.4,
+                    0.92
+                ],
+                "question": "How much did each man carry in kg?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.2,
+                    0.92
+                ],
+                "question": "How much did each man carry in kg?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.4,
+                    0.92
+                ],
+                "question": "How many relief supplies did each man carry?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.4,
+                    0.92
+                ],
+                "question": "How much did each man carry in kg?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: 'How many kilograms of relief supplies did each man carry?'"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: How many relief supplies did each man carry?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: 'How much did each man carry in terms of relief supplies?'"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.4,
+                    0.95
+                ],
+                "question": "How much did each man carry in kg?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.8,
+                    0.92
+                ],
+                "question": "How much did each man carry in kg?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.2,
+                    0.95
+                ],
+                "question": "How much did each man carry in kg?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.2,
+                    0.95
+                ],
+                "question": "What was the village's altitude above sea level?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.6,
+                    0.95
+                ],
+                "question": "At what elevation does the Tibetan village lie?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "What was the altitude of the Tibetan village above sea level?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.6,
+                    0.95
+                ],
+                "question": "What was the altitude of the Tibetan village above sea level?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.8,
+                    0.95
+                ],
+                "question": "What was the elevation of the Tibetan village?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.4,
+                    0.92
+                ],
+                "question": "Question: At what elevation was the Tibetan village located?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "What was the elevation of the Tibetan village?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: What was the altitude of the Tibetan village?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.2,
+                    0.92
+                ],
+                "question": "What is the altitude of the Tibetan village?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.6,
+                    0.92
+                ],
+                "question": "What was the elevation of the Tibetan village above sea level?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.92
+                ],
+                "question": "Question: How many days did the Tibetan villagers go without food and water?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.6,
+                    0.95
+                ],
+                "question": "How long were the Tibetan villagers stranded without food and water?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.4,
+                    0.92
+                ],
+                "question": "How many days did the Tibetan villagers go without food and water?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.8,
+                    0.92
+                ],
+                "question": "How long were the Tibetan villagers stranded without food and water?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.2,
+                    0.95
+                ],
+                "question": "How many days did the Tibetan villagers go without food and water?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.2,
+                    0.95
+                ],
+                "question": "How many days did the Tibetan villagers go without food and water?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.2,
+                    0.95
+                ],
+                "question": "How many days did the Tibetan villagers go without food and water?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: 'For how many days were the Tibetan villagers stranded without food and water?'\n\nThe Tibetan villagers were stranded for three days without food and water."
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.6,
+                    0.92
+                ],
+                "question": "How many days were the Tibetan villagers without food and water?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: 'For how many days were the Tibetan villagers stranded without food and water?'"
+            }
+        ]
+    ],
+    "yesno_variations": [
+        [
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.4,
+                    0.92
+                ],
+                "question": "Is the Red Cross Society of China willing to accept donations in the form of tents, medical supplies, drinking water, and food?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.2,
+                    0.92
+                ],
+                "question": "1. Would the Red Cross Society of China be willing to accept donations of tents, medical supplies, drinking water, and food?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "1. Would the Red Cross Society of China be willing to accept donations of tents, medical supplies, drinking water, and food?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Would the Red Cross Society of China be willing to accept donations of tents, medical supplies, drinking water, and food?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Is the Red Cross Society of China open to accepting donations of tents, medical supplies, drinking water, and food?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.2,
+                    0.95
+                ],
+                "question": "1. Would the Red Cross Society of China be willing to accept donations of tents, medical supplies, drinking water, and food?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "1. Would the Red Cross Society of China be willing to accept donations of tents, medical supplies, drinking water, and food?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is the Red Cross Society of China open to donations of tents, medical supplies, drinking water, and food?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.2,
+                    0.92
+                ],
+                "question": "1. Does the Red Cross Society of China accept donations of tents, medical supplies, drinking water, and food?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.4,
+                    0.95
+                ],
+                "question": "Does the Red Cross Society of China accept donations of tents, medical supplies, drinking water, and food?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.4,
+                    0.95
+                ],
+                "question": "Does the Red Cross Society of China only accept cash donations?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.2,
+                    0.92
+                ],
+                "question": "Does the Red Cross Society of China only accept cash donations?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "Are the Red Cross Society of China only willing to accept cash donations?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: '2. Can I only donate cash to the Red Cross Society of China?'\n\nNo, you can also donate items such as clothes or blood."
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: Is the Red Cross Society of China only accepting cash donations? \nYes, at this time the Red Cross Society of China is only able to accept cash donations."
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: Is the Red Cross Society of China willing to only accept cash donations? \nNo, the organization is open to accepting in-kind donations as well."
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.4,
+                    0.92
+                ],
+                "question": "Question: '2. Does the Red Cross Society of China prefer cash donations?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.4,
+                    0.92
+                ],
+                "question": "Question: '2. Does the Red Cross Society of China prefer cash donations?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: Does the Red Cross Society of China only accept cash donations? \nNo, the organization is willing to accept other forms of donations as well."
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "Is the Red Cross Society of China only able to accept cash donations?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did a search and rescue group from a motorized infantry brigade, under the commander Yang Wenyao, reach the ethnically Tibetan village of Sier?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: '3. Did a search and rescue group from a motorized infantry brigade under commander Yang Wenyao reach the village of Sier?'"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '3. Did a search and rescue group from a motorized infantry brigade under the command of Yang Wenyao reach the ethnically Tibetan village of Sier?'"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: '3. Did a search and rescue group from a motorized infantry brigade under commander Yang Wenyao reach the village of Sier?'"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: '3. Did a search and rescue group from a motorized infantry brigade under Commander Yang Wenyao reach the ethnically Tibetan village of Sier?'\n\nYes, a search and rescue group from a motorized infantry brigade under Commander Yang Wenyao did reach the ethn"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "Did a search and rescue group from a motorized infantry brigade, under commander Yang Wenyao, reach the ethnically Tibetan village of Sier?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: '3. Did a search and rescue group from a motorized infantry brigade under commander Yang Wenyao reach the village of Sier?'"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.4,
+                    0.92
+                ],
+                "question": "Question: '3. Did a search and rescue group from a motorized infantry brigade under the command of Yang Wenyao reach the ethnically Tibetan village of Sier?'"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.2,
+                    0.95
+                ],
+                "question": "Did a search and rescue group from a motorized infantry brigade under Commander Yang Wenyao reach the ethnically Tibetan village of Sier?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: '3. Did a search and rescue group from a motorized infantry brigade under Commander Yang Wenyao reach the ethnically Tibetan village of Sier?'"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.4,
+                    0.92
+                ],
+                "question": "Question: '4. Over 300 Tibetan villagers were stranded in their demolished village for five days without food and water, correct?'"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.8,
+                    0.95
+                ],
+                "question": "Were the over 300 Tibetan villagers who were stranded in their demolished village for five days without food and water?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.6,
+                    0.95
+                ],
+                "question": "4. Did more than 300 Tibetan villagers spend five days without food and water after their village was destroyed?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4. Did over 300 of the Tibetan villagers spend five days without food and water after their village was demolished?'"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.4,
+                    0.92
+                ],
+                "question": "Question: Were more than 300 Tibetan villagers stranded in their demolished village for five days without food and water?\n\nYes, over 300 Tibetan villagers were stranded in their demolished village for five days without food and water."
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: '4. Were over 300 of the Tibetan villagers left stranded in their demolished village for five days without food and water?'\n\nYes, over 300 Tibetan villagers were left stranded in their demolished village for five days without food and water."
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: More than 300 Tibetan villagers were stranded for five days without food and water after their village was demolished, correct?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Were more than 300 Tibetan villagers stranded in their demolished village for five days without food and water?\n\nYes, over 300 Tibetan villagers were stranded in their demolished village for five days without food and water."
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: '4. Over 300 Tibetan villagers were stranded in their demolished village for five days without food and water, correct?'"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: Were more than 300 Tibetan villagers stranded in their demolished village for five days without food and water?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: 'Wasn't helicopter evacuation an option due to the extreme terrain conditions?'\nNo, helicopter evacuation was not an option due to the extreme terrain conditions."
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.4,
+                    0.95
+                ],
+                "question": "Would helicopter evacuation not have been an option due to the extreme terrain conditions?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '5. Could a helicopter not evacuate due to the extreme terrain conditions?'\n\nNo, a helicopter could not have evacuated due to the extreme terrain conditions."
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.6,
+                    0.95
+                ],
+                "question": "Was it not possible to evacuate by helicopter due to the extreme terrain conditions?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.92
+                ],
+                "question": "Was it not possible to evacuate by helicopter due to the extreme terrain conditions?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: Could a helicopter not be used to evacuate the area due to extreme terrain conditions?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: Could a helicopter not land due to the extreme terrain conditions?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: Could a helicopter not evacuate people due to the extreme terrain conditions?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is helicopter evacuation not an option due to the extreme terrain conditions?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.6,
+                    0.92
+                ],
+                "question": "5. Would helicopter evacuation not have been an option due to the extreme terrain conditions?"
+            }
+        ]
+    ]
+}

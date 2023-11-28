@@ -1,0 +1,955 @@
+{
+    "context": "Reports on the Delhi relay were similarly distinct. Despite intended torchbearers Kiran Bedi, Soha Ali Khan, Sachin Tendulkar and Bhaichung Bhutia all withdrawing from the event, the official Chinese website for the relay reported \"Indian torchbearers vow to run for spirit of Olympics\", and quoted torchbearers Manavjit Singh Sandhu, Abhinav Bindra, Ayaan Ali Khan and Rajinder Singh Rahelu all stating that sports and politics should not be mixed.\n",
+    "count": [
+        "1) How many intended torchbearers withdrew from the Delhi relay?",
+        "2) How many torchbearers were quoted on the official Chinese website?",
+        "3) What was the stated reason for the withdrawal of the intended torchbearers?",
+        "4) How many torchbearers ran for the spirit of the Olympics?",
+        "5) How many torchbearers stated that sports and politics should not be mixed?"
+    ],
+    "yesno": [
+        "1. Do you think the Delhi relay went well?",
+        "2. Were all of the intended torchbearers able to participate?",
+        "3. Did the official Chinese website for the relay have positive things to say about it?",
+        "4. Do you think sports and politics should be mixed?",
+        "5. Do you think the torchbearers did a good job?"
+    ],
+    "count_gt": [
+        "four",
+        "four",
+        "NaN",
+        "four",
+        "four"
+    ],
+    "yesno_gt": [
+        "NaN",
+        "no",
+        "no",
+        "NaN",
+        "NaN"
+    ],
+    "count_variations": [
+        [
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.2,
+                    0.92
+                ],
+                "question": "1) How many people who were supposed to carry the torch withdrew from the Delhi relay?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: '1) How many people who were supposed to carry the torch withdrew from the Delhi relay?'"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.2,
+                    0.95
+                ],
+                "question": "How many people who were supposed to carry the torch in Delhi withdrew from the event?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.6,
+                    0.95
+                ],
+                "question": "How many people who were supposed to carry the torch in Delhi withdrew from the event?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.2,
+                    0.92
+                ],
+                "question": "1) How many torchbearers withdrew from the Delhi relay?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.6,
+                    0.95
+                ],
+                "question": "1) How many torchbearers who were intended to participate withdrew from the Delhi relay?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.4,
+                    0.92
+                ],
+                "question": "1) How many people who were supposed to carry torches in the Delhi relay withdrew from the event?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: 'How many torchbearers withdrew from the Delhi relay?'"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.6,
+                    0.95
+                ],
+                "question": "How many torchbearers who were originally supposed to carry the torch withdrew from the Delhi relay?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.4,
+                    0.92
+                ],
+                "question": "Question: How many people who were supposed to carry torches in the Delhi relay withdrew?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: 'How many torchbearers were quoted on the official Chinese website?'"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.4,
+                    0.92
+                ],
+                "question": "How many torchbearers were mentioned on the official Chinese website?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many torchbearers were mentioned on the official Chinese website?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.2,
+                    0.92
+                ],
+                "question": "How many torchbearers were mentioned on the official Chinese website?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: '2) According to the official Chinese website, how many torchbearers were quoted?'"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: '2) How many torchbearers were quoted in the official Chinese article?'"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.8,
+                    0.92
+                ],
+                "question": "How many torchbearers were quoted on the official Chinese website?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many torchbearers were quoted on the official Chinese website?'\nAnswer: The official Chinese website quoted 100 torchbearers."
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: How many torchbearers were mentioned on the official Chinese website?\n\nWe could not find an answer to this question."
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.2,
+                    0.95
+                ],
+                "question": "How many torchbearers were quoted on the official Chinese website?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: 'What was the reason given for the withdrawal of the intended torchbearers?'"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: '3) What was the reason given for why the torchbearers withdrew?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: 'What was the reason given for why the torchbearers were withdrawn?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.2,
+                    0.95
+                ],
+                "question": "3) Why were the intended torchbearers withdrawn?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.2,
+                    0.92
+                ],
+                "question": "What was the reason given for why the torchbearers were withdrawn?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.2,
+                    0.95
+                ],
+                "question": "What was the reason given for why the torchbearers pulled out?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: '3) Why were the intended torchbearers withdrawn?'"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.4,
+                    0.92
+                ],
+                "question": "What was the reason given for why the torchbearers withdrew?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: 'What was the reason given for the torchbearers withdrawing?'"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the reason given for the withdrawal of the intended torchbearers?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "How many athletes ran with the Olympic torch?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: How many torchbearers ran with the Olympic flame?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4) How many torchbearers ran with the spirit of the Olympics?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many torchbearers ran with the spirit of the Olympics?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "How many people carried a torch for the Olympics?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.2,
+                    0.92
+                ],
+                "question": "How many runners carried the torch for the spirit of the Olympics?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.6,
+                    0.95
+                ],
+                "question": "How many people ran with torches for the spirit of the Olympics?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: How many athletes carried the Olympic torch?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '4) How many people ran with the Olympic torch?'"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'How many people carried torches for the spirit of the Olympics?'"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: 'How many torchbearers believe that sports and politics should remain separate?'"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: '5) How many torchbearers said that sports and politics should not be mixed?'"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: '5) How many torchbearers think that sports and politics should be kept separate?'"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.4,
+                    0.92
+                ],
+                "question": "5) How many torchbearers said that sports and politics shouldn't be mixed?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.6,
+                    0.92
+                ],
+                "question": "How many torchbearers said that they believe sports and politics should be kept separate?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: '5) How many torchbearers think that sports and politics should not be mixed?'"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.2,
+                    0.95
+                ],
+                "question": "How many torchbearers believe that sports and politics should be kept separate?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: '5) How many torchbearers believe that sports and politics should remain separate?'"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.8,
+                    0.92
+                ],
+                "question": "How many torchbearers believe that sports and politics should not be mixed?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "How many torchbearers think that sports and politics should not be mixed?"
+            }
+        ]
+    ],
+    "yesno_variations": [
+        [
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.4,
+                    0.95
+                ],
+                "question": "Do you think the Delhi race went well?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.2,
+                    0.95
+                ],
+                "question": "1. Do you think the Delhi race went well?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.8,
+                    0.92
+                ],
+                "question": "1. How do you think the Delhi relay went?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.2,
+                    0.92
+                ],
+                "question": "1. Do you think the Delhi race went well?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.6,
+                    0.92
+                ],
+                "question": "Did you think the Delhi relay went well?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.4,
+                    0.92
+                ],
+                "question": "1. Did you think the Delhi relay went well?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.6,
+                    0.95
+                ],
+                "question": "Answer: Yes, I believe that the Delhi relay went well."
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.2,
+                    0.92
+                ],
+                "question": "Did you think the Delhi relay went well?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.8,
+                    0.92
+                ],
+                "question": "Do you think the Delhi relay was successful?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.4,
+                    0.95
+                ],
+                "question": "Did you think the Delhi relay went well?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: '2. Did all of the intended torchbearers participate?'\nYes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.8,
+                    0.92
+                ],
+                "question": "Did all of the torchbearers that were supposed to participate, end up participating?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.8,
+                    0.92
+                ],
+                "question": "2. Did all of the intended torchbearers participate?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: '2. Did all of the intended torchbearers participate?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.4,
+                    0.92
+                ],
+                "question": "Question: '2. Did all of the intended torchbearers participate?'\nYes, all of the intended torchbearers were able to participate."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "Were all of the torchbearers that were supposed to participate able to do so?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.4,
+                    0.95
+                ],
+                "question": "Did all of the intended torchbearers participate?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.6,
+                    0.95
+                ],
+                "question": "Were all of the torchbearers that were supposed to participate able to do so?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: Were all of the torchbearers who were supposed to participate able to do so?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did all of the intended torchbearers participate?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: '3. What did the official Chinese website say about the relay?'"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did the official Chinese website for the relay have positive reviews? \nAnswer: Yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.4,
+                    0.95
+                ],
+                "question": "Is there anything positive that the official Chinese website has to say about the relay?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. What were the Chinese officials' thoughts on the website for the relay?'"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did the Chinese official website for the relay have positive feedback?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: '3. Did the official Chinese website for the relay have anything positive to say about it?'"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.2,
+                    0.92
+                ],
+                "question": "3. Did the official Chinese website for the relay have anything positive to say about it?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: '3. Did the official Chinese website for the relay have any positive comments about it?'"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.8,
+                    0.92
+                ],
+                "question": "Is the official Chinese website for the relay positive?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "3. Did the official Chinese website for the relay have positive sentiment?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: Should sports and politics be mixed?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "Should sports and politics be kept separate?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Do you think that sports and politics should be kept separate?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: Do you think politics and sports should mix?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: Do you think it is appropriate to mix sports and politics?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.4,
+                    0.95
+                ],
+                "question": "Is it your opinion that sports and politics should be combined?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "Should sports and politics be kept separate?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.4,
+                    0.92
+                ],
+                "question": "Do you think politics and sports should be intertwined?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "Do you think it is appropriate to mix sports and politics?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "Do you think that there should be a separation between sports and politics?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "Do you think the torchbearers did a good job?"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "Do you believe the torchbearers performed their role admirably?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.2,
+                    0.92
+                ],
+                "question": "5. How do you feel about the torchbearers' performance?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "Do you think the torchbearers did a good job?"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: '5. How well do you think the torchbearers did?'"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.6,
+                    0.95
+                ],
+                "question": "Do you think the torchbearers did a good job?"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.8,
+                    0.92
+                ],
+                "question": "Did you think the torchbearers did a good job?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "Do you think the torchbearers did a good job?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: In your opinion, did the torchbearers perform their duties satisfactorily?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.2,
+                    0.92
+                ],
+                "question": "Do you think the torchbearers did a good job?"
+            }
+        ]
+    ]
+}
