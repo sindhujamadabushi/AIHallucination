@@ -5,15 +5,15 @@
         "2. What was the percentage of GDP that public expenditure on health constituted in 2012?", 
         "3. What was the HIV/AIDS prevalence among 15- to 49-year-olds in 2012?", 
         "4. How much was health expenditure per capita in the early 2000s?", 
-        "5. How many physicians were there per 100,000 persons in the early 2000s?
-    "], 
+        "5. How many physicians were there per 100,000 persons in the early 2000s?"
+    ],
     "yesno": [
         "1. Was public expenditure health at 8.9% of the GDP in 2004?", 
         "2. Was private expenditure at 1.3% of the GDP in 2004?", 
         "3. Was the HIV/AIDS prevalence at 2.8% among 15- to 49-year-olds in 2012?", 
         "4. Was health expenditure at US$30 per capita in 2004?", 
-        "5. Was a large proportion of the population undernourished in Congo-Brazzaville?
-    "],
+        "5. Was a large proportion of the population undernourished in Congo-Brazzaville?"
+    ],
     "count_gt": [
         "one point three",
         "eight point nine",
