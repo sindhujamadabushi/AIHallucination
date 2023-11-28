@@ -1,7 +1,7 @@
-import json
+import json, os
 from answerGenerator import generate_answers
 from evaluationMetrics import llm_selfevaluation, bert_score
-from loadDataset import read_all_json_files, call_gpt_api
+from loadDataset import read_all_json_files
 
 def evaluate_llmevaluation(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -69,16 +69,92 @@ def evaluate_bert_score(file_path):
 
 
 all_data = read_all_json_files('../results/questions/generated/')
+output_directory = ('../results/questions/generated2/')
 
 for i, dataset in enumerate(all_data):
     context = dataset['context']
     count_questions = dataset['count']
     yesno_questions = dataset['yesno']
 
-    dataset['count_variations'] = [[] for _ in count_questions]
-    dataset['yesno_variations'] = [[] for _ in yesno_questions]
+    print("Context ", i)
 
-    for idx, question in enumerate(count_questions):
-        evaluate_llmevaluation('../results/questions/generated/context.json')
-    for idx, question in enumerate(yesno_questions):
-        evaluate_bert_score('../results/questions/generated/test_context.json')
+    for idx, question_list in dataset['count_variations']:
+        gt_answer = dataset['count_gt'][idx]
+
+        print("  Count ", idx)
+
+        for dict_idx, question_dict in question_list:
+            print("    Dict idx ", dict_idx)
+            question = question_dict['question']
+            answer = generate_answers(context, question)
+            llm_selfevaluation_out = llm_selfevaluation(context, gt_answer, answer)
+            bert_score_output = bert_score(gt_answer, answer)
+
+            try:
+                # print('enter try')
+                if int(llm_selfevaluation_out) < 7:
+                    question_dict['llmevaluation'] = 'no'
+                else:
+                    question_dict['llmevaluation'] = 'yes'
+
+            except:
+                print('cannot convert to int')
+                question_dict['llmevaluation'] = 'N'
+
+            try:
+                # print('enter try')
+                if float(bert_score_output) < 0.5:
+                    question_dict['bertscore'] = 'no'
+                else:
+                    question_dict['bertscore'] = 'yes'
+
+            except:
+                print('cannot convert to int')
+                question_dict['bertscore'] = 'N'
+
+    for idx, question_list in enumerate(yesno_questions):
+
+        print("  Yesno ", idx)
+        gt_answer = dataset['yesno_gt'][idx]
+
+        for dict_idx, question_dict in question_list:
+            print("    Dict idx ", dict_idx)
+
+            question = question_dict['question']
+            answer = generate_answers(context, question)
+            llm_selfevaluation_out = llm_selfevaluation(context, gt_answer, answer)
+            bert_score_output = bert_score(gt_answer, answer)
+
+            try:
+                # print('enter try')
+                if int(llm_selfevaluation_out) < 7:
+                    question_dict['llmevaluation'] = 'no'
+                else:
+                    question_dict['llmevaluation'] = 'yes'
+
+            except:
+                print('cannot convert to int')
+                question_dict['llmevaluation'] = 'N'
+
+            try:
+                # print('enter try')
+                if float(bert_score_output) < 0.5:
+                    question_dict['bertscore'] = 'no'
+                else:
+                    question_dict['bertscore'] = 'yes'
+
+            except:
+                print('cannot convert to int')
+                question_dict['bertscore'] = 'N'
+
+        # print("Finish yesno")
+
+    # Generate a filename for each dataset
+    output_filename = f"context_{i}.json"
+    output_path = os.path.join(output_directory, output_filename)
+
+    # Save the dataset with generated questions to a JSON file
+    with open(output_path, 'w', encoding='utf-8') as json_file:
+        json.dump(dataset, json_file, ensure_ascii=False, indent=4)
+
+    # print("Finish saving")

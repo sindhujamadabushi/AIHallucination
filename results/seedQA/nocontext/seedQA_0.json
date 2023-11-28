@@ -3,11 +3,11 @@
     "count": [
         {
             "question": "-How many members were in Destiny's Child?",
-            "answer": "Three"
+            "answer": "There were four members in Destiny's Child."
         },
         {
             "question": "-How many Grammy Awards did Beyonce win for her album Dangerously in Love?",
-            "answer": "Beyonc\u00e9 won five Grammy Awards for her album Dangerously in Love."
+            "answer": "Grammy Awards won: five"
         },
         {
             "question": "-What was the name of Beyonce's first solo album?",
@@ -15,11 +15,11 @@
         },
         {
             "question": "-What were the two number-one singles off of Beyonce's first album?",
-            "answer": "The two number-one singles were \"Crazy in Love\" and \"Baby Boy.\""
+            "answer": "\"Crazy in Love\" and \"Baby Boy\""
         },
         {
             "question": "-What is Beyonce's middle name?",
-            "answer": "Beyonce's middle name is Giselle."
+            "answer": "Her middle name is \"Giselle.\""
         }
     ],
     "yesno": [
@@ -29,7 +29,7 @@
         },
         {
             "question": "Did Beyonc\u00e9 release an album in 2003?",
-            "answer": "Yes, she released her album \"Dangerously in Love.\""
+            "answer": "Beyonc\u00e9's first album was released in 2003."
         },
         {
             "question": "Is Beyonc\u00e9 from Houston, Texas?",
@@ -41,7 +41,7 @@
         },
         {
             "question": "What is the name of Beyonc\u00e9's debut album?",
-            "answer": "This Is Why We Can't Have Nice Things"
+            "answer": "Dangerously in Love"
         }
     ]
 }

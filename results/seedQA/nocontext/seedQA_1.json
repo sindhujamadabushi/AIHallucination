@@ -3,45 +3,45 @@
     "count": [
         {
             "question": "1) How many pupils did Chopin have?",
-            "answer": "Chopin had four pupils."
+            "answer": "He had around 20 pupils."
         },
         {
             "question": "2) How many concerts did Chopin give in Paris?",
-            "answer": "At least four."
+            "answer": "Chopin gave 35 concerts in Paris."
         },
         {
             "question": "3) How many movements were in the Cello Sonata Op. 65?",
-            "answer": "There are three movements in the Cello Sonata Op. 65."
+            "answer": "Four movements."
         },
         {
             "question": "4) How much money did Chopin struggle to make?",
-            "answer": "Chopin struggled to make money."
+            "answer": "Chopin made very little money."
         },
         {
             "question": "5) How many February 1848s were there?",
-            "answer": "There is only one February 1848."
+            "answer": "There can only be one February 1848."
         }
     ],
     "yesno": [
         {
             "question": "1. Did Chopin's popularity as a virtuoso begin to decline in the 1830s?",
-            "answer": "Yes, his popularity declined."
+            "answer": "No, it didn't."
         },
         {
             "question": "2. Did the number of Chopin's pupils also start to decrease during this time?",
-            "answer": "No, the number of pupils increased."
+            "answer": "Yes, it decreased."
         },
         {
             "question": "3. Was Chopin's financial situation worsened by the political instability of the 1840s?",
-            "answer": "Yes, Chopin's financial situation was worsened by the political instability of the 1840s."
+            "answer": "Yes, it was."
         },
         {
             "question": "4. Did Chopin give his last Paris concert in February 1848?",
-            "answer": "No."
+            "answer": "No, Chopin's final concert was in 1848."
         },
         {
             "question": "5. Did the program for this final concert include the Cello Sonata Op. 65?",
-            "answer": "No, it did not."
+            "answer": "No."
         }
     ]
 }

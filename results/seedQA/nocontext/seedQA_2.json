@@ -3,15 +3,15 @@
     "count": [
         {
             "question": "How many religious leaders were preoccupied with an overriding concern for dealing with the powerful secular Rinpungpa princes?",
-            "answer": "One."
+            "answer": "None."
         },
         {
             "question": "How many princes of Rinbung occupied Lhasa?",
-            "answer": "Five"
+            "answer": "Five."
         },
         {
             "question": "How many abbots of Drigung Monastery threatened Lhasa?",
-            "answer": "Five"
+            "answer": "Around five."
         },
         {
             "question": "How many times was Gend\u00fcn Gyatso forced to abandon the Drepung Monastery?",
@@ -19,21 +19,21 @@
         },
         {
             "question": "How many years was the Gelug given rights to conduct the New Years prayer?",
-            "answer": "18 years"
+            "answer": "The Gelug given rights to conduct the New Years prayer for five years."
         }
     ],
     "yesno": [
         {
             "question": "1. Did the Association for Asian Studies state that there is evidence to suggest that later leaders of the Gelug had contacts with Ming China?",
-            "answer": "Yes."
+            "answer": "No evidence was found."
         },
         {
             "question": "2. Did Gend\u00fcn Drup and Gend\u00fcn Gyatso have an overriding concern for dealing with secular Rinpungpa princes?",
-            "answer": "No"
+            "answer": "religious Rinpungpa princes"
         },
         {
             "question": "3. Was the authority of the Rinpungpa leaders simple?",
-            "answer": "No, the Rinpungpa leaders had a complex authority structure."
+            "answer": "No, it was not simple."
         },
         {
             "question": "4. Was it 1518 when the secular Phagmodru ruler captured Lhasa from the Rinbung?",
@@ -41,7 +41,7 @@
         },
         {
             "question": "5. Was Gend\u00fcn Gyatso forced to abandon the Drepung Monastery when the Drikung Kagyu abbot threatened Lhasa?",
-            "answer": "No, Gend\u00fcn Gyatso was not forced."
+            "answer": "No"
         }
     ]
 }
