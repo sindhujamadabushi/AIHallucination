@@ -48,7 +48,7 @@ def llm_selfevaluation(ground_truth, answer):
     response = client.completions.create(
         model="text-davinci-002",
         # prompt=f"Score the following summary given the corresponding context with respect to consistency from 1 to 10. Note that consistency measures how much information in the ground truth is present in the answer. 10 points indicate the answer contains the ground truth. Ground Truth: {ground_truth}\nAnswer: {answer}\nScore:",
-        prompt=f"Determine if the information in the ground truth is present in the answer. Output 'yes' or 'no'. Only output one word.",
+        prompt=f"Given the corresponding context, tell me if the answer is consistent with the ground truth. Note that consistency measures how much information in the ground truth is present in the answer. Answer has to be a 'yes' or 'no'.",
         max_tokens = 10
     )
     score = response.choices[0].text.strip().split("\\n")
