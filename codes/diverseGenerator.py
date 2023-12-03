@@ -3,7 +3,7 @@ import json
 import os
 import random
 
-from loadDataset import LoadDataset  # Import the QADataset class from qa_dataset.py
+from loadDataset import LoadDataset  
 
 class DiverseQuestionGenerator:
     def __init__(self, dataset_directory):
@@ -34,10 +34,6 @@ class DiverseQuestionGenerator:
                 dataset['count_variations'][idx].extend(diversified_count_questions)
 
             print("Finish count")
-
-            # print(len(diversified_count_questions))
-            # print(len(dataset['count_variations']))
-            # print(len(dataset['count_variations'][0]))
 
             # Generate diverse questions for yes/no questions
             for idx, question in enumerate(yesno_questions):
@@ -83,12 +79,7 @@ class DiverseQuestionGenerator:
             top_p = random.choice([0.92, 0.95])
             paraphrased_questions.append({'parameters': (T, FP, PP, top_p), 'question': self.paraphrase_question(question, T, FP, PP, top_p)})
 
-
-        # print(paraphrased_questions)
-        # print(len(paraphrased_questions))
-
         return paraphrased_questions
-
 
 if __name__ == '__main__':
     # Assuming the JSON files are located in '../results/questions/context/'

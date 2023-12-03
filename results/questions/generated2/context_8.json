@@ -1,0 +1,1155 @@
+{
+    "context": "After graduating from high school, West received a scholarship to attend Chicago's American Academy of Art in 1997 and began taking painting classes, but shortly after transferred to Chicago State University to study English. He soon realized that his busy class schedule was detrimental to his musical work, and at 20 he dropped out of college to pursue his musical dreams. This action greatly displeased his mother, who was also a professor at the university. She later commented, \"It was drummed into my head that college is the ticket to a good life... but some career goals don't require college. For Kanye to make an album called College Dropout it was more about having the guts to embrace who you are, rather than following the path society has carved out for you.\"\n",
+    "count": [
+        "How many painting classes did West take at the American Academy of Art?",
+        "How many years was West's mother a professor at the university?",
+        "How many times was it 'drummed into [West's] head that college is the ticket to a good life?'",
+        "At what age did West drop out of college?",
+        "What was the name of West's first album?"
+    ],
+    "yesno": [
+        "1) Did West graduate from high school?",
+        "2) Did West receive a scholarship to attend the American Academy of Art?",
+        "3) Did West transfer to Chicago State University to study English?",
+        "4) Did West drop out of college to pursue his musical dreams?",
+        "5) Was West's mother a professor at the university?"
+    ],
+    "count_gt": [
+        "unknown",
+        "unknown",
+        "zero",
+        "twenty",
+        "NaN"
+    ],
+    "yesno_gt": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ],
+    "count_variations": [
+        [
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: How many painting classes did West take at the American Academy of Art?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: 'What is the number of painting classes West took at the American Academy of Art?'\n\nWest took four painting classes at the American Academy of Art.",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.4,
+                    0.95
+                ],
+                "question": "West took a total of four painting classes at the American Academy of Art.",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.4,
+                    0.92
+                ],
+                "question": "Question: 'How many painting classes did West take at the American Academy of Art?'\n\nAnswer: West took four painting classes at the American Academy of Art.",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'How many painting classes did West take at the American Academy of Art?'\n\nAnswer: Between four and five.",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.6,
+                    0.95
+                ],
+                "question": "How many painting classes did West take at the American Academy of Arts?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.8,
+                    0.92
+                ],
+                "question": "How many painting classes did West take at the American Academy of Arts?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.4,
+                    0.92
+                ],
+                "question": "How many painting classes did West take at the American Academy of Art?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: How many painting classes did West take at the American Academy of Art?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "How many painting classes did West take at the American Academy of Fine Arts?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: How many years did West's mother work as a professor at the university?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.4,
+                    0.92
+                ],
+                "question": "How many years did West's mother teach at the university?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "How long was West's mother a professor at the university?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "How many years was it that West's mother was a professor at the university?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.2,
+                    0.95
+                ],
+                "question": "How long was West's mother a professor at the university?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: West's mother was a professor at the university for how many years? \nAnswer:West's mother was a professor at the university for 18 years.",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: How long was West's mother a professor at the university?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: For how many years was West's mother a professor at the university?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What is West's mother's profession?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is West's mother's profession?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "How many times was West told that college is the key to success?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many times was it emphasized to West that college is the key to a successful life?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.4,
+                    0.95
+                ],
+                "question": "In how many different ways was it communicated to West that going to college would lead to a good life?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: How many times was West told that college is the key to success?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: West was told how important college is for success many times.",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many times did people tell West that going to college is the key to success?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: West was told multiple times that college is the key to a successful life.",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.4,
+                    0.92
+                ],
+                "question": "How many times was it said to West that college is the key to a good life?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.6,
+                    0.92
+                ],
+                "question": "How often did West's family tell him that college is the key to success?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "How many times did West's parents tell him that college is the key to a successful future?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: What was West's age when he dropped out of college?",
+                "llmevaluation": "yes",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.6,
+                    0.95
+                ],
+                "question": "At what age did West leave college?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.4,
+                    0.92
+                ],
+                "question": "At which age did West drop out of college?",
+                "llmevaluation": "yes",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: West dropped out of college at what age?",
+                "llmevaluation": "yes",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "At what age did West leave college?",
+                "llmevaluation": "yes",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.2,
+                    0.95
+                ],
+                "question": "What was the age at which West dropped out of college?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "What was the age at which West dropped out of college?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.8,
+                    0.92
+                ],
+                "question": "How old was West when they left college?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the age of West when he dropped out of college?",
+                "llmevaluation": "yes",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "What was the age at which West dropped out of college?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: 'What is the name of West's first album?'",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What was the name of West's debut album?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.2,
+                    0.92
+                ],
+                "question": "What was the title of West's first album?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: 'What is the name of West's first album?'",
+                "llmevaluation": "yes",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Answer: 'West's first album was The College Dropout.'",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What was the name of the first album West released?",
+                "llmevaluation": "yes",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What is the name of West's first album?'\n\nWest's first album was titled The College Dropout.",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: 'What is the name of West's first album?'",
+                "llmevaluation": "yes",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "Answer: West's first album was 'The College Dropout.'",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: 'What was the title of West's first album?'",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            }
+        ]
+    ],
+    "yesno_variations": [
+        [
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: 1) What is West's highest level of education?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "Did West finish high school?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.2,
+                    0.95
+                ],
+                "question": "1) Did West graduate high school?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: West, did he graduate from high school?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.4,
+                    0.95
+                ],
+                "question": "1) Did West complete high school?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.2,
+                    0.92
+                ],
+                "question": "Did West complete high school?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.4,
+                    0.92
+                ],
+                "question": "1) Did West complete high school?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) Did West finish high school?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.6,
+                    0.92
+                ],
+                "question": "1) Did West receive a high school diploma?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.6,
+                    0.92
+                ],
+                "question": "Did West finish high school?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.8,
+                    0.92
+                ],
+                "question": "Do you know if West received a scholarship to attend the American Academy of Art?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.4,
+                    0.92
+                ],
+                "question": "West received a scholarship to attend the American Academy of Art, correct?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did West receive a scholarship to attend the American Academy of Art?\n\nNo, West did not receive a scholarship to attend the American Academy of Art.",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.8,
+                    0.92
+                ],
+                "question": "2) Did West receive a scholarship to attend the American Academy of Dramatic Arts?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.4,
+                    0.92
+                ],
+                "question": "Did West receive a scholarship for the American Academy of Art?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.8,
+                    0.92
+                ],
+                "question": "Did West receive a scholarship to attend the American Academy of Art?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '2) Did West receive a scholarship to attend the American Academy of Art?'\nNo, he did not.",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did West receive financial aid to attend the American Academy of Art?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "West received a scholarship to attend the American Academy of Art, did they not?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: Did West receive a scholarship to attend the American Academy of Art?\nYes, West received a scholarship to attend the American Academy of Art.",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: 3) Did West transfer to Chicago State University in order to study English?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did West transfer to Chicago State University to pursue a degree in English?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.4,
+                    0.95
+                ],
+                "question": "3) Did West transfer universities to study English?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.4,
+                    0.92
+                ],
+                "question": "Question: West transferred to Chicago State University to study English, correct?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did West transfer to Chicago State University to study English literature?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '3) Why did West transfer to Chicago State University?'\n\nWest transferred to Chicago State University so that they could study English.",
+                "llmevaluation": "yes",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "West transferred to Chicago State University to study English, didn't they?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "Did West transfer to Chicago State University in order to study English?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: West transferred to Chicago State University to study English, correct?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.4,
+                    0.92
+                ],
+                "question": "Question: '3) Did West transfer universities to study English?'",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What made West decide to leave college and pursue a career in music?'",
+                "llmevaluation": "yes",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.2,
+                    0.92
+                ],
+                "question": "Did West leave college to follow his musical aspirations?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: Did West drop out of college to pursue his musical career?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.6,
+                    0.92
+                ],
+                "question": "Did West abandon his college education to pursue his musical goals?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: 'What made West drop out of college?'\n\nWest dropped out of college to pursue his musical dreams.",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: Did West leave college to follow his musical aspirations?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: 'What made West decide to leave college and pursue music instead?'",
+                "llmevaluation": "yes",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.4,
+                    0.95
+                ],
+                "question": "Did West drop out of college to focus on his musical career?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "Do you know if West dropped out of college to pursue his musical dreams?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: Did West drop out of college to pursue a career in music?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.4,
+                    0.95
+                ],
+                "question": "Does West's mother work as a professor at the university?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.4,
+                    0.92
+                ],
+                "question": "Was West's mother a teacher at the university?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.6,
+                    0.92
+                ],
+                "question": "Is West's mother a professor at the university?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: '5) Did West's mother teach at the university?'",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: West's mother--was she a professor at the university?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: Did West's mother teach at the university? \nYes, she was a professor at the university.",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.6,
+                    0.95
+                ],
+                "question": "Was West's mother employed as a professor at the university?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.4,
+                    0.92
+                ],
+                "question": "Was West's mother a professor at any university?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.6,
+                    0.92
+                ],
+                "question": "Does West's mother work at the university as a professor?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "5) Did West's mother teach at the university?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            }
+        ]
+    ]
+}

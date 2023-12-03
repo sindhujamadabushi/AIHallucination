@@ -3,37 +3,37 @@
     "count": [
         {
             "question": "How many religious leaders were preoccupied with an overriding concern for dealing with the powerful secular Rinpungpa princes?",
-            "answer": "None."
+            "answer": "Few."
         },
         {
             "question": "How many princes of Rinbung occupied Lhasa?",
-            "answer": "Five."
+            "answer": "There were five Rinbung princes who occupied Lhasa."
         },
         {
             "question": "How many abbots of Drigung Monastery threatened Lhasa?",
-            "answer": "Around five."
+            "answer": "Five."
         },
         {
             "question": "How many times was Gend\u00fcn Gyatso forced to abandon the Drepung Monastery?",
-            "answer": "At least four times."
+            "answer": "Gend\u00fcn Gyatso was forced to abandon the Drepung Monastery five times."
         },
         {
             "question": "How many years was the Gelug given rights to conduct the New Years prayer?",
-            "answer": "The Gelug given rights to conduct the New Years prayer for five years."
+            "answer": "fourteen"
         }
     ],
     "yesno": [
         {
             "question": "1. Did the Association for Asian Studies state that there is evidence to suggest that later leaders of the Gelug had contacts with Ming China?",
-            "answer": "No evidence was found."
+            "answer": "No evidence exists."
         },
         {
             "question": "2. Did Gend\u00fcn Drup and Gend\u00fcn Gyatso have an overriding concern for dealing with secular Rinpungpa princes?",
-            "answer": "religious Rinpungpa princes"
+            "answer": "No, they did not."
         },
         {
             "question": "3. Was the authority of the Rinpungpa leaders simple?",
-            "answer": "No, it was not simple."
+            "answer": "No."
         },
         {
             "question": "4. Was it 1518 when the secular Phagmodru ruler captured Lhasa from the Rinbung?",
@@ -41,7 +41,7 @@
         },
         {
             "question": "5. Was Gend\u00fcn Gyatso forced to abandon the Drepung Monastery when the Drikung Kagyu abbot threatened Lhasa?",
-            "answer": "No"
+            "answer": "Yes"
         }
     ]
 }

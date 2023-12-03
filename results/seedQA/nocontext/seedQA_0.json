@@ -7,7 +7,7 @@
         },
         {
             "question": "-How many Grammy Awards did Beyonce win for her album Dangerously in Love?",
-            "answer": "Grammy Awards won: five"
+            "answer": "Beyonce won five Grammy Awards for her album Dangerously in Love."
         },
         {
             "question": "-What was the name of Beyonce's first solo album?",
@@ -19,17 +19,17 @@
         },
         {
             "question": "-What is Beyonce's middle name?",
-            "answer": "Her middle name is \"Giselle.\""
+            "answer": "Beyonce's middle name is Giselle."
         }
     ],
     "yesno": [
         {
             "question": "Did Beyonc\u00e9 go to college?",
-            "answer": "No, Beyonc\u00e9 did not go to college."
+            "answer": "No, she didn't go to college."
         },
         {
             "question": "Did Beyonc\u00e9 release an album in 2003?",
-            "answer": "Beyonc\u00e9's first album was released in 2003."
+            "answer": "No, Beyonc\u00e9 did not release an album in 2003."
         },
         {
             "question": "Is Beyonc\u00e9 from Houston, Texas?",

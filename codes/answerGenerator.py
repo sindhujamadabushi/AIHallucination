@@ -2,11 +2,10 @@ import json
 import os
 from openai import OpenAI
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="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")
 def generate_answers(context, question):
     context_part = f"Context: {context}\n" if context else "Context: \n"
-    prompt = f"{context_part}Question: {question}\nAnswer:\nAnswer should not be more than five words."
-    
+    prompt = f"Based on the following context, answer the given question: {context_part}Question: {question}\nAnswer:\n Answer should not be more than one word."   
     response = client.completions.create(model="text-davinci-002",
     prompt=prompt,
     max_tokens=150)
@@ -51,8 +50,8 @@ input_file_path_context = '../results/questions/context/'
 input_file_path_nocontext = '../results/questions/nocontext/'  
 output_file_path_context = '../results/seedQA/context/'
 output_file_path_nocontext = '../results/seedQA/nocontext/'  
-num_contexts = 5 #arg
-iscontext = False #arg
+num_contexts = 1 #arg
+iscontext = True #arg
 
 if iscontext:
     for i in range(num_contexts):

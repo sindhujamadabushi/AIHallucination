@@ -1,6 +1,6 @@
 import json, os
 from answerGenerator import generate_answers
-from evaluationMetrics import llm_selfevaluation, bert_score
+from evaluationMetrics import llm_selfevaluation, exact_match
 from loadDataset import LoadDataset
 
 def evaluate_llmevaluation(file_path):
@@ -11,12 +11,10 @@ def evaluate_llmevaluation(file_path):
     for question_type in ['count_variations', 'yesno_variations']:
         for question_dicts in data[question_type]:
             for question_dict in question_dicts:
-                # print(question_dict)
                 answer = generate_answers(data["context"], question_dict["question"])
                 question_dict['answer'] = answer
                 llm_evaluation = llm_selfevaluation(data["context"], question_dict["question"], answer)
                 try:
-                    # print('enter try')
                     if int(llm_evaluation) < 7:
                         question_dict['llmevaluation'] = 'no'
                     else:
@@ -25,17 +23,11 @@ def evaluate_llmevaluation(file_path):
                 except:
                     print('cannot convert to int')
                     question_dict['llmevaluation'] = 'N'
-    # if 'yes' in llm_evaluation or 'YES' in llm_evaluation or 'Yes' in llm_evaluation:
-    #     return 'yes'
-    # if 'no' in llm_evaluation or 'NO' in llm_evaluation or 'No' in llm_evaluation:
-    #     return 'no'
-
     with open('out.json', 'w', encoding='utf-8') as file:
         json.dump(data, file, indent=4)
     return
 
-
-def evaluate_bert_score(file_path):
+def evaluate_exact_match(file_path):
     with open('out.json', 'r', encoding='utf-8') as file:
         file_content = file.read()
         data = json.loads(file_content)
@@ -49,20 +41,16 @@ def evaluate_bert_score(file_path):
             for question_dict in subarray:
                 subarray_index = find_subarray_index(question_dict['question'], data[question_type])
                 gt_answer = data[gt_key][subarray_index] if subarray_index is not None else None
-                # print("gt_answer: ",gt_answer)
-                # print("question_dict: ",question_dict['answer'])
                 if gt_answer is not None:
-                    question_dict['bertscore'] = bert_score(gt_answer, question_dict['answer'])
+                    question_dict['exact_match'] = exact_match(gt_answer, question_dict['answer'])
                 try:
-                    # print('enter try')
-                    if float(bert_score(gt_answer, question_dict['answer'])) < 0.5:
-                        question_dict['bertscore'] = 'no'
+                    if float(exact_match(gt_answer, question_dict['answer'])) == 'yes':
+                        question_dict['exact_match'] = 'yes'
                     else:
-                        question_dict['bertscore'] = 'yes'
-                        
+                        question_dict['exact_match'] = 'no'      
                 except:
                     print('cannot convert to int')
-                    question_dict['bertscore'] = 'N'
+                    question_dict['exact_match'] = 'N'
 
     with open(file_path, 'w', encoding='utf-8') as file:
         json.dump(data, file, indent=4)
@@ -88,10 +76,9 @@ for i, dataset in enumerate(all_data):
             question = question_dict['question']
             answer = generate_answers(context, question)
             llm_selfevaluation_out = llm_selfevaluation(context, gt_answer, answer)
-            bert_score_output = bert_score(gt_answer, answer)
+            exact_match_output = exact_match(gt_answer, answer)
 
             try:
-                # print('enter try')
                 if int(llm_selfevaluation_out) < 7:
                     question_dict['llmevaluation'] = 'no'
                 else:
@@ -102,15 +89,14 @@ for i, dataset in enumerate(all_data):
                 question_dict['llmevaluation'] = 'N'
 
             try:
-                # print('enter try')
-                if float(bert_score_output) < 0.5:
-                    question_dict['bertscore'] = 'no'
+                if float(exact_match_output) == 'yes':
+                    question_dict['exact_match'] = 'yes'
                 else:
-                    question_dict['bertscore'] = 'yes'
+                    question_dict['exact_match'] = 'no'
 
             except:
                 print('cannot convert to int')
-                question_dict['bertscore'] = 'N'
+                question_dict['exact_match'] = 'N'
 
     for idx, question_list in enumerate(dataset['yesno_variations']):
 
@@ -123,7 +109,7 @@ for i, dataset in enumerate(all_data):
             question = question_dict['question']
             answer = generate_answers(context, question)
             llm_selfevaluation_out = llm_selfevaluation(context, gt_answer, answer)
-            bert_score_output = bert_score(gt_answer, answer)
+            exact_match_output = exact_match(gt_answer, answer)
 
             try:
                 # print('enter try')
@@ -138,14 +124,14 @@ for i, dataset in enumerate(all_data):
 
             try:
                 # print('enter try')
-                if float(bert_score_output) < 0.5:
-                    question_dict['bertscore'] = 'no'
+                if float(exact_match_output) == 'yes':
+                    question_dict['exact_match'] = 'no'
                 else:
-                    question_dict['bertscore'] = 'yes'
+                    question_dict['exact_match'] = 'yes'
 
             except:
                 print('cannot convert to int')
-                question_dict['bertscore'] = 'N'
+                question_dict['exact_match'] = 'N'
 
         # print("Finish yesno")
 

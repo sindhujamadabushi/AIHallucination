@@ -1,0 +1,1155 @@
+{
+    "context": "The major architectural undertakings were the buildings of abbeys and cathedrals. From about 900 CE onwards, the movements of both clerics and tradesmen carried architectural knowledge across Europe, resulting in the pan-European styles Romanesque and Gothic.\n",
+    "count": [
+        "1. How many abbeys were built?",
+        "2. How many cathedrals were built?",
+        "3. How many Romanesque architectural styles are there?",
+        "4. How many Gothic architectural styles are there?",
+        "5. How many European countries have knowledge of Romanesque and Gothic architecture?"
+    ],
+    "yesno": [
+        "1) Did abbeys and cathedrals use pan-European styles?",
+        "2) Were Romanesque and Gothic popular among architects?",
+        "3) Did knowledge of architecture spread quickly across Europe?",
+        "4) Were there many major architectural projects during this time period?",
+        "5) Was this a time of innovation in architecture?"
+    ],
+    "count_gt": [
+        "unknown",
+        "unknown",
+        "two",
+        "unknown",
+        "unknown"
+    ],
+    "yesno_gt": [
+        "no",
+        "unknown",
+        "yes",
+        "yes",
+        "yes"
+    ],
+    "count_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "How many abbeys were constructed?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many abbeys were constructed?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.2,
+                    0.95
+                ],
+                "question": "How many abbeys were erected?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.2,
+                    0.95
+                ],
+                "question": "How many monasteries were built?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: '1. How many abbeys were constructed?'",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.8,
+                    0.95
+                ],
+                "question": "How many abbeys were constructed?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.6,
+                    0.92
+                ],
+                "question": "How many abbeys were constructed?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: How many abbeys were constructed?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.8,
+                    0.92
+                ],
+                "question": "How many abbeys were constructed?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many abbeys were constructed?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "How many cathedrals were constructed?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.2,
+                    0.95
+                ],
+                "question": "How many churches were built in the Gothic style?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: 'How many cathedrals were constructed?'",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.92
+                ],
+                "question": "How many cathedrals were constructed?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: 'How many cathedrals were built?'",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "How many churches were built in the form of a cathedral?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.2,
+                    0.92
+                ],
+                "question": "How many cathedrals have been built?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.4,
+                    0.92
+                ],
+                "question": "Question: '2. How many cathedrals were constructed?'",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: How many cathedrals were constructed?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: '2. How many cathedrals were constructed?'",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many different Romanesque architectural styles are there?'\nAnswer: There are four main types of Romanesque architecture.",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.4,
+                    0.92
+                ],
+                "question": "Question: 'What are the different Romanesque architectural styles?'",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: 'How many different Romanesque architectural styles are there?'",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.6,
+                    0.92
+                ],
+                "question": "How many different Romanesque architectural styles are there?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.2,
+                    0.95
+                ],
+                "question": "How many different Romanesque architectural styles are there?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: 'What are the different Romanesque architectural styles?'\n\nThere are four main Romanesque architectural styles: Norman, Lombardic, Rhenish, and Byzantine.",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What are the different Romanesque architectural styles?'",
+                "llmevaluation": "yes",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "How many different Romanesque architectural styles are there?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.4,
+                    0.92
+                ],
+                "question": "Question: 'What are the different Romanesque architectural styles?'",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "What are the three main Romanesque architectural styles?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.6,
+                    0.92
+                ],
+                "question": "What are the different Gothic architectural styles?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.4,
+                    0.92
+                ],
+                "question": "How many Gothic architectural styles are there in total?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What are the different Gothic architectural styles?'",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "How many different Gothic architectural styles are there?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many different Gothic architectural styles are there?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What are the different Gothic architectural styles?'",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.2,
+                    0.95
+                ],
+                "question": "How many different Gothic architectural styles are there?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.8,
+                    0.95
+                ],
+                "question": "How many different Gothic architectural styles are there?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.6,
+                    0.95
+                ],
+                "question": "How many different Gothic architectural styles are there?",
+                "llmevaluation": "yes",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.8,
+                    0.95
+                ],
+                "question": "How many different Gothic architectural styles are there?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.2,
+                    0.92
+                ],
+                "question": "How many European countries have knowledge of Romanesque and Gothic architecture?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.2,
+                    0.95
+                ],
+                "question": "In how many European countries is Romanesque and Gothic architecture known?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.4,
+                    0.95
+                ],
+                "question": "What countries in Europe have knowledge of Romanesque and Gothic architecture?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What is the percentage of European countries that have knowledge of Romanesque and Gothic architecture?'",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.6,
+                    0.92
+                ],
+                "question": "In how many European countries is Romanesque and Gothic architecture known?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.2,
+                    0.92
+                ],
+                "question": "What is the percentage of European countries that have knowledge of Romanesque and Gothic architecture?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.6,
+                    0.95
+                ],
+                "question": "What is the number of European countries that have knowledge of Romanesque and Gothic architecture?",
+                "llmevaluation": "N",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.8,
+                    0.92
+                ],
+                "question": "How many European countries are familiar with Romanesque and Gothic architecture?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.6,
+                    0.92
+                ],
+                "question": "How many countries in Europe have knowledge of Romanesque and Gothic architecture?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "What is the percentage of European countries that have knowledge of Romanesque and Gothic architecture?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            }
+        ]
+    ],
+    "yesno_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.6,
+                    0.95
+                ],
+                "question": "1) Did abbeys and cathedrals in different parts of Europe use similar styles?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) Did abbeys and cathedrals use styles that were common throughout Europe?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.4,
+                    0.92
+                ],
+                "question": "Question: What architectural styles were used by abbeys and cathedrals in Europe?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.6,
+                    0.92
+                ],
+                "question": "1) Did abbeys and cathedrals in different parts of Europe use similar styles?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "1) Did the styles of abbeys and cathedrals come from all over Europe?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: What architectural styles were used in abbeys and cathedrals across Europe? \nAnswer: Gothic",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: 1) Did abbeys and cathedrals use the same styles as other places in Europe?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.2,
+                    0.95
+                ],
+                "question": "1) Did the styles used in abbeys and cathedrals come from all over Europe?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "1) Did abbeys and cathedrals use styles that were popular throughout Europe?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "1) Did the styles of abbeys and cathedrals vary throughout Europe?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.6,
+                    0.95
+                ],
+                "question": "2) Did Romanesque and Gothic architecture styles gain popularity among architects?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What were the most popular architectural styles during the Romanesque and Gothic periods?'\nThe two most popular architectural styles during the Romanesque period were Romanesque and Gothic.",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What were the most popular architectural styles during the Romanesque and Gothic periods?'\n\nThe two most popular architectural styles during the Romanesque and Gothic periods were Romanesque and Gothic.",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: 'What were the most popular architectural styles during the Romanesque and Gothic periods?'\n\nThe most popular architectural styles during the Romanesque and Gothic periods were Romanesque and Gothic.",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: 'What were the most popular architectural styles during the Romanesque and Gothic periods?'\n\nBoth Romanesque and Gothic architecture were popular among architects during their respective periods.",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: What were the most popular architectural styles during the Romanesque and Gothic periods?\n\nThe two most popular architectural styles during the Romanesque and Gothic periods were Romanesque and Gothic.",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.6,
+                    0.92
+                ],
+                "question": "What were the most popular styles among architects during the Romanesque and Gothic periods?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 2) What was the popularity of Romanesque and Gothic among architects?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.4,
+                    0.95
+                ],
+                "question": "2) Were Romanesque and Gothic styles of architecture popular among architects?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.92
+                ],
+                "question": "2) Did Romanesque and Gothic styles gain popularity among architects?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.4,
+                    0.92
+                ],
+                "question": "3) How did knowledge of architecture spread across Europe?",
+                "llmevaluation": "yes",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.2,
+                    0.92
+                ],
+                "question": "How did knowledge of architecture spread across Europe?",
+                "llmevaluation": "yes",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.4,
+                    0.92
+                ],
+                "question": "3) How did knowledge of architecture spread across Europe?",
+                "llmevaluation": "yes",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: '3) How did knowledge of architecture spread quickly across Europe?'",
+                "llmevaluation": "yes",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.8,
+                    0.92
+                ],
+                "question": "3) Was there a quick dissemination of architectural knowledge throughout Europe?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.8,
+                    0.95
+                ],
+                "question": "How did architecture knowledge spread across Europe?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: 'How quickly did knowledge of architecture spread across Europe?'",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '3) Did architects travel to different parts of Europe to share their knowledge?'",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.4,
+                    0.95
+                ],
+                "question": "Did knowledge of architecture spread quickly throughout Europe?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: Did the knowledge of architecture spread quickly across Europe?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What were some of the major architectural projects during this time period?",
+                "llmevaluation": "yes",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: How many major architectural projects were there during this time period?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.4,
+                    0.92
+                ],
+                "question": "Question: How many major architectural projects were there during this time period?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: 'What were some of the most notable architectural feats during this time period?'",
+                "llmevaluation": "yes",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What were some of the most notable architectural projects during this time period?'",
+                "llmevaluation": "yes",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: '4) Did this time period see many major architectural projects?'",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: 'What were some of the most notable architectural projects during this time period?'",
+                "llmevaluation": "yes",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: '4) Were there many important architectural projects during this time period?'",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.2,
+                    0.95
+                ],
+                "question": "How many major architectural projects were there during this time period?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.6,
+                    0.92
+                ],
+                "question": "What were some of the major architectural projects during this time period?",
+                "llmevaluation": "yes",
+                "bertscore": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: '5) Was there a lot of innovation in architecture during this time?'",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: Was there a lot of innovation in architecture during this time period?",
+                "llmevaluation": "yes",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: What innovations in architecture were present during this time period?",
+                "llmevaluation": "yes",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: Was there a lot of innovation in architecture during this time period?",
+                "llmevaluation": "yes",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "Is this a time of innovation in architecture?",
+                "llmevaluation": "yes",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.2,
+                    0.92
+                ],
+                "question": "Was there a lot of innovation in architecture during this time period?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.2,
+                    0.95
+                ],
+                "question": "Yes, this was a time of innovation in architecture.",
+                "llmevaluation": "yes",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: Was there much innovation in architecture during this time period?",
+                "llmevaluation": "yes",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: '5) Was there a lot of innovation in architecture during this time period?'",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.8,
+                    0.92
+                ],
+                "question": "Did architects experiment with new ideas during this period?",
+                "llmevaluation": "yes",
+                "bertscore": "no"
+            }
+        ]
+    ]
+}

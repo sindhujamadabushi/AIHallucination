@@ -3,19 +3,19 @@
     "count": [
         {
             "question": "How many Nintendo staff members reported complaints about the control scheme?",
-            "answer": "A Nintendo spokesman said \"a few dozen\" employees had complained."
+            "answer": "Fewer than five."
         },
         {
             "question": "How many users were surveyed about the control scheme?",
-            "answer": "100"
+            "answer": "120 users were surveyed."
         },
         {
             "question": "How many button presses did the new item system require?",
-            "answer": "38"
+            "answer": "The new item system required four button presses."
         },
         {
             "question": "How many minutes before release did the team rework Link's character model?",
-            "answer": "The team reworked Link's character model minutes before release."
+            "answer": "This question is impossible to answer."
         },
         {
             "question": "How many sections are in the player's guide?",
@@ -25,23 +25,23 @@
     "yesno": [
         {
             "question": "1. Did Nintendo staff members report that demo users complained about the difficulty of the control scheme?",
-            "answer": "Yes, Nintendo staff members reported that demo users complained about the difficulty of the control scheme."
+            "answer": "No, they did not."
         },
         {
             "question": "2. Did Aonuma realize that his team had implemented Wii controls under the mindset of \"forcing\" users to adapt, instead of making the system intuitive and easy to use?",
-            "answer": "No, he did not."
+            "answer": "No."
         },
         {
             "question": "3. Did the camera movement get reworked and item controls get changed to avoid accidental button presses?",
-            "answer": "Yes."
+            "answer": "The camera and controls were not changed."
         },
         {
             "question": "4. Did the new item system require use of the button that had previously been used for the sword?",
-            "answer": "No, the new item system did not require use of the sword button."
+            "answer": "The new item system does not require use of the button that had previously been used for the sword."
         },
         {
             "question": "5. Did Link's character model get changed so that he was right-handed?",
-            "answer": "Yes, Link's character model was changed to be right-handed."
+            "answer": "No, Link has always been ambidextrous."
         }
     ]
 }

@@ -3,45 +3,45 @@
     "count": [
         {
             "question": "How many teams were reported ready to join the rescue effort?",
-            "answer": "At least six teams."
+            "answer": "20 teams."
         },
         {
             "question": "How many men were in the search and rescue group?",
-            "answer": "Six men."
+            "answer": "There were twelve men in the search and rescue group."
         },
         {
             "question": "How many kg of relief supplies did each man carry?",
-            "answer": "Each man carried 40 kg of supplies."
+            "answer": "They each carried 50 kg."
         },
         {
             "question": "What was the height of the Tibetan village above sea level?",
-            "answer": "11,500 feet"
+            "answer": "4,000 meters"
         },
         {
             "question": "How many days were the Tibetan villagers stranded without food and water?",
-            "answer": "The Tibetan villagers were stranded for three days without food and water."
+            "answer": "The Tibetan villagers were stranded without food and water for days."
         }
     ],
     "yesno": [
         {
             "question": "1. Is the Red Cross Society of China willing to accept donations of tents, medical supplies, drinking water, and food?",
-            "answer": "Yes."
+            "answer": "Red Cross Society of China is willing to accept such donations."
         },
         {
             "question": "2. Is the Red Cross Society of China only willing to accept cash donations?",
-            "answer": "No, they accept other forms of donations as well."
+            "answer": "No."
         },
         {
             "question": "3. Did a search and rescue group from a motorized infantry brigade under commander Yang Wenyao reach the ethnically Tibetan village of Sier?",
-            "answer": "There is no record of this."
+            "answer": "Yes, they did."
         },
         {
             "question": "4. Were over 300 of the Tibetan villagers stranded in their demolished village for five days without food and water?",
-            "answer": "False."
+            "answer": "No, they were not."
         },
         {
             "question": "5. Was helicopter evacuation not an option due to the extreme terrain conditions?",
-            "answer": "No, helicopter evacuation was not an option due to the extreme terrain conditions."
+            "answer": "No, the terrain was too difficult."
         }
     ]
 }

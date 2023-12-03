@@ -1,0 +1,1155 @@
+{
+    "context": "Schwarzenegger was the first civilian to purchase a Humvee. He was so enamored by the vehicle that he lobbied the Humvee's manufacturer, AM General, to produce a street-legal, civilian version, which they did in 1992; the first two Hummers they sold were also purchased by Schwarzenegger.\n",
+    "count": [
+        "1. How many civilian Humvees were sold in 1992?",
+        "2. How many Humvees did Schwarzenegger purchase?",
+        "3. How many street-legal, civilian Humvees were produced by AM General?",
+        "4. How many years did it take Schwarzenegger to lobby the Humvee's manufacturer to produce a street-legal, civilian version?",
+        "5. How many total Humvees have been sold?"
+    ],
+    "yesno": [
+        "1. Did Schwarzeneggar purchase the first Humvee?",
+        "2. Was he enamored by the vehicle?",
+        "3. Did he lobby the Humvee's manufacturer to produce a street-legal version?",
+        "4. Did they do so in 1992?",
+        "5. Were the first two Hummers sold to Schwarzeneggar?"
+    ],
+    "count_gt": [
+        "unknown",
+        "one",
+        "unknown",
+        "unknown",
+        "unknown"
+    ],
+    "yesno_gt": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ],
+    "count_variations": [
+        [
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "How many Humvees were sold to civilians in 1992?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Humvees were sold to civilians in 1992?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.4,
+                    0.92
+                ],
+                "question": "What is the total number of civilian Humvees sold in 1992?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: How many civilian Humvees were manufactured in 1992?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: How many Humvees were sold to civilians in 1992?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.6,
+                    0.92
+                ],
+                "question": "How many non-military Humvees were sold in 1992?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.2,
+                    0.92
+                ],
+                "question": "How many Humvees were sold to civilians in 1992?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: How many Humvees were sold to civilians in 1992?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.2,
+                    0.92
+                ],
+                "question": "How many Humvees were sold to civilians in 1992?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the number of civilian Humvees sold in 1992?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.2,
+                    0.95
+                ],
+                "question": "How many Humvees did Arnold Schwarzenegger purchase?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.2,
+                    0.92
+                ],
+                "question": "How many Humvees did Arnold Schwarzenegger purchase?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.4,
+                    0.92
+                ],
+                "question": "Question: 'How many Humvees did Schwarzenegger purchase?'",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.8,
+                    0.95
+                ],
+                "question": "How many Humvees did Arnold Schwarzenegger buy?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: How many Humvees did Arnold Schwarzenegger purchase?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.6,
+                    0.92
+                ],
+                "question": "How many Humvees did Arnold Schwarzenegger purchase?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: '2. How many Humvees did Schwarzenegger buy?'",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: 'How many Humvees did Schwarzenegger purchase?'",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.2,
+                    0.95
+                ],
+                "question": "How many Humvees did Arnold Schwarzenegger buy?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "How many Humvees did Arnold Schwarzenegger purchase?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the total number of street-legal, civilian Humvees produced by AM General?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.2,
+                    0.92
+                ],
+                "question": "How many AM General Humvees were produced for civilian use?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.4,
+                    0.92
+                ],
+                "question": "How many AM General Humvees were produced for street-legal civilian use?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "How many street-legal, civilian Humvees were produced by AM General?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: '3. How many street-legal, civilian Humvees were manufactured by AM General?'",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "What was the total number of street-legal, civilian Humvees produced by AM General?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.2,
+                    0.92
+                ],
+                "question": "How many civilian Humvees were produced by AM General?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: How many civilian Humvees were produced by AM General?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: How many street-legal, civilian Humvees were produced by AM General for the public market?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.6,
+                    0.95
+                ],
+                "question": "What is the total number of civilian Humvees that were produced by AM General?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: How many years did it take for Schwarzenegger to lobby the Humvee's manufacturer to produce a street-legal, civilian version?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: '4. How many years did Schwarzenegger spend lobbying the Humvee's manufacturer to produce a street-legal, civilian version?'",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.6,
+                    0.92
+                ],
+                "question": "How many years did it take Schwarzenegger to successfully lobby the Humvee's manufacturer to produce a street-legal civilian version?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: How long did it take Schwarzenegger to lobby the Humvee's manufacturer to produce a street-legal, civilian version?\nIt took him four years.",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.2,
+                    0.92
+                ],
+                "question": "What was the timeframe for Arnold Schwarzenegger lobbying the Humvee's manufacturer to produce a street-legal civilian version?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.2,
+                    0.95
+                ],
+                "question": "How many years did Schwarzenegger spend lobbying the Humvee's manufacturer to produce a street-legal, civilian version?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.4,
+                    0.92
+                ],
+                "question": "Question: How long did Schwarzenegger lobby the Humvee's manufacturer to produce a street-legal, civilian version?\nAnswer: It took Schwarzenegger four years to lobby the Humvee's manufacturer to produce a street-legal, civilian version.",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.4,
+                    0.92
+                ],
+                "question": "It took Schwarzenegger four years to lobby the Humvee's manufacturer to produce a street-legal, civilian version.",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the duration of Schwarzenegger's campaign to convince the Humvee's manufacturer to produce a street-legal, civilian version?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: 'It took Schwarzenegger how many years to lobby the Humvee's manufacturer to produce a street-legal, civilian version?'",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.8,
+                    0.92
+                ],
+                "question": "How many Humvees have been sold in total?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "How many Humvees have been sold in total?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many Humvees have been sold in total?'",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: 'How many Humvees have been sold in total?'",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.8,
+                    0.92
+                ],
+                "question": "How many Humvees have been sold in total?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: How many Humvees have been sold in total?",
+                "llmevaluation": "no",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the total number of Humvees that have been sold?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What is the total number of Humvees that have been sold?'",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.6,
+                    0.95
+                ],
+                "question": "How many Humvees have been sold in total?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.2,
+                    0.95
+                ],
+                "question": "How many Humvees have been sold in total?",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            }
+        ]
+    ],
+    "yesno_variations": [
+        [
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.4,
+                    0.92
+                ],
+                "question": "Question: '1. Was Schwarzeneggar the first person to purchase a Humvee?'",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did Arnold Schwarzeneggar buy the first Humvee?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: Did Schwarzeneggar buy the first Humvee?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Was the first Humvee purchased by Schwarzeneggar?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.2,
+                    0.92
+                ],
+                "question": "1. Did the first Humvee belong to Schwarzeneggar?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did Arnold Schwarzenegger purchase the first Humvee?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.2,
+                    0.92
+                ],
+                "question": "1. Was the first Humvee purchased by Schwarzeneggar?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.6,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did Schwarzeneggar purchase the first Humvee?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "1. Did Arnold Schwarzenegger purchase the first Humvee?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: Did Arnold Schwarzenegger purchase the first Humvee?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "Was he enamored with the vehicle?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.6,
+                    0.95
+                ],
+                "question": "Was he attracted to the vehicle?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '2. Did he fall in love with the vehicle?'",
+                "llmevaluation": "N",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: '2. Did he fall in love with the car?'",
+                "llmevaluation": "no",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: '2. Did he fall in love with the vehicle?'",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.4,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: '2. Was he in love with the vehicle?'",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did he love the car? \nYes, he did.",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: '2. Did he like the vehicle?'",
+                "llmevaluation": "yes",
+                "bertscore": "no"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "Did he like the vehicle?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: '2. Was he impressed by the vehicle?'",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: Did he persuade the Humvee's manufacturer to produce a street-legal version?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.2,
+                    0.95
+                ],
+                "question": "3. Did he lobby the Humvee's manufacturer to produce a version that could be driven on streets?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: Did he request that the Humvee's manufacturer produce a street-legal version?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.8,
+                    1.4,
+                    0.95
+                ],
+                "question": "Did he try to persuade the Humvee's manufacturer to produce a street-legal version?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.2,
+                    1.4,
+                    0.92
+                ],
+                "question": "Question: '3. Did he lobby the Humvee's manufacturer to produce a version that could be driven on streets?'",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.6,
+                    1.4,
+                    0.92
+                ],
+                "question": "Question: '3. Did he contact the Humvee's manufacturer to produce a street-legal version?'",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.6,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: '3. Did he try to influence the Humvee's manufacturer to produce a street-legal version?'",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.8,
+                    0.92
+                ],
+                "question": "Question: '3. Did he lobby the Humvee's manufacturer to produce a civilian version?'",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.4,
+                    0.92
+                ],
+                "question": "Question: '3. Did he try to convince the Humvee's manufacturer to produce a street-legal version?'",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: '3. Did he attempt to persuade the Humvee's manufacturer to produce a street-legal version?'",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.8,
+                    1.4,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: Did they do it in 1992?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.6,
+                    0.92
+                ],
+                "question": "In what year did they do so?\n\n1992",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.6,
+                    0.92
+                ],
+                "question": "Question: '4. Did they complete the task in 1992?'",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'In 1992, did they do so?'",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did they take that action in 1992?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "4. Did they do it in 1992?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.2,
+                    1.6,
+                    0.92
+                ],
+                "question": "Did they complete the task in 1992?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: 'Did they do so in 1992?'",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'In 1992, did they do so?'",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.2,
+                    0.95
+                ],
+                "question": "Question: Did they do that in 1992?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: 'What were the first two Hummers sold?'\nThe first two Hummers were sold to Schwarzeneggar.",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: 'Were the first two Hummers sold to Schwarzeneggar?'",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.2,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: '5. Were the first two Hummers sold to Arnold Schwarzenegger?'",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.2,
+                    1.2,
+                    0.95
+                ],
+                "question": "Were the first two Hummers sold to Arnold Schwarzenegger?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.4,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What were the first two Hummers sold?'\nThe first two Hummers were sold to Schwarzeneggar.",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.2,
+                    1.6,
+                    1.2,
+                    0.95
+                ],
+                "question": "Did Schwarzeneggar purchase the first two Hummers that were sold?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.6,
+                    1.8,
+                    1.6,
+                    0.95
+                ],
+                "question": "Question: '5. Did Schwarzeneggar purchase the first two Hummers?'",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.2,
+                    0.92
+                ],
+                "question": "Question: '5. Did Schwarzeneggar purchase the first two Hummers?'",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.8,
+                    1.8,
+                    1.4,
+                    0.92
+                ],
+                "question": "Was Arnold Schwarzenegger the first to purchase a Hummer?",
+                "llmevaluation": "yes",
+                "bertscore": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.4,
+                    0.92
+                ],
+                "question": "Who were the first two people to buy a Hummer?",
+                "llmevaluation": "yes",
+                "bertscore": "no"
+            }
+        ]
+    ]
+}

@@ -3,45 +3,29 @@
     "count": [
         {
             "question": "-How many members were in Destiny's Child?",
-            "answer": "There were four members in Destiny's Child."
+            "answer": "Destination's Child had four members: Beyonce, Kelly Rowland, Michelle Williams, and Farrah Franklin."
         },
         {
             "question": "-How many Grammy Awards did Beyonce win for her album Dangerously in Love?",
             "answer": "Five"
-        },
-        {
-            "question": "-What was the name of Beyonce's first solo album?",
-            "answer": "Dangerously in Love"
-        },
-        {
-            "question": "-What were the two number-one singles off of Beyonce's first album?",
-            "answer": "Crazy in Love and Baby Boy"
-        },
-        {
-            "question": "-What is Beyonce's middle name?",
-            "answer": "Beyonce's middle name is Giselle."
         }
     ],
     "yesno": [
         {
             "question": "Did Beyonc\u00e9 go to college?",
-            "answer": "No, she did not go to college."
+            "answer": "No"
         },
         {
             "question": "Did Beyonc\u00e9 release an album in 2003?",
-            "answer": "Yes, she did."
+            "answer": "Yes"
         },
         {
             "question": "Is Beyonc\u00e9 from Houston, Texas?",
-            "answer": "Yes."
+            "answer": "Yes"
         },
         {
             "question": "Was Beyonc\u00e9 in a girl group?",
-            "answer": "Yes, Beyonc\u00e9 was in a girl group."
-        },
-        {
-            "question": "What is the name of Beyonc\u00e9's debut album?",
-            "answer": "Dangerously in Love"
+            "answer": "Yes."
         }
     ]
 }
