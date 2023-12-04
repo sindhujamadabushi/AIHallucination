@@ -1,0 +1,1255 @@
+{
+    "context": "The major architectural undertakings were the buildings of abbeys and cathedrals. From about 900 CE onwards, the movements of both clerics and tradesmen carried architectural knowledge across Europe, resulting in the pan-European styles Romanesque and Gothic.\n",
+    "count": [
+        "1. How many abbeys were built?",
+        "2. How many cathedrals were built?",
+        "3. How many Romanesque architectural styles are there?",
+        "4. How many Gothic architectural styles are there?",
+        "5. How many European countries have knowledge of Romanesque and Gothic architecture?"
+    ],
+    "yesno": [
+        "1) Did abbeys and cathedrals use pan-European styles?",
+        "2) Were Romanesque and Gothic popular among architects?",
+        "3) Did knowledge of architecture spread quickly across Europe?",
+        "4) Were there many major architectural projects during this time period?",
+        "5) Was this a time of innovation in architecture?"
+    ],
+    "count_gt": [
+        "unknown",
+        "unknown",
+        "two",
+        "unknown",
+        "unknown"
+    ],
+    "yesno_gt": [
+        "no",
+        "unknown",
+        "yes",
+        "yes",
+        "yes"
+    ],
+    "count_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many abbeys were constructed?",
+                "answer": "answer: it is unknown how many abbeys were constructed.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many abbeys were constructed?",
+                "answer": "there is no answer to this question because it is not stated in the context.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many abbeys were constructed?",
+                "answer": "there is no set answer to this question as the number of abbeys constructed during this time period varies. however, it is estimated that there were several hundred abbeys constructed during the romanesque and gothic periods.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many abbeys were constructed?",
+                "answer": "there is no way to know how many abbeys were constructed because the context does not mention a specific number.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many abbeys were constructed?",
+                "answer": "there is no specific answer to this question as it is not stated in the context. it is known that multiple abbeys and cathedrals were constructed during this time period, but there is no exact number given.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many abbeys were constructed?",
+                "answer": "there is no specific answer to this question as it is not stated in the context. it is mentioned that the major architectural undertakings were the buildings of abbeys and cathedrals, so it can be assumed that multiple abbeys were constructed.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many abbeys were constructed?",
+                "answer": "there is no definite answer to how many abbeys were constructed.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '1. How many abbeys were constructed?'",
+                "answer": "the answer to this question is not provided in the given context.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many abbeys were constructed?",
+                "answer": "there is no answer to this question as it is not provided in the context.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many abbeys were constructed?",
+                "answer": "there is no specific number of abbeys that were constructed.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '2. How many cathedrals have been built?'",
+                "answer": "2. how many cathedrals have been built?\n\nthere is no one answer to this question as it depends on how you define a cathedral. a cathedral is typically defined as a christian church that contains the cathedra (throne) of a bishop, making it the central church of a diocese. however, there is no set size or architectural style for a cathedral, so it is possible that there are many more than 2 cathedrals that have been built across europe.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many cathedrals were constructed?",
+                "answer": "there is no specific answer to this question as it would depend on the time period and location you are referring to. in england alone, there are over 80 cathedrals that were constructed during the norman and gothic periods.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many cathedrals were constructed?",
+                "answer": "there is no specific answer to this question as it is not stated in the context. it is known that many abbeys and cathedrals were built during this time period, but an exact number is not given.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many cathedrals were constructed?",
+                "answer": "there is no mention of a specific number of cathedrals in the context.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many cathedrals were built?'",
+                "answer": "is an example of which type of question?\n\nhow many cathedrals were built? is an example of a quantitative question.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many cathedrals were constructed?",
+                "answer": "we don't know how many cathedrals were constructed.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many cathedrals were constructed?",
+                "answer": "there is no way to determine how many cathedrals were constructed based on the given context.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many cathedrals have been built?",
+                "answer": "there is no definitive answer to this question as it is difficult to determine exactly what qualifies as a cathedral. however, it is estimated that there are approximately 34,000 cathedrals worldwide.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many cathedrals were constructed?",
+                "answer": "there is no specific number of cathedrals that were constructed during this time period.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many churches were built in the cathedral style?",
+                "answer": "there is no definite answer to this question.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What are the different Romanesque architectural styles?'",
+                "answer": "there are several romanesque architectural styles, including romanesque revival, romanesque revival, and neo-romanesque.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are the different Romanesque architectural styles?",
+                "answer": "there are several romanesque architectural styles, including the rundbogenstil, barrock, romanesque revival, and neo-romanesque.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are the different Romanesque architectural styles?",
+                "answer": "the different romanesque architectural styles are the rundbogenstil, the romanesque revival style, and the romanesque revival style of architecture.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many different Romanesque architectural styles are there?",
+                "answer": "there are two different romanesque architectural styles: the romanesque style that originated in france, and the romanesque style that originated in italy.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many different Romanesque architectural styles are there?",
+                "answer": "there are four different romanesque architectural styles: norman, lombardic, saxon, and byzantine.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many architectural styles are there in the Romanesque period?",
+                "answer": "there is only one architectural style in the romanesque period.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many different Romanesque architectural styles are there?",
+                "answer": "there are four main romanesque architectural styles: norman, picard, romanesque-provençal, and lombard.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are the three main Romanesque architectural styles?",
+                "answer": "the three main romanesque architectural styles are norman, romanesque, and gothic.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many different Romanesque architectural styles are there?",
+                "answer": "romanesque architecture can be divided into a number of different styles, the most common of which are norman, lombard, and romanesque.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many styles of Romanesque architecture are there?",
+                "answer": "there are two styles of romanesque architecture: norman and romanesque.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What are the different Gothic architectural styles?'\nThere are four main types of Gothic architecture: Early English, Decorated, Perpendicular, and Tudor.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Please provide the answer."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: What are the different Gothic architectural styles?",
+                "answer": "different gothic architectural styles include the high gothic style, the rayonnant style, and the flamboyant style.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "n"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What are the different types of Gothic architecture?'",
+                "answer": "there are three different types of gothic architecture: early english, decorated, and perpendicular.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many different Gothic architectural styles are there?",
+                "answer": "99",
+                "exact_match": "yes",
+                "llm_selfevaluation": "answer incorrect\n\nNo"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many different Gothic architectural styles are there?",
+                "answer": "there are four main types of gothic architecture: early english, decorated, perpendicular, and tudor.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are the different Gothic architectural styles?",
+                "answer": "different gothic architectural styles include perpendicular, flamboyant, and tudor.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: What are the different Gothic architectural styles?",
+                "answer": "different gothic architectural styles include lombard romanesque, romanesque, and gothic.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Unknown"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many different Gothic architectural styles are there?",
+                "answer": "there are three different gothic architectural styles: early english, decorated, and perpendicular.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are the different types of Gothic architecture?",
+                "answer": "different types of gothic architecture include romanesque, gothic, and tudor.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are the different Gothic architectural styles?",
+                "answer": "there are a few different gothic architectural styles, which include early english, decorated, and perpendicular.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the total number of European countries where both Romanesque and Gothic architecture are known?",
+                "answer": "there are a total of 24 european countries where both romanesque and gothic architecture are known.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many European countries have awareness of Romanesque and Gothic architecture?",
+                "answer": "there are multiple european countries with awareness of romanesque and gothic architecture.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the Romanesque and Gothic architecture in European countries?",
+                "answer": "romanesque architecture is a style of architecture that emerged in the late 10th century and spread throughout europe in the 11th and 12th centuries. gothic architecture is a style of architecture that emerged in the 12th century and spread throughout europe in the 13th and 14th centuries.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the total number of European countries that have Romanesque and Gothic architecture knowledge?",
+                "answer": "there is no definite answer to this question as it is difficult to determine how many countries in europe have knowledge of romanesque and gothic architecture. however, it is generally agreed that romanesque and gothic architecture were spread across europe by clerics and tradesmen, so it is likely that there are many european countries with some level of knowledge about these architectural styles.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many European countries have a familiarity with Romanesque and Gothic architecture?",
+                "answer": "all of them. romanesque and gothic styles are pan-european, meaning they are found across the continent.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Which European countries have knowledge of Romanesque and Gothic architecture?",
+                "answer": "knowledge of romanesque and gothic architecture was spread across europe by movements of clerics and tradesmen. as a result, these architectural styles can be found in many european countries.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many European countries have a knowledge of Romanesque and Gothic architecture?",
+                "answer": "there are romanesque and gothic architectural style present in multiple european countries.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "In how many European countries is Romanesque and Gothic architecture known?",
+                "answer": "romanesque and gothic architecture is known in all european countries.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '5. How many European countries were familiar with Romanesque and Gothic architecture?'",
+                "answer": "there is no definitive answer to this question as it would depend on how familiar one considers \"familiar\" to be. however, it is generally agreed that both romanesque and gothic architecture were well-known across a large number of european countries by the end of the medieval period.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many European countries have knowledge of Romanesque and Gothic architecture?'",
+                "answer": "all of them. these styles are pan-european, meaning that they can be found across the continent.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            }
+        ]
+    ],
+    "yesno_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) Did abbeys and cathedrals across Europe use similar styles?",
+                "answer": "2) how did the architectural knowledge travel across europe?\n\n1) yes, abbeys and cathedrals across europe used similar styles.\n\n2) the architectural knowledge travelled across europe via the movements of both clerics and tradesmen.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) Did abbeys and cathedrals employ pan-European styles?",
+                "answer": "2) what was the time period in which these styles were used?\n\n1) yes, abbeys and cathedrals did employ pan-european styles.\n\n2) these styles were used from about 900 ce onwards.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '1) Did abbeys and cathedrals in different parts of Europe use similar styles?'",
+                "answer": "there is evidence to suggest that abbeys and cathedrals in different parts of europe did use similar styles. for example, both the romanesque and gothic styles were used in abbey and cathedral construction across europe. furthermore, the shared movements of clerics and tradesmen would likely have resulted in similar architectural knowledge being shared across different regions.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) Did abbeys and cathedrals in Europe use similar styles?",
+                "answer": "2) architectural knowledge was carried across europe by which groups?\n\n1) yes\n2) tradesmen and clerics",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What architectural styles were used in abbeys and cathedrals throughout Europe? \n\nThere is no definitive answer to this question as there was significant regional variation in architecture across Europe during the Middle Ages. However, many abbeys and cathedrals incorporated Gothic features into",
+                "answer": "their design, particularly during the 12th and 13th centuries.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) Did abbeys and cathedrals use styles that were common throughout Europe?",
+                "answer": "2) what were the architectural styles used by abbeys and cathedrals?\n\nyes, abbeys and cathedrals used styles that were common throughout europe. the architectural styles used by abbeys and cathedrals were romanesque and gothic.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did abbeys and cathedrals across Europe use similar styles?",
+                "answer": "yes, abbeys and cathedrals across europe used similar styles.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What styles were used by abbeys and cathedrals in Europe?",
+                "answer": "the styles used by abbeys and cathedrals in europe were romanesque and gothic.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did abbeys and cathedrals across Europe use similar styles?",
+                "answer": "yes, abbeys and cathedrals across europe used similar styles.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '1) Did abbeys and cathedrals use styles that were common throughout Europe?'",
+                "answer": "yes, the abbeys and cathedrals used common styles that were seen throughout europe.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '2) What styles were popular among architects during the Romanesque and Gothic periods?'\nBoth Romanesque and Gothic architecture were very popular during their respective time periods.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What were the most popular styles among architects during the Romanesque and Gothic periods?",
+                "answer": "romanesque and gothic architecture were the most popular styles among architects during the romanesque and gothic periods.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What was the popularity of Romanesque and Gothic architecture among architects?'\nBoth Romanesque and Gothic architecture were very popular during the Medieval period. Many grand cathedrals, castles, and other important buildings were constructed using one of these two styles.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Are Romanesque and Gothic styles popular among architects?",
+                "answer": "yes, romanesque and gothic styles are highly popular among architects.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 2) Were Romanesque and Gothic styles popular among architects? \nAnswer: Yes, both the Romanesque and Gothic styles were very popular during the Middle Ages.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What was the popularity of Romanesque and Gothic styles among architects?'\nAnswer: The Romanesque style was popular among 11th-century European architects, while the Gothic style gained popularity in the 12th century.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Was Romanesque and Gothic architecture popular among architects?",
+                "answer": "there is no definitive answer to this question as there is no way to gauge the popularity of these architectural styles among all architects. however, it is safe to say that romanesque and gothic architecture were popular among a significant number of architects during the time period in which they were developed.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What styles were popular among architects during the Romanesque and Gothic periods? \nAnswer: Romanesque and Gothic",
+                "answer": "styles were popular among architects during the romanesque and gothic periods.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What were the most popular architectural styles during the Romanesque and Gothic periods?\nThe two most popular architectural styles during the Romanesque period were Norman and Ottonian, while Gothic architecture was the most popular style during the Gothic period.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '2) Did architects find Romanesque and Gothic styles popular?'Yes, both the Romanesque and Gothic styles were quite popular among 12th- and 13th-century architects.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did architecture gain popularity rapidly throughout Europe?",
+                "answer": "yes, architecture became popular throughout europe rapidly.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "3) How did knowledge of architecture spread quickly across Europe?",
+                "answer": "the movements of clerics and tradesmen carried architectural knowledge across europe.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3) Was there a widespread exchange of architectural knowledge across Europe?'",
+                "answer": "yes, there was a widespread exchange of architectural knowledge across europe.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did the knowledge of architecture spread quickly across Europe?",
+                "answer": "yes, the knowledge of architecture spread quickly across europe.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3) How fast did knowledge of architecture spread across Europe?'",
+                "answer": "the spread of architectural knowledge across europe was relatively fast.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 3) Did Europeans gain a deep understanding of architecture rapidly?",
+                "answer": "no, europeans did not gain a deep understanding of architecture rapidly.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "3) Did knowledge of architecture disseminate rapidly throughout Europe?",
+                "answer": "yes, architectural knowledge rapidly disseminated throughout europe in the 900s ce.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3) Did knowledge of architecture spread rapidly across Europe?'",
+                "answer": "yes, the movements of both clerics and tradesmen carried architectural knowledge across europe from about 900 ce onwards.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: How did knowledge of architecture spread across Europe?",
+                "answer": "the movements of both clerics and tradesmen carried architectural knowledge across europe.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "3) How did knowledge of architecture spread across Europe?",
+                "answer": "manuscripts that detailed architectural techniques were carried by traveling priests and tradesmen, which helped to spread architectural knowledge across europe.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What were the most notable architectural feats during this time period?",
+                "answer": "the most notable architectural feats were the buildings of abbeys and cathedrals.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What were some major architectural projects during this time period?'",
+                "answer": "the major architectural projects during this time period were the buildings of abbeys and cathedrals.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What were the most significant architectural undertakings during this era?'",
+                "answer": "the most significant architectural undertakings during this era were the buildings of abbeys and cathedrals.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: How many major architectural projects were there during this time period?",
+                "answer": "there were two major architectural projects during this time period: the buildings of abbeys and cathedrals.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: How many major architectural projects were there during this time period?",
+                "answer": "there were two major architectural projects during this time period: the buildings of abbeys and cathedrals.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What were some major architectural projects during this time period?'",
+                "answer": "the major architectural projects during this time period were the buildings of abbeys and cathedrals.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What were some of the major architectural projects during this time period?'",
+                "answer": "people during this time period were particularly fond of building abbeys and cathedrals.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What were some of the major architectural projects during this time period?'",
+                "answer": "some of the major architectural projects during this time period were the buildings of abbeys and cathedrals.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What were some of the most significant architectural feats during this time period?'",
+                "answer": "some of the most significant architectural feats during this time period were the construction of abbeys and cathedrals.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What were some of the most notable architectural projects during this time period?'",
+                "answer": "abbeys and cathedrals were some of the most notable architectural projects during this time period.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '5) Did this era see innovation in architecture?'",
+                "answer": "this era saw innovation in architecture, with the development of romanesque and gothic styles.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '5) Was there a lot of innovation in architecture during this time?'",
+                "answer": "yes, there was a lot of innovation in architecture during this time.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "5) Was there a lot of innovation in architecture during this time?",
+                "answer": "yes",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '5) Did this period see any new developments in architecture?'",
+                "answer": "yes, this period saw the development of romanesque and gothic styles of architecture.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Was there a lot of innovation in architecture during this time period?",
+                "answer": "yes, there was a lot of innovation in architecture during this time period.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Innovation in architecture was rampant during this period of time.",
+                "answer": "false. although there were many different architectural styles present during this period, innovation was not rampant.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Yes, this was definitely a time of innovation in architecture.",
+                "answer": "yes, this was a time when new styles of architecture were developed and spread across europe.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is this a time of innovation in architecture?",
+                "answer": "yes, this is a time of innovation in architecture.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "-Was there much innovation in architecture during this time?",
+                "answer": "no, there was little innovation in architecture during this time.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Do you believe that this was a time of innovation in architecture?",
+                "answer": "yes, i believe that this was a time of innovation in architecture.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            }
+        ]
+    ]
+}

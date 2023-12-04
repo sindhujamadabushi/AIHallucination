@@ -1,0 +1,1131 @@
+{
+    "context": "The second part of the novel deals with what book reviewer Harding LeMay termed \"the spirit-corroding shame of the civilized white Southerner in the treatment of the Negro\". In the years following its release, many reviewers considered To Kill a Mockingbird a novel primarily concerned with race relations. Claudia Durst Johnson considers it \"reasonable to believe\" that the novel was shaped by two events involving racial issues in Alabama: Rosa Parks' refusal to yield her seat on a city bus to a white person, which sparked the 1955 Montgomery Bus Boycott, and the 1956 riots at the University of Alabama after Autherine Lucy and Polly Myers were admitted (Myers eventually withdrew her application and Lucy was expelled, but reinstated in 1980). In writing about the historical context of the novel's construction, two other literary scholars remark: \"To Kill a Mockingbird was written and published amidst the most significant and conflict-ridden social change in the South since the Civil War and Reconstruction. Inevitably, despite its mid-1930s setting, the story told from the perspective of the 1950s voices the conflicts, tensions, and fears induced by this transition.\"\n",
+    "count": [
+        "How many people were on the bus with Rosa Parks?",
+        "How many people were in the Bus Boycott?",
+        "How many people were applied to the University of Alabama?",
+        "How many people were admitted to the University of Alabama?",
+        "How many people were expelled from the University of Alabama?"
+    ],
+    "yesno": [
+        "1) Did the novel To Kill a Mockingbird primarily deal with race relations?",
+        "3) Did two events involving racial issues in Alabama contribute to the shaping of the novel?",
+        "4) Did literary scholars believe that the story in To Kill a Mockingbird was told from the perspective of the 1950s?",
+        "5) Was the social change in the South during the time the novel was written and published the most significant and conflict-ridden since the Civil War and Reconstruction?"
+    ],
+    "count_gt": [
+        "unknown",
+        "unknown",
+        "two",
+        "two",
+        "one"
+    ],
+    "yesno_gt": [
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ],
+    "count_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people were on the bus when Rosa Parks was arrested?",
+                "answer": "a. 54 \nb. 37\nc. 42\n\nb. 37",
+                "exact_match": "yes",
+                "llm_selfevaluation": "37 is not a reasonable estimate"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "There were four people seated in Rosa Parks' row on the bus.",
+                "answer": "why did the bus driver ask parks to move?\n\nthe bus driver asked rosa parks to move because she was sitting in the front row, and the first row was reserved for white passengers.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "There were many people on the bus with Rosa Parks.",
+                "answer": "why is her name the one remembered?\n\nparks is remembered because she was arrested for her refusal to give up her seat.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people were on the bus Rosa Parks was on?",
+                "answer": "there were three people on the bus rosa parks was on.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many people were on the bus when Rosa Parks was on it?",
+                "answer": "there is no certain answer to this question.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many people were on the bus with Rosa Parks when she was arrested?",
+                "answer": "there were four other people on the bus with rosa parks when she was arrested.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people were on the bus with Rosa Parks when she was arrested?",
+                "answer": "a. 1\n\nb. 2\n\nc. 3\n\nd. 4\n\na. 1",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No\n\nb. 2yes/no:"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "On what date did Rosa Parks refuse to give up her bus seat?",
+                "answer": "rosa parks refused to give up her bus seat on december 1, 1955.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many people were on the bus at the time Rosa Parks was riding it?",
+                "answer": "there is no mention of how many people were on the bus.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many people were on the bus with Rosa Parks when she was arrested?",
+                "answer": "there were no other passengers on the bus when rosa parks was arrested.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people participated in the Bus Boycott?",
+                "answer": "autherine lucy and polly myers",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people participated in the Bus Boycott?",
+                "answer": "many people participated in the bus boycott.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people participated in the Bus Boycott?",
+                "answer": "many people participated in the bus boycott.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people participated in the Bus Boycott?",
+                "answer": "over 38,000 black citizens in montgomery participated in the boycott.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Approximately 50,000 African-American people participated in the Bus Boycott.",
+                "answer": "approximately 50,000 african-american people participated in the bus boycott.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people participated in the Bus Boycott?",
+                "answer": "a. 1,000\nb. 10,000\nc. 60,000\n\nc. 60,000",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people participated in the Bus Boycott?",
+                "answer": "according to the information provided, approximately 50,000 people participated in the 1955 montgomery bus boycott.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people participated in the Bus Boycott?",
+                "answer": "many people participated in the bus boycott.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people participated in the Bus Boycott?",
+                "answer": "it is not stated in the text how many people participated in the bus boycott.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many people participated in the Bus Boycott?'",
+                "answer": "there is no definitive answer to this question, as the records from the time are not complete. however, historians estimate that between 40,000 and 50,000 people participated in the boycott.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many people applied to the University of Alabama?",
+                "answer": "a. one\nb. two\nc. three\n\nb. two",
+                "exact_match": "no",
+                "llm_selfevaluation": "Consistency is present."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people applied to the University of Alabama?",
+                "answer": "two people applied to the university of alabama.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What was the application rate to the University of Alabama?'",
+                "answer": "i'm not entirely sure what you are asking. the university of alabama had an application rate of 2.3 percent in 1956.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people applied to the University of Alabama?",
+                "answer": "autherine lucy and polly myers were the only two people who applied to the university of alabama.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many applicants were there for the University of Alabama?",
+                "answer": "there were three applicants: autherine lucy, polly myers, and an unnamed third person.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people applied to the University of Alabama?",
+                "answer": "two people applied to the university of alabama.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many applicants did the University of Alabama receive?",
+                "answer": "there is no mention of the number of applicants in the context.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many applicants did the University of Alabama have?",
+                "answer": "the university of alabama had two applicants.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people applied to the University of Alabama?",
+                "answer": "a. 1\nb. 2\nc. 3\n\nb. 2",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Claudia Durst Johnson considers it \"reasonable to believe"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many people applied to the University of Alabama?",
+                "answer": "autherine lucy and polly myers applied to the university of alabama.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many students were admitted to the University of Alabama?",
+                "answer": "autherine lucy and polly myers were admitted to the university of alabama.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many applicants were admitted to the University of Alabama?",
+                "answer": "autherine lucy and polly myers were admitted to the university of alabama.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many applicants were accepted to the University of Alabama?",
+                "answer": "one",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people were accepted to the University of Alabama?",
+                "answer": "one",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many students were admitted to the University of Alabama?",
+                "answer": "two students were admitted to the university of alabama.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What was the admission rate for the University of Alabama?'",
+                "answer": "the admission rate for the university of alabama was 56 percent.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many students were accepted to the University of Alabama?",
+                "answer": "autherine lucy and polly myers were admitted to the university of alabama.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many students were accepted to the University of Alabama?",
+                "answer": "two students were accepted to the university of alabama.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many applicants were admitted to the University of Alabama?",
+                "answer": "autherine lucy and polly myers were admitted to the university of alabama. myers eventually withdrew her application and lucy was expelled, but reinstated in 1980.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many students were admitted to the University of Alabama?",
+                "answer": "when the novel was written, two students were admitted to the university of alabama.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many students were expelled from the University of Alabama?",
+                "answer": "one",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many students were expelled from the University of Alabama?",
+                "answer": "one student was expelled from the university of alabama.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many students were expelled from the University of Alabama?",
+                "answer": "one student was expelled from the university of alabama.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many students were expelled from the University of Alabama?",
+                "answer": "autherine lucy and polly myers were expelled from the university of alabama.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many students were expelled from the University of Alabama?",
+                "answer": "autherine lucy and polly myers were admitted, but myers eventually withdrew her application and lucy was expelled.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many students were expelled from the University of Alabama?",
+                "answer": "one student was expelled from the university of alabama.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many students were expelled from the University of Alabama?",
+                "answer": "autherine lucy and polly myers were expelled from the university of alabama.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many students were expelled from the University of Alabama?",
+                "answer": "one",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many students were expelled from the University of Alabama?'",
+                "answer": "autherine lucy was expelled from the university of alabama.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many students were expelled from the University of Alabama?",
+                "answer": "autherine lucy and polly myers were expelled from the university of alabama.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            }
+        ]
+    ],
+    "yesno_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) Did the novel To Kill a Mockingbird primarily deal with issues of racism?",
+                "answer": "2) what were some events in the world that may have influenced the author when she was writing the novel?\n\n1) yes, the novel to kill a mockingbird primarily deals with issues of racism. 2) the rosa parks incident and the university of alabama riots may have influenced the author when she was writing the novel.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) Did the novel To Kill a Mockingbird primarily revolve around race relations?",
+                "answer": "2) how did the social context of the novel's construction influence the plotline and characters?\n\n1) yes, the novel to kill a mockingbird primarily revolved around race relations. 2) the social context of the novel's construction influenced the plotline and characters by shaping the events that took place in the story.",
+                "exact_match": "no",
+                "llm_selfevaluation": "The answer is consistent with the ground truth."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is the novel To Kill a Mockingbird primarily about race relations?",
+                "answer": "from the context, it seems that many reviewers considered to kill a mockingbird a novel primarily concerned with race relations.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Claudia Durst Johnson considers it \"reasonable to believe"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) Did the novel To Kill a Mockingbird focus mainly on race relations?",
+                "answer": "2) what two events may have shaped the novel?\n\n1) yes, the novel to kill a mockingbird focused mainly on race relations. 2) the two events that may have shaped the novel were rosa parks' refusal to yield her seat on a city bus to a white person, which sparked the 1955 montgomery bus boycott, and the 1956 riots at the university of alabama after autherine lucy and polly myers were admitted (myers eventually withdrew her application and lucy was expelled, but reinstated in 1980).",
+                "exact_match": "no",
+                "llm_selfevaluation": "2 events"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is the primary focus of the novel To Kill a Mockingbird on race relations?",
+                "answer": "reviewers of the novel largely agree that the primary focus of to kill a mockingbird is on race relations in the american south. claudia durst johnson cites two historical events that likely shaped the novel's construction - rosa parks' refusal to give up her bus seat to a white person, which sparked the montgomery bus boycott, and the 1956 riots at the university of alabama after autherine lucy and polly myers were admitted to the school. atherine lucy was eventually expelled, but reinstated in 1980. scholars remark that the story is set in the 1930s but told from the perspective of the 1950s, which reflects the social changes taking place in the south at that time.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) Was the main focus of To Kill a Mockingbird on race relations?",
+                "answer": "2) what two events in alabama may have influenced the author while she was writing the novel?\n\n1) several reviewers considered to kill a mockingbird a novel primarily concerned with race relations. 2) rosa parks' refusal to yield her seat on a city bus to a white person and the 1956 riots at the university of alabama after autherine lucy and polly myers were admitted may have influenced the author while she was writing the novel.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Was race relations the primary focus of the novel To Kill a Mockingbird?\n\nYes, the novel focuses mainly on issues of racial injustice and inequity.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) Was race relations the primary subject of the novel To Kill a Mockingbird?",
+                "answer": "2) what two events, among others, may have influenced the author in writing the novel?\n\n1) race relations were a primary subject of the novel to kill a mockingbird. 2) the two events that may have influenced the author in writing the novel were rosa parks' refusal to yield her seat on a city bus to a white person, which sparked the 1955 montgomery bus boycott, and the 1956 riots at the university of alabama after autherine lucy and polly myers were admitted.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) Was the primary subject of To Kill a Mockingbird race relations?",
+                "answer": "2) what specific historical events do claudia durst johnson and the other literary scholars mention as being influential in the writing of the novel?\n\n1) yes, the primary subject of to kill a mockingbird is race relations. 2) the specific historical events mentioned are rosa parks' refusal to yield her seat on a city bus to a white person, which sparked the 1955 montgomery bus boycott, and the 1956 riots at the university of alabama after autherine lucy and polly myers were admitted (myers eventually withdrew her application and lucy was expelled, but reinstated in 1980).",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) Did the novel To Kill a Mockingbird primarily deal with race relations in America?",
+                "answer": "2) what two events in history do you think had the biggest influence in the shaping of the novel?\n\n1) yes, many reviewers considered to kill a mockingbird a novel primarily concerned with race relations.\n\n2) the two events that had the biggest influence in the shaping of the novel were rosa parks' refusal to yield her seat on a city bus to a white person, which sparked the 1955 montgomery bus boycott, and the 1956 riots at the university of alabama after autherine lucy and polly myers were admitted (myers eventually withdrew her application and lucy was expelled, but reinstated in 1980).",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What were the two events involving racial issues in Alabama that contributed to the shaping of the novel?'",
+                "answer": "the two events that involving racial issues in alabama that contributed to the shaping of the novel were the rosa parks' refusal to yield her seat on a city bus to a white person, which sparked the 1955 montgomery bus boycott, and the 1956 riots at the university of alabama after autherine lucy and polly myers were admitted (myers eventually withdrew her application and lucy was expelled, but reinstated in 1980).",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: In what ways did two events involving racial issues in Alabama contribute to the shaping of the novel?",
+                "answer": "the two events contributed to the shaping of the novel by providing a context for the story that was told from the perspective of the 1950s. the events also induced tension and fear in the characters which added to the conflict in the novel.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: How did two events involving racial issues in Alabama contribute to the shaping of the novel?",
+                "answer": "these two events contributed to the shaping of the novel by providing a context for the novel's construction that was influenced by the social change occurring in the south at the time.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What were the two events involving racial issues in Alabama that contributed to shaping the novel?'",
+                "answer": "the two events involving racial issues in alabama that contributed to shaping the novel were (1) rosa parks' refusal to yield her seat on a city bus to a white person, which sparked the 1955 montgomery bus boycott, and (2) the 1956 riots at the university of alabama after autherine lucy and polly myers were admitted (myers eventually withdrew her application and lucy was expelled, but reinstated in 1980).",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did two events related to race in Alabama influence the novel's development?",
+                "answer": "yes, two events related to race in alabama appear to have influenced the novel's development.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "3) How did two events involving racial issues in Alabama contribute to the shaping of the novel?",
+                "answer": "two event involving racial issues in alabama contributed to the shaping of the novel by providing a historical context for the novel's construction. in particular, the events highlight the tensions and fears associated with the transition from the jim crow era to the civil rights movement.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What were the two events involving racial issues in Alabama that contributed to the shaping of the novel?'",
+                "answer": "the two events involving racial issues in alabama that contributed to the shaping of the novel were rosa parks' refusal to yield her seat on a city bus to a white person, which sparked the 1955 montgomery bus boycott, and the 1956 riots at the university of alabama after autherine lucy and polly myers were admitted.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: In what ways did two events involving racial issues in Alabama contribute to the shaping of the novel?",
+                "answer": "the two events claudia durst johnson mentions - rosa parks' refusal to yield her seat on a city bus to a white person, which sparked the 1955 montgomery bus boycott, and the 1956 riots at the university of alabama after autherine lucy and polly myers were admitted (myers eventually withdrew her application and lucy was expelled, but reinstated in 1980) - both contributed to the shaping of the novel in terms of its dealing with race relations.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "3) What were two events involving racial issues in Alabama that contributed to the shaping of the novel?",
+                "answer": "rosa parks' refusal to yield her seat on a city bus to a white person, which sparked the 1955 montgomery bus boycott, and the 1956 riots at the university of alabama after autherine lucy and polly myers were admitted (myers eventually withdrew her application and lucy was expelled, but reinstated in 1980).",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What were the two events involving racial issues in Alabama that contributed to the shaping of the novel?'",
+                "answer": "rosa parks' refusal to give up her bus seat to a white person, and the riots at the university of alabama after autherine lucy and polly myers were admitted.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What was the general belief of literary scholars about the perspective from which the story in To Kill a Mockingbird was told?",
+                "answer": "the general belief of literary scholars was that the story in to kill a mockingbird was told from the perspective of the 1950s.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4) Did literary scholars believe that the story in To Kill a Mockingbird accurately depicted life in the 1950s?'",
+                "answer": "scholars agree that the story in to kill a mockingbird was shaped by events in the 1950s, but that it accurately depicted the social climate of the time.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4) Do literary scholars believe that the story in To Kill a Mockingbird was told from the perspective of the 1950s?'",
+                "answer": "yes, literary scholars believe that the story in to kill a mockingbird was told from the perspective of the 1950s.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4) Is the story in To Kill a Mockingbird told from the perspective of the 1950s?'",
+                "answer": "yes, the story in to kill a mockingbird is told from the perspective of the 1950s.",
+                "exact_match": "no",
+                "llm_selfevaluation": "the story is about race relations in the south during"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Do literary scholars believe that the story in To Kill a Mockingbird was told from the perspective of Atticus Finch?",
+                "answer": "no, literary scholars do not believe that the story in to kill a mockingbird was told from the perspective of atticus finch.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What was the belief of literary scholars in regards to the story told in To Kill a Mockingbird being set in the 1950s?",
+                "answer": "the belief of literary scholars was that the story told in to kill a mockingbird was set in the 1950s.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4) Does the story in To Kill a Mockingbird take place during the 1950s?'",
+                "answer": "no, the story in to kill a mockingbird does not take place during the 1950s.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did literary scholars in the 1950s believe that the story in To Kill a Mockingbird was told from their perspective?",
+                "answer": "no, literary scholars in the 1950s believed that the story in to kill a mockingbird was told from the perspective of the 1930s.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4) Did literary scholars in the 1950s believe that the story in To Kill a Mockingbird was told from their perspective?'",
+                "answer": "no, the literary scholars in the 1950s did not believe that the story in to kill a mockingbird was told from their perspective.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did literary scholars in the 1950s believe that the story in To Kill a Mockingbird was told from their perspective?",
+                "answer": "based on the context, it seems that literary scholars in the 1950s did believe that the story in to kill a mockingbird was told from their perspective. this is supported by the fact that the novel was written and published amidst a time of significant social change in the south, and that the story's setting is in the 1930s but from the 1950s perspective.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "5) How does the social change in the South during the time the novel was written and published compare to other periods since the Civil War and Reconstruction?",
+                "answer": "the social change in the south during the time the novel was written and published was the most significant and conflict-ridden social change in the south since the civil war and reconstruction.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What was the social climate like in the South during the time period when the novel was written and published?'\nThe social change in the south during this time was quite significant and conflict-ridden, second only to that of post Civil War Reconstruction.",
+                "answer": "this was a time of major social upheaval as the jim crow system was beginning to crumble and long-standing racial tensions were coming to a head.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What was the most significant and conflict-ridden social change in the South during the time the novel was written and published?",
+                "answer": "the most significant and conflict-ridden social change in the south during the time the novel was written and published was the civil rights movement.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What was the most significant and conflict-ridden social change in the South during the time when the novel was written and published?",
+                "answer": "the most significant and conflict-ridden social change in the south during the time when the novel was written and published was the civil rights movement.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Was the social change in the South during the time period that the novel was written and published one of, if not, the most conflict-ridden since The Civil War and Reconstruction?",
+                "answer": "the social change in the south during the time period that the novel was written and published was one of the most conflict-ridden since the civil war and reconstruction.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What was the most significant and conflict-ridden social change in the South during the time that the novel was written and published?'\n\nThe answer to this question would depend on interpretation.",
+                "answer": "some people might say that the most significant and conflict-ridden social change in the south during the time that the novel was written and published was the civil rights movement. others might say that the most significant and conflict-ridden social change in the south during the time that the novel was written and published was the vietnam war.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "n"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "5) Was the social change in the South during the time the novel was written and published more significant and conflict-ridden than any other since the Civil War and Reconstruction?",
+                "answer": "yes",
+                "exact_match": "no",
+                "llm_selfevaluation": "The answer does not mention either of the two events"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is the social change in the South during the time novel was written and published comparable to other conflicts such as Civil War and Reconstruction?",
+                "answer": "yes, the social change in the south during the time novel was written and published was comparable to other conflicts such as civil war and reconstruction.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '5) Was the social change in the South during the time the novel was written and published significant and full of conflict?'",
+                "answer": "yes, the social change in the south during the time the novel was written and published was significant and full of conflict.",
+                "exact_match": "no",
+                "llm_selfevaluation": "the answer is consistent with the ground truth"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "5) How does the social change in the South during the time the novel was written and published compare to other periods in American history?",
+                "answer": "the social change in the south during the time the novel was written and published was the most significant and conflict-ridden social change in the south since the civil war and reconstruction.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            }
+        ]
+    ]
+}

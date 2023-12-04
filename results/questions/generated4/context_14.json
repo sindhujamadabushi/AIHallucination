@@ -1,0 +1,759 @@
+{
+    "context": "Polytechnics in Singapore provides industry oriented education equivalent to a junior college or sixth form college in the UK. Singapore retains a system similar but not the same as in the United Kingdom from 1970–1992, distinguishing between polytechnics and universities. Unlike the British Polytechnic (United Kingdom) system Singapore Polytechnics do not offer bachelors, masters or PhD degrees. Under this system, most Singaporean students sit for their O-Level examinations after a five years of education in secondary school, and apply for a place at either a technical school termed ITE, a polytechnic or a university-preparatory school (a junior college or the Millennia Institute, a centralized institute). Polytechnic graduates may be granted transfer credits when they apply to local and overseas universities, depending on the overall performance in their grades, as well as the university's policies on transfer credits. A few secondary schools are now offering six-year program which leads directly to university entrance.\n",
+    "count": [
+        "How many polytechnics are in Singapore?",
+        "How many years of education are in a Singaporean secondary school?",
+        "How many O-Level examinations are there?",
+        "How many technical schools are there?"
+    ],
+    "yesno": [
+        "1. Is Polytechnics in Singapore an industry oriented education?",
+        "2. Does Polytechnics in Singapore offer bachelors, masters or PhD degrees?"
+    ],
+    "count_gt": [
+        "unknown",
+        "five",
+        "unknown",
+        "unknown"
+    ],
+    "yesno_gt": [
+        "yes",
+        "no"
+    ],
+    "count_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What is the number of polytechnics in Singapore?' \nThere are five polytechnics in Singapore.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "There are six polytechnics in Singapore.",
+                "answer": "true",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many institutions of higher learning specializing in subjects like engineering, business, and technology are in Singapore?",
+                "answer": "text: two",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the number of polytechnics in Singapore?",
+                "answer": "the number of polytechnics in singapore is not specified.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many polytechnics are there in Singapore?'",
+                "answer": "there are five polytechnics in singapore.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "There are five polytechnics in Singapore.",
+                "answer": "which is the largest among them?\n\nthe largest polytechnic in singapore appears to be nanyang polytechnic, based on the school's website.",
+                "exact_match": "yes",
+                "llm_selfevaluation": ""
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many polytechnics are there in Singapore?' There are 5 polytechnics in Singapore.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many institutes of higher learning specializing in technology are in Singapore?",
+                "answer": "there are three institutes of higher learning specializing in technology in singapore.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many institutes of higher learning that offer courses leading to a diploma or professional qualification are in Singapore?",
+                "answer": "there are three institutes of higher learning that offer courses leading to a diploma or professional qualification in singapore. these include the technical school, the polytechnic, and the university-preparatory school.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "There are three polytechnics in Singapore.",
+                "answer": "what are they?\n\nthe three polytechnics in singapore are offsets of the british polytechnic system. they are the singapore polytechnic, the nanyang polytechnic, and the temasek polytechnic.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "A Singaporean secondary school typically consists of six years of education.",
+                "answer": "true or false?\n\nfalse. a singaporean secondary school typically consists of five years of education.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the average amount of years of education in a secondary school in Singapore?",
+                "answer": "the average amount of education in a secondary school in singapore is six years.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "In Singapore, how many years of schooling are in a secondary school?",
+                "answer": "a secondary school in singapore is five years.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What is the duration of a Singaporean secondary school education in years?'\n\nA Singaporean secondary school education takes place over six years.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "In Singapore, how many years of education are in a secondary school?",
+                "answer": "five",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many academic years are in a typical Singaporean secondary school?",
+                "answer": "a typical singaporean secondary school is five academic years.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many years of education are in a typical Singaporean secondary school?",
+                "answer": "a typical singaporean secondary school has five years of education.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many academic years are there in a Singaporean secondary school?'\n\nThere are four academic years in a Singaporean secondary school.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the duration of a Singaporean secondary school education in years?",
+                "answer": "the duration of a singaporean secondary school education is 5 years.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How long is the Singaporean secondary school educational program?",
+                "answer": "the singaporean secondary school educational program is five to six years long.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes."
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the number of O-Level examinations?",
+                "answer": "one.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many exams are in the O-Level program?",
+                "answer": "there are 5 exams in the o-level program.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "There are six O-Level examinations.",
+                "answer": "true or false?\n\nfalse. there are only five o-level examinations.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "false"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many O-Level examinations are required?",
+                "answer": "one o-level examination is required.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What is the number of O-Level examinations?'",
+                "answer": "one",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no\n two\n\nno: Incomplete ground"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the total number of O-Level examinations?",
+                "answer": "there are a total of five o-level examinations.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many subjects are there in an O-Level examination?'",
+                "answer": "there are between 5 and 14 subjects in an o-level examination, depending on the examination board.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many O-Level exams are offered?",
+                "answer": "there is no mention of how many o-level exams are offered.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many subjects are there in an O-Level examination?'",
+                "answer": "there are up to 10 subjects in an o-level examination.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Some schools offer a 6-year program.yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Level O examinations are there?",
+                "answer": "there is only one level o examination.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many schools offer trade and technical programs?",
+                "answer": "at least two schools offer trade and technical programs, ite and a polytechnic.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many trade schools are there?",
+                "answer": "there is one trade school in singapore.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "There are a total of 220 technical schools in the United States.",
+                "answer": "which two factors may contribute to this difference?\n\none factor that may contribute to the difference is that the united states does not have a centralized institute like the millennia institute. additionally, in the united states, there is not a system in place that distinguishes between polytechnics and universities.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many institutions are there that provide technical education?",
+                "answer": "in the context, there are three institutions that provide technical education: ite, a polytechnic, or a university-preparatory school (a junior college or the millennia institute, a centralized institute).",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many trade schools are there?",
+                "answer": "there is only one trade school in this context, ite.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Unknown"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What is the number of technical schools?'",
+                "answer": "there is no specific number of technical schools.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many institutions offer technical education?",
+                "answer": "a. 1\n\nb. 2\n\nc. 3\n\nd. 4\n\nb. 2",
+                "exact_match": "yes",
+                "llm_selfevaluation": "The answer is consistent with the ground truth."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many trade schools are there?",
+                "answer": "there is only one trade school in singapore.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "There are ____ technical schools.",
+                "answer": "one",
+                "exact_match": "yes",
+                "llm_selfevaluation": "unknown"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "There are a total of 4 technical schools.",
+                "answer": "false. there are a total of 5 technical schools.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "False"
+            }
+        ]
+    ],
+    "yesno_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Is the curriculum at Polytechnics in Singapore geared towards industrial/vocational applications?",
+                "answer": "2. are polytechnic students able to transfer credits to local and overseas universities?\n\n1. yes, the curriculum at polytechnics in singapore is geared towards industrial/vocational applications.\n2. yes, polytechnic students are able to transfer credits to local and overseas universities.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Does Polytechnics in Singapore offer industry-oriented education?",
+                "answer": "2. what is the education system in singapore similar to?\n\n1. yes, polytechnics in singapore offer industry-oriented education.\n\n2. the education system in singapore is similar to the united kingdom's education system.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '1. Is Polytechnics in Singapore focused on providing an education that prepares students for work in specific industries?'",
+                "answer": "yes, polytechnics in singapore are focused on providing an education that prepares students for work in specific industries.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Is the curriculum of Polytechnics in Singapore focused on preparing students for careers in specific industries?",
+                "answer": "2. do polytechnics in singapore offer transfer credits to students who wish to study at a university?\n\n1. yes, the curriculum of polytechnics in singapore is focused on preparing students for careers in specific industries.\n\n2. yes, polytechnics in singapore offer transfer credits to students who wish to study at a university.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Is Polytechnics in Singapore an education that focuses on preparing students for careers in industry?",
+                "answer": "2. what does polytechnics in singapore offer that is different from universities?\n\n1. yes, polytechnics in singapore is an education that focuses on preparing students for careers in industry. 2. polytechnics in singapore offer a technical education that is equivalent to a junior college or sixth form college in the uk.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Is the education at Polytechnics in Singapore focused on preparing students for work in specific industries?",
+                "answer": "yes, the education at polytechnics in singapore is focused on preparing students for work in specific industries.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Does Polytechnics in Singapore provide industry-oriented education?",
+                "answer": "2. do polytechnics in singapore offer bachelor's, master's, or phd degrees?\n\n1. yes, polytechnics in singapore provide industry-oriented education.\n\n2. no, polytechnics in singapore do not offer bachelor's, master's, or phd degrees.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Is the education at Singapore Polytechnics focused on specific industries?",
+                "answer": "yes, the education at singapore polytechnics is focused on specific industries.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is Polytechnics in Singapore education focused on preparing students for careers in specific industries?",
+                "answer": "yes. polytechnics in singapore education is focused on preparing students for careers in specific industries.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '1. Is the focus of Polytechnics in Singapore geared towards industry?'",
+                "answer": "yes. polytechnics in singapore provides industry oriented education.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What are the degrees offered by Polytechnics in Singapore?",
+                "answer": "polytechnics in singapore provide industry oriented education equivalent to a junior college or sixth form college in the uk. they do not offer bachelors, masters or phd degrees. however, polytechnic graduates may be granted transfer credits when they apply to local and overseas universities, depending on the overall performance in their grades, as well as the university's policies on transfer credits.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What level of academic degree does a Polytechnic in Singapore offer?' \nAnswer: A Polytechnic in Singapore offers a diploma.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Does Polytechnics in Singapore offer undergraduate, graduate or doctoral degrees?",
+                "answer": "polytechnics in singapore does not offer undergraduate, graduate or doctoral degrees.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What kind of degrees does Polytechnics in Singapore offer? \nPolytechnics in Singapore offers bachelors, masters or PhD degrees.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "The answer is consistent with the ground truth"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What kind of degrees does Polytechnics in Singapore offer?'\nPolytechnics in Singapore offers bachelors, masters and PhD degrees.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What kind of degrees does Polytechnics in Singapore offer?",
+                "answer": "polytechnics in singapore does not offer bachelors, masters or phd degrees.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What type of degrees does Polytechnics in Singapore offer?",
+                "answer": "polytechnics in singapore offer two-year associate degrees.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What types of degrees does Polytechnics in Singapore offer?",
+                "answer": "polytechnics in singapore offers industry-oriented education equivalent to a junior college or sixth form college in the uk. they do not offer bachelors, masters, or phd degrees.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Does Polytechnics in Singapore offer undergraduate, graduate or doctorate degrees?",
+                "answer": "no, polytechnics in singapore does not offer undergraduate, graduate or doctorate degrees.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2. Does a Polytechnic in Singapore offer bachelors, masters or PhD degrees?",
+                "answer": "no, a polytechnic in singapore does not offer bachelors, masters or phd degrees.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            }
+        ]
+    ]
+}

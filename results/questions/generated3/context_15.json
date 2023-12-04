@@ -1,0 +1,861 @@
+{
+    "context": "After the 1980s, the use of the \"Canadian Armed Forces\" name gave way to \"Canadian Forces\";[citation needed] The \"Canadian Armed Forces\" name returned in 2013.\n",
+    "count": [
+        "1. How many years did the \"Canadian Armed Forces\" name give way to \"Canadian Forces\"?",
+        "2. How many times has the \"Canadian Armed Forces\" name returned?",
+        "3. How many years was the \"Canadian Armed Forces\" name used?",
+        "4. How many citations are needed for the \"Canadian Armed Forces\" name to return?",
+        "5. How many times will the \"Canadian Armed Forces\" name be used?"
+    ],
+    "yesno": [
+        "1. Is \"Canadian Armed Forces\" the same as \"Canadian Forces\"?",
+        "2. Did the use of \"Canadian Armed Forces\" end in the 1980s?",
+        "3. Did the name \"Canadian Armed Forces\" return in 2013?",
+        "4. Is the name \"Canadian Forces\" still used today?"
+    ],
+    "count_gt": [
+        "thirty-three",
+        "unknown",
+        "unknown",
+        "unknown",
+        "two"
+    ],
+    "yesno_gt": [
+        "no",
+        "yes",
+        "no",
+        "no"
+    ],
+    "count_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How long was the Canadian Armed Forces' name used before it changed to Canadian Forces?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the Canadian Armed Forces' history with the name \"Canadian Forces\"?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many years did the \"Canadian Armed Forces\" name change to \"Canadian Forces\"?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the timespan of when the \"Canadian Armed Forces\" name changed to \"Canadian Forces\"?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the Canadian Forces' history?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: For how many years was the name \"Canadian Armed Forces\" used before it changed to \"Canadian Forces\"?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How long was the \"Canadian Armed Forces\" name used before it changed to \"Canadian Forces\"?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many years did the name \"Canadian Armed Forces\" change to \"Canadian Forces\"?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How long did the \"Canadian Armed Forces\" name give way to \"Canadian Forces\"?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many years did the \"Canadian Armed Forces\" name change to \"Canadian Forces\"?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many times has the term \"Canadian Armed Forces\" been used?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many times has the \"Canadian Armed Forces\" been mentioned?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many times has the \"Canadian Armed Forces\" been mentioned?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the frequency of the Canadian Armed Forces name?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many times has the term \"Canadian Armed Forces\" been used?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many times has \"Canadian Armed Forces\" been mentioned?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How often does the \"Canadian Armed Forces\" name appear?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many times has the name \"Canadian Armed Forces\" been used?\n\nAs of November 2020, the name \"Canadian Armed Forces\" has been used four times."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many different results did the search for \"Canadian Armed Forces\" return?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the Canadian Armed Forces' recurrence rate?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How long has the \"Canadian Armed Forces\" name been used?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How long was the \"Canadian Armed Forces\" name used for?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How long was the \"Canadian Armed Forces\" name used? \n\nThe \"Canadian Armed Forces\" name was used for nearly 50 years, from 1967 until it was changed to simply \"Forces armées canadiennes\" in 2015."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How long was the \"Canadian Armed Forces\" name used?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "For how many years was the \"Canadian Armed Forces\" name used?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the length of time that the \"Canadian Armed Forces\" name was used?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How long was the \"Canadian Armed Forces\" name used for?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How long was the \"Canadian Armed Forces\" name used?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How long was the \"Canadian Armed Forces\" name used for?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: For how many years was the \"Canadian Armed Forces\" name used? \n\nThe Canadian Armed Forces were formerly known as the National Defence, or ND. The name change occurred in 2011."
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many citations are needed for the \"Canadian Armed Forces\" name to appear?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many citations are needed for the \"Canadian Armed Forces\" name to be recognized?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many citations are needed for the \"Canadian Armed Forces\" name to be used again?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '4. How many citations are needed for the \"Canadian Armed Forces\" name to be cited again?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many citations are needed for the \"Canadian Armed Forces\" name to be cited?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many citations are needed for the \"Canadian Armed Forces\" name to appear?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '4. How many citations are required for the \"Canadian Armed Forces\" name to be reinstated?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many citations are needed for the \"Canadian Armed Forces\" name to show up?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many citations are needed for the \"Canadian Armed Forces\" name to show up?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many citations are required for the \"Canadian Armed Forces\" name to appear?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "In how many instances will the term \"Canadian Armed Forces\" be used?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "In how many different ways will the \"Canadian Armed Forces\" name be used?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How often will the \"Canadian Armed Forces\" name be used?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How often will the \"Canadian Armed Forces\" be mentioned?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the frequency of the use of the term \"Canadian Armed Forces\" in this text?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many times is the name \"Canadian Armed Forces\" used?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many times is the \"Canadian Armed Forces\" name used?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many times is the name \"Canadian Armed Forces\" used?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Canadian Armed Forces will be mentioned how many times?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many times is the name \"Canadian Armed Forces\" used?"
+            }
+        ]
+    ],
+    "yesno_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Are the \"Canadian Armed Forces\" and the \"Canadian Forces\" the same thing? \n\nYes, they are both used to refer to the country's military organization."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Are \"Canadian Armed Forces\" and \"Canadian Forces\" the same thing?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '1. What is the difference between \"Canadian Armed Forces\" and \"Canadian Forces\"?'\n\nThere is no difference between Canadian Armed Forces and Canadian Forces."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Are the Canadian Armed Forces and the Canadian Forces the same thing?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Are the Canadian Armed Forces and Canadian Forces the same thing?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Are \"Canadian Armed Forces\" and \"Canadian Forces\" the same?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is \"Canadian Armed Forces\" the same as \"Canadian Forces\"?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is the Canadian Armed Forces the same as the Canadian Forces?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What is the difference between \"Canadian Armed Forces\" and \"Canadian Forces\"? \nAnswer: The Canadian Armed Forces are the military forces of Canada, comprising land, sea, and air elements referred to as the Royal Canadian Navy (RCN), Canadian Army, and Royal Canadian Air"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '1. Is the \"Canadian Armed Forces\" the same as the \"Canadian Forces?\"'"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What was the last decade in which the term \"Canadian Armed Forces\" was used?' The term was last used in the 1980s."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '2. Did the use of \"Canadian Armed Forces\" begin in the 1980s?' No, the Canadian military has been known by many names throughout its history. The term “Canadian Armed Forces” came into effect on February 1st, 1968."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Do you know if the use of \"Canadian Armed Forces\" ended in the 1980s?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did \"Canadian Armed Forces\" stop being used in the 1980s?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "In what year did the Canadian Armed Forces stop using the term \"Canadian Armed Forces\"?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'When did the Canadian Armed Forces stop using \"Canadian Armed Forces\"?' The use of \"Canadian Armed Forces\" ended in the 1980s."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2. Did the term \"Canadian Armed Forces\" fall out of use in the 1980s?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2. Did the term \"Canadian Armed Forces\" come into use in the 1980s?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "When did the use of \"Canadian Armed Forces\" end?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did the use of \"Canadian Armed Forces\" begin in the 1980s?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is it true that the name \"Canadian Armed Forces\" was reintroduced in 2013?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did the name \"Canadian Armed Forces\" return in 2013?\nYes, it did."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Was the name \"Canadian Armed Forces\" reinstated in 2013?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What was the name of Canada's military in 2013?' The Canadian Armed Forces."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Was the name \"Canadian Armed Forces\" reintroduced in 2013?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Was the name \"Canadian Armed Forces\" reinstated in 2013?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Did the name \"Canadian Armed Forces\" come back in 2013?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What was the name of the Canadian military in 2013?'\n\nThe answer to this question is that the name \"Canadian Armed Forces\" returned in 2013."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. When did the name \"Canadian Armed Forces\" return?'\nThe Canadian Armed Forces reverted back to its original name in 2013."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. In 2013, did the name \"Canadian Armed Forces\" return?'\n\nYes, the name \"Canadian Armed Forces\" returned in 2013."
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4. Do the Canadian Forces still use the name \"Canadian Forces\" today?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4. What is the current name of Canada's military forces?'\n\nYes, the Canadian Forces are still in operation today."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4. Is the name \"Canadian Forces\" in use today?'Yes, the name is still used today."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is the \"Canadian Forces\" name still used today?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is the \"Canadian Forces\" still in use today?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What is the current name of the Canadian Forces?' The Canadian Forces are currently named \"The Royal Canadian Navy, Canadian Army, and Royal Canadian Air Force.\""
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4. Is the term \"Canadian Forces\" still used today?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Is the name \"Canadian Forces\" still used today? \n\nYes, Canadian Armed Forces is the new official name since 2011."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Are the Canadian Forces still called by that name today?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What is the current name of the Canadian Armed Forces?'\n\nThe name \"Canadian Forces\" was changed to \"Canadian Armed Forces\" in 2011."
+            }
+        ]
+    ]
+}

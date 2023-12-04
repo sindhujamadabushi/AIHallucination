@@ -1,0 +1,579 @@
+{
+    "context": "Under the 1830 Act any householder who paid rates could apply, with a one-off payment of two guineas (roughly equal in value to £168 today), to sell beer or cider in his home (usually the front parlour) and even to brew his own on his premises. The permission did not extend to the sale of spirits and fortified wines, and any beer house discovered selling those items was closed down and the owner heavily fined. Beer houses were not permitted to open on Sundays. The beer was usually served in jugs or dispensed directly from tapped wooden barrels on a table in the corner of the room. Often profits were so high the owners were able to buy the house next door to live in, turning every room in their former home into bars and lounges for customers",
+    "count": [
+        "1. How much did it cost to apply for a license to sell beer in 1830?",
+        "2. How many beer houses were found to be selling spirits and fined?",
+        "3. How many rooms could be turned into bars and lounges if the owner lived next door?",
+        "4. How much did a jug of beer cost in 1830?",
+        "5. How many beer houses were allowed to be open on Sundays?"
+    ],
+    "yesno": [
+        "-Did the 1830 Act allow for the sale of beer on Sundays?"
+    ],
+    "count_gt": [
+        "one hundred and sixty eight dollars",
+        "unknown",
+        "unknown",
+        "unknown",
+        "zero"
+    ],
+    "yesno_gt": [
+        "no"
+    ],
+    "count_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "1. How much did it cost to apply for a license to sell beer in 1830?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How much did it cost to apply for a license to sell beer in 1830?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "In 1830, how much did it cost to apply for a license to sell beer?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "1. What was the fee to apply for a license to sell beer in 1830?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "In 1830, how much did it cost to apply for a license to sell beer?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How much did it cost to apply for a license to sell beer in 1830?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the cost of applying for a license to sell beer in 1830?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How much did it cost to obtain a license to sell beer in 1830?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the fee for a beer selling license in 1830?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: What was the cost of applying for a license to sell beer in 1830?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '2. How many beer houses were found to be selling spirits and subsequently fined?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many beer houses were found to be selling liquor and fined?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many beer houses were found to be selling spirits and fined?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many beer houses were found to be selling spirits and fined?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many beer houses were found to be selling spirits and fined?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many beer houses were found to be selling spirits and fined?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many beer houses were caught selling spirits and fined?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many beer houses were found to be selling spirits and subsequently fined?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many beer houses were found to be selling liquor illegally and fined?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many beer houses were found to be selling spirits and fined?'"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "If the owner lived next door, how many rooms could be turned into bars and lounges?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many additional bars and lounges could be opened if the owner lived next door?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: If the owner of the building lived next door, how many rooms could be turned into bars and lounges?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: If the owner lived next door, how many rooms could be turned into bars and lounges?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '3. If the owner lived next door, how many rooms could be turned into bars and lounges?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "If the owner lived next door, how many rooms could be turned into bars and lounges?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many rooms in the building could be turned into bars and lounges if the owner lived next door?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "If the owner lived next door, how many rooms could be turned into bars and lounges?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '3. How many rooms could be turned into bars and lounges if the owner had no problem with noise?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many rooms in the hotel could be turned into bars and lounges if the owner lived next door?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "In 1830, how much did a jug of beer cost?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the price of a jug of beer in 1830?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "In 1830, how much did a jug of beer cost?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the cost of a jug of beer in 1830?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the price of a jug of beer in 1830?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How much did a beer cost in 1830?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How much did a pint of beer cost in 1830?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How much would a jug of beer cost in 1830?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the price of a jug of beer in 1830?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "In 1830, how much did a jug of beer cost?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many beer houses were open on Sundays?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many beer houses were allowed to operate on Sundays?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many beer houses were allowed to be open on Sundays?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many beer houses were allowed to be open on Sundays according to the law?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many beer establishments were allowed to be open on Sundays?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many beer houses were allowed to be open on Sundays according to the law?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many breweries were allowed to be open on Sundays?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many beer houses were allowed to be open on Sundays?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many beer houses were open on Sundays?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many beer houses were allowed to be open on Sundays in the United States?"
+            }
+        ]
+    ],
+    "yesno_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "-Did the 1830 Act permit the sale of beer on Sundays?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "-Did the 1830 Act allow for alcoholic beverages to be sold on Sundays?\nNo, the 1830 Act did not allow for alcoholic beverages to be sold on Sundays."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '-Did the 1830 Act permit the sale of beer on Sundays?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Was the 1830 Act amended to allow for the sale of beer on Sundays? \nNo, it was not."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "-Did the 1830 Act permit the sale of beer on Sundays?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "-Did the 1830 Act permit the sale of beer on Sundays?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "-Did the 1830 Act permit the sale of beer on Sundays?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Did the 1830 Act allow for the sale of beer on Sundays?' \nYes, it did."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Was the 1830 Act effective in allowing the sale of beer on Sundays?'\nNo, the 1830 Act was not effective in allowing the sale of beer on Sundays."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did the 1830 Act allow for beer to be sold on Sundays? \nYes, the 1830 act did allow for beer to be sold on Sundays."
+            }
+        ]
+    ]
+}

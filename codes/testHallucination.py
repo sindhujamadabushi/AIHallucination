@@ -4,13 +4,13 @@ from evaluationMetrics import llm_selfevaluation, exact_match
 from loadDataset import LoadDataset
 from openai import OpenAI
  
-api_key="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"
+api_key="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"
 
-all_data = LoadDataset.read_all_json_files('../results/questions/generated/')
-output_directory = ('../results/questions/generated2/')
+all_data = LoadDataset.read_all_json_files('../results/questions/generated3/')
+output_directory = ('../results/questions/generated4/')
 
 for i, dataset in enumerate(all_data):
-    if i != 6:
+    if i <= 20:
         continue
     context = dataset['context']
     count_questions = dataset['count']

@@ -1,0 +1,1007 @@
+{
+    "context": "In Eastern Christianity heresy most commonly refers to those beliefs declared heretical by the first seven Ecumenical Councils.[citation needed] Since the Great Schism and the Protestant Reformation, various Christian churches have also used the concept in proceedings against individuals and groups those churches deemed heretical. The Orthodox Church also rejects the early Christian heresies such as Arianism, Gnosticism, Origenism, Montanism, Judaizers, Marcionism, Docetism, Adoptionism, Nestorianism, Monophysitism, Monothelitism and Iconoclasm.\n",
+    "count": [
+        "How many Ecumenical Councils were there?",
+        "How many Christian churches are there?",
+        "How many heresies are there?",
+        "How many early Christian heresies are there?",
+        "How many Iconoclasms are there?"
+    ],
+    "yesno": [
+        "Did Eastern Christianity always deem certain beliefs heretical?",
+        "Has the concept of heresy changed since the Great Schism?",
+        "Do all Christian churches see heresy in the same way?"
+    ],
+    "count_gt": [
+        "seven",
+        "unknown",
+        "twelve",
+        "twelve",
+        "one"
+    ],
+    "yesno_gt": [
+        "yes",
+        "no",
+        "no"
+    ],
+    "count_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the total number of Ecumenical Councils?",
+                "answer": "there are a total of seven ecumenical councils.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What is the total number of Ecumenical Councils?' \nThere have been twenty one ecumenical councils in the history of the Catholic Church.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many ecumenical councils were held throughout history?",
+                "answer": "a. 8\n\nb. 7\n\nc. 9\n\nd. 6\n\nb. 7",
+                "exact_match": "yes",
+                "llm_selfevaluation": "7"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many General Councils were there?",
+                "answer": "there were seven general councils.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Ecumenical Councils have been held?",
+                "answer": "since the context only refers to the \"first seven ecumenical councils,\" there have been a total of seven ecumenical councils.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "There have been seven Ecumenical Councils in total.",
+                "answer": "true or false?\n\nfalse- there have been seven ecumenical councils in eastern christianity.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What is the total number of Ecumenical Councils that have taken place?'\nThere have been a total of 21 Ecumenical Councils.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Context: In Eastern Christianity heresy most commonly"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the total number of Ecumenical Councils?",
+                "answer": "there have been a total of seven ecumenical councils.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many Ecumenical Councils have there been?'\nAnswer: There have been twenty-one Ecumenical Councils.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes. The answer is consistent with the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the total number of Ecumenical Councils?",
+                "answer": "there are a total of seven ecumenical councils.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "There are over 33,000 Christian denominations worldwide.",
+                "answer": "assuming that the orthodox church rejects all the heresies mentioned in the context, how many of those denominations does the orthodox church not consider heretical?\n\nthe orthodox church does not consider over 33,000 christian denominations worldwide to be heretical.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many Christian denominations are there?'",
+                "answer": "there are an estimated 41,000 christian denominations worldwide.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many churches are there that identify as Christian?",
+                "answer": "there are thousands of churches that identify as christian.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many Christian denominations are there?'",
+                "answer": "there is no one answer to this question as there is no one definition of a christian denomination. some denominations may be very specific, such as the eastern orthodox church, while others, such as protestantism, may be much more broad.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many different Christian denominations are there?'",
+                "answer": "there are dozens of different christian denominations.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "There are many different types of Christian churches.",
+                "answer": "which of the following is not one of them?\n\northodox church, catholic church, baptist church, anglican church, methodist church",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many different denominations of Christianity are there?",
+                "answer": "there are over 41,000 different denominations of christianity.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Christian denominations are there?",
+                "answer": "there are many christian denominations, but the orthodox church only recognizes seven ecumenical councils.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many denominations of Christianity are there?",
+                "answer": "there are hundreds of denominations of christianity.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Christian denominations are there?",
+                "answer": "there are numerous christian denominations, each with different beliefs.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the total number of heresies?",
+                "answer": "there are twelve heresies total.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many types of heresies are there?",
+                "answer": "according to the context, there are multiple types of heresies.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many types of heresy are there?",
+                "answer": "according to the context, there are at least seven types of heresy.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many different teachings that oppose orthodox beliefs are there?'",
+                "answer": "there are twelve different teachings that oppose orthodox beliefs.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many different views on religious teachings are there that go against main beliefs?'",
+                "answer": "there are many different views on religious teachings that go against main beliefs. the first seven ecumenical councils declared many of these beliefs heretical. later, various christian churches used the concept of heresy to proceedings against individuals and groups they deemed heretical. the orthodox church alone rejects the early christian heresies such as arianism, gnosticism, origenism, montanism, judaizers, marcionism, docetism, adoptionism, nestorianism, monophysitism, monothelitism and iconoclasm.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many different types of heresy are there?",
+                "answer": "there are eleven different types of heresy.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many types of heresy are there?",
+                "answer": "there are twelve types of heresy according to the orthodox church.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many different types of heresies are there?",
+                "answer": "there are twelve different types of heresies according to the context.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many types of heresies are there?'",
+                "answer": "there are many types of heresies.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many different heretical beliefs are there?",
+                "answer": "at least 13 different heretical beliefs are mentioned in the context.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the number of early Christian heresies?",
+                "answer": "there are eleven early christian heresies.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many different early Christian heresies are there?",
+                "answer": "there are eleven different early christian heresies: arianism, gnosticism, origenism, montanism, judaizers, marcionism, docetism, adoptionism, nestorianism, monophysitism, monothelitism, and iconoclasm.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What is the number of early Christian heresies?'\nThere are numerous early Christian heresies.",
+                "answer": "some of the more well-known ones are arianism, gnosticism, origenism, montanism, judaizers, marcionism, docetism, adoptionism, nestorianism, monophysitism, monothelitism and iconoclasm.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many different early Christian heresies are there?",
+                "answer": "there are twelve different early christian heresies.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are some early Christian heresies?",
+                "answer": "arianism, gnosticism, origenism, montanism, judaizers, marcionism, docetism, adoptionism, nestorianism, monophysitism, monothelitism and iconoclasm.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are the main early Christian heresies?",
+                "answer": "the main early christian heresies are arianism, gnosticism, origenism, montanism, judaizers, marcionism, docetism, adoptionism, nestorianism, monophysitism, monothelitism and iconoclasm.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the total number of early Christian heresies?",
+                "answer": "there are 11 early christian heresies.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Christian heresies were there in the early church?",
+                "answer": "there were many christian heresies in the early church. the orthodox church rejects the early christian heresies such as arianism, gnosticism, origenism, montanism, judaizers, marcionism, docetism, adoptionism, nestorianism, monophysitism, monothelitism and iconoclasm.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many early Christian theological disputes were there?'",
+                "answer": "there were seven early christian theological disputes.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the number of early Christian heresies?",
+                "answer": "there are eleven early christian heresies according to the given context.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many times has the destruction of icons occurred?",
+                "answer": "just once. iconoclasm was declared a heresy by the seventh ecumenical council.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many times has Iconoclasms occurred?",
+                "answer": "iconoclasm has only occurred once.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many periods of iconoclasm have there been?",
+                "answer": "there have been two periods of iconoclasm.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many times has the destruction of religious icons been sanctioned by a government or religious institution?",
+                "answer": "at least twice.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the number of Iconoclasms?",
+                "answer": "there are two iconoclasms: the first occurred in the 8th century and the second in the 16th century.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many times has the act of iconoclasm occurred?",
+                "answer": "the act of iconoclasm has occurred at least eleven times.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many times has the world seen an Iconoclasm?' \nThere have been three major iconoclasms in history.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many times has the iconoclasm occurred?",
+                "answer": "iconoclasm has occurred multiple times throughout history.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many episodes of Iconoclast are there?",
+                "answer": "there are no episodes of iconoclast. the context is discussing christian heresies, and iconoclasm is one of those heresies.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many times has the iconoclasm occurred?' \nAnswer: There have been two major periods of iconoclasm.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            }
+        ]
+    ],
+    "yesno_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Was Eastern Christianity always opposed to certain beliefs?'",
+                "answer": "no, eastern christianity was not always opposed to certain beliefs. prior to the great schism and the protestant reformation, eastern christianity generally held to the beliefs declared by the first seven ecumenical councils. however, since the great schism and the protestant reformation, various christian churches have used the concept of heresy to oppose individuals and groups whose beliefs they deem to be heretical.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Eastern Christianity always believe that certain beliefs were heresy?",
+                "answer": "no, eastern christianity did not always believe that certain beliefs were heresy. this belief developed over time as certain christian churches declared certain beliefs to be heretical.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "No, Eastern Christianity has not always deemed certain beliefs heretical.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes, the answer is consistent with the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Have Eastern Christians always deemed certain beliefs heretical?'",
+                "answer": "yes.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Does Eastern Christianity always deem certain beliefs heretical?",
+                "answer": "based on the context, it seems that eastern christianity does deem certain beliefs heretical.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Have Eastern Christians always believed certain beliefs to be heresy?' No, Eastern Christianity has not always deemed certain beliefs heretical.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Have there always been certain beliefs that Eastern Christianity has considered heretical?'",
+                "answer": "yes, eastern christianity has always considered certain beliefs to be heretical.",
+                "exact_match": "no",
+                "llm_selfevaluation": "heresy is a specific belief that has been declared incorrect"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Has Eastern Christianity always held certain beliefs to be heresy?'\nYes, Eastern Christianity has always deemed certain beliefs heretical.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Has Eastern Christianity always held certain beliefs to be heresy?",
+                "answer": "based on the context, it appears that eastern christianity has always held certain beliefs to be heresy.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Eastern Christianity always deem certain beliefs to be incorrect?",
+                "answer": "based on the context, it seems that eastern christianity has always deemed certain beliefs to be incorrect if those beliefs were declared heretical by the first seven ecumenical councils.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "How has the concept of heresy changed since the Great Schism?",
+                "answer": "since the great schism, the concept of heresy has been used more frequently by christian churches in proceedings against individuals and groups they deem heretical.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "To what extent has the concept of heresy changed since the Great Schism?",
+                "answer": "the concept of heresy has changed significantly since the great schism. prior to the schism, heresy was primarily defined by the seven ecumenical councils. after the schism, various christian churches have used the concept of heresy to define groups or individuals they deem to be in opposition to their own beliefs. the orthodox church has rejected many of the early christian heresies, but the concept of heresy has changed to encompass a wider range of beliefs.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "In what ways has the concept of heresy changed since the Great Schism?",
+                "answer": "the concept of heresy has changed in that various christian churches have used it against individuals and groups those churches deem heretical.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Has the definition of heresy changed since the Great Schism?",
+                "answer": "yes, the definition of heresy has changed since the great schism.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "How has the concept of heresy changed since the Great Schism?",
+                "answer": "since the great schism and the protestant reformation, various christian churches have used the concept of heresy in proceedings against individuals and groups that those churches deemed heretical.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "In what ways, if any, has the concept of heresy changed since the Great Schism?",
+                "answer": "one way the concept of heresy has changed since the great schism is that various christian churches have started using the concept in proceedings against individuals and groups those churches deem heretical. another way the concept of heresy has changed is that the orthodox church has started rejecting the early christian heresies such as arianism, gnosticism, origenism, montanism, judaizers, marcionism, docetism, adoptionism, nestorianism, monophysitism, monothelitism and iconoclasm.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "In what ways, if any, has the concept of heresy changed since the Great Schism?",
+                "answer": "the concept of heresy has not changed since the great schism.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What is the difference between heresy and schism?",
+                "answer": "heresy is a belief that is declared heretical by the first seven ecumenical councils. schism is a split between two churches or groups within a church.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "To what extent has the concept of heresy changed since the Great Schism?",
+                "answer": "the concept of heresy has not changed much since the great schism. it is still used by various christian churches to proceedings against individuals and groups deemed heretical by those churches.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "In what ways, if any, has the concept of heresy changed since the Great Schism?",
+                "answer": "since the great schism, the concept of heresy has been used more specifically to refer to those beliefs declared heretical by various christian churches. prior to the great schism, heresy was used more broadly to refer to any deviation from the orthodox beliefs of the time.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Do different Christian churches have different views on heresy?'",
+                "answer": "yes, different christian churches have different views on heresy. for example, the orthodox church rejects the early christian heresies such as arianism, gnosticism, origenism, montanism, judaizers, marcionism, docetism, adoptionism, nestorianism, monophysitism, monothelitism and iconoclasm.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Do Christian churches have different views on what constitutes heresy?",
+                "answer": "yes, christian churches have different views on what constitutes heresy.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: How are heretical beliefs viewed by different Christian churches?",
+                "answer": "heretical beliefs are viewed differently by different christian churches. some churches view them as beliefs that are declared heretical by the first seven ecumenical councils, while others view them as beliefs that are rejected by the orthodox church.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Do Christian churches all have the same definition of heresy?",
+                "answer": "no, christian churches do not all have the same definition of heresy.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "How do different Christian churches view heresy?",
+                "answer": "different christian churches view heresy as beliefs that are declared heretical, usually by the first seven ecumenical councils. however, since the great schism and the protestant reformation, different churches have also used the concept in proceedings against individuals and groups that those churches deem heretical.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What is the stance of Christian churches on heresy?'\n\nMost Christian churches see heresy as a denial or disbelieve of core tenets of the Christian faith. This can include denying the Trinity, Christ's divinity or resurrection. Heretical teachings are often seen as dangerous to both individuals",
+                "answer": "and the larger christian community, as they can lead people astray from christianity. as such, most churches take a hard stance against heresy, often excommunicating or shunning those who teach or believe in heresy.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "How do different Christian churches view heresy?",
+                "answer": "different christian churches have different views on heresy. some churches, like the orthodox church, reject all early christian heresies. other churches, like the catholic church, only reject some of the early christian heresies. still other churches, like the protestant churches, do not consider any of the early christian heresies to be heresy.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'How do different Christian churches view heresy?'",
+                "answer": "different christian churches have different views on heresy. some churches, like the orthodox church, reject certain early christian heresies, while other churches may view heresy as any belief that is declared heretical by an ecumenical council.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Do all Christian churches have the same definition of heresy?",
+                "answer": "no, they do not.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Do all Christian churches have the same definition of heresy?'",
+                "answer": "no, all christian churches do not have the same definition of heresy. depending on the church, heresy may refer to different beliefs.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            }
+        ]
+    ]
+}

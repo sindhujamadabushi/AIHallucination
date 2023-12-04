@@ -1,0 +1,673 @@
+{
+    "context": "In 2004, SME and Bertelsmann Music Group merged as Sony BMG Music Entertainment. When Sony acquired BMG's half of the conglomerate in 2008, Sony BMG reverted to the SME name. The buyout led to the dissolution of BMG, which then relaunched as BMG Rights Management. Out of the \"Big Three\" record companies, with Universal Music Group being the largest and Warner Music Group, SME is middle-sized.\n",
+    "count": [
+        "How many record companies are there in the world?",
+        "How many record companies are in the \"Big Three?\""
+    ],
+    "yesno": [
+        "1) Has Sony BMG produced any number-one hits?",
+        "2) Is Sony BMG bigger than Universal Music Group?",
+        "3) Was BMG Music Entertainment successful?",
+        "4) Did the merge between SME and BMG dissolve BMG?",
+        "5) Is BMG Rights Management the same as BMG?"
+    ],
+    "count_gt": [
+        "unknown",
+        "three"
+    ],
+    "yesno_gt": [
+        "unknown",
+        "no",
+        "unknown",
+        "yes",
+        "yes"
+    ],
+    "count_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Approximately 3,500."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many companies are there in the world that produce records?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many companies are there in the world that record music?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the estimated number of record companies in the world?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the estimated number of record companies in the world?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many record labels are there in the world?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many companies that produce records are in the world?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many different record companies are there in the world?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many record labels are there in the world?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many companies that produce records are there in the world?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many members are in the \"Big Three\" record companies?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What are the names of the three major record companies?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many companies are in the \"Big Three\" record label?'\nThe answer is Universal Music Group, Sony Music Entertainment, and Warner Music Group."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are the \"Big Three\" record companies?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many record companies are in the \"Major Three?\""
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many major record companies are there?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many major record companies are part of the \"Big Three?\""
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many record companies are in the \"Major Three?\"'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many record companies are in the \"Big Three?\""
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many record companies make up the \"Big Three?\"'"
+            }
+        ]
+    ],
+    "yesno_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) Has Sony BMG produced any songs that have topped the charts?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) Have Sony BMG's artists had any number-one hits?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Has Sony BMG had any number-one hits?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What is Sony BMG's greatest achievement?'\n\nSony BMG has produced many number-one hits."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What is Sony BMG's most popular song?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What is the highest charting position that a song released by Sony BMG has achieved?\n\nThe highest charting position that a song released by Sony BMG is number one."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) What is Sony BMG's record for producing number-one hits?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) Has Sony BMG produced any hits that reached number one on the charts?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '2) What is Sony BMG's biggest hit?'\n\n1) Has Sony BMG produced any songs that reached number one on the charts? \n2)Sony BMG's biggest hit is ______."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What is Sony BMG's greatest achievement?'\n\nSony BMG has produced many number-one hits."
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Is Sony BMG bigger in size than Universal Music Group?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Which company is larger- Sony BMG or Universal Music Group?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2) Which is bigger, Sony BMG or Universal Music Group?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is Sony BMG larger than Universal Music Group?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '2) Which company is bigger, Sony BMG or Universal Music Group?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '2) Which music group is bigger, Sony BMG or Universal Music Group?'\n\nAs of July 2008, Universal Music Group is the biggest music company in the world."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Which music company is larger, Sony BMG or Universal Music Group?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Which company is larger, Sony BMG or Universal Music Group?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Which music group is bigger, Sony BMG or Universal Music Group?\n\nUniversal Music Group"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is Sony BMG larger than Universal Music Group?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3) Did BMG Music Entertainment achieve success?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did BMG Music Entertainment achieve its goals?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3) Did BMG Music Entertainment achieve success?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3) What was the result of BMG Music Entertainment?'\nSuccessful."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "3) Did BMG Music Entertainment find success?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3) Was the acquisition of BMG Music Entertainment by Sony successful?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "3) Did BMG Music Entertainment achieve success?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "3) Did BMG Music Entertainment find success?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What was the outcome of BMG Music Entertainment?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3) Did BMG Music Entertainment achieve success?'"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did the merge between SME and BMG dissolve BMG? \nNo, the merge did not dissolve BMG."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4) Did the merge between SME and BMG dissolve BMG?'\nNo, the merge created Sony Music Entertainment, with both companies operating under that name."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did the merger between SME and BMG dissolve BMG?\nNo, the merger created a new company, Sony BMG."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4) What was the result of the merge between SME and BMG?'\nThe two companies dissolved BMG and continued as a single company, SME."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did the merger between SME and BMG result in the dissolution of BMG?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 4) What was the outcome of the merge between SME and BMG? \nThe merge dissolved BMG."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4) Did the merger between SME and BMG dissolve BMG?' \nAnswer: Yes, the merger resulted in the dissolution of BMG."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 4) What was the outcome of the merge between SME and BMG? \nThe merge dissolved BMG."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did the merge between SME and BMG cause BMG to dissolve?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4) Did the merger between SME and BMG dissolve BMG?'\nNo, the merger did not dissolve BMG."
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Are BMG Rights Management and BMG the same?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "BMG Rights Management and BMG are two different companies."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Is BMG Rights Management a subsidiary of BMG?\nYes, BMG Rights Management is a subsidiary of BMG."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Is BMG Rights Management a subsidiary of BMG?'\n\nYes, BMG Rights Management is a subsidiary of BMG."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Are BMG Rights Management and BMG the same company?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 5) Are BMG Rights Management and BMG the same?\n\nNo, BMG Rights Management is a subsidiary of Bertelsmann SE & Co. KGaA, while BMG is an independent company that was formerly part of Bertelsmann."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Is BMG Rights Management a subsidiary of BMG?\n\nYes, BMG Rights Management is a subsidiary of BMG."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 5) What is the difference between BMG Rights Management and BMG?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "No, BMG Rights Management and BMG are two different companies."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Is BMG Rights Management a subsidiary of BMG?\nYes, BMG Rights Management is a subsidiary of BMG."
+            }
+        ]
+    ]
+}

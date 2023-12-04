@@ -1,0 +1,767 @@
+{
+    "context": "Suffering (Pāli: दुक्ख dukkha; Sanskrit दुःख duḥkha) is also a central concept in Buddhism. The word roughly corresponds to a number of terms in English including suffering, pain, unsatisfactoriness, sorrow, affliction, anxiety, dissatisfaction, discomfort, anguish, stress, misery, and frustration. Although the term is often translated as \"suffering\", its philosophical meaning is more analogous to \"disquietude\" as in the condition of being disturbed. As such, \"suffering\" is too narrow a translation with \"negative emotional connotations\"[web 9] that can give the impression that the Buddhist view is pessimistic, but Buddhism seeks to be neither pessimistic nor optimistic, but realistic. In English-language Buddhist literature translated from Pāli, \"dukkha\" is often left untranslated, so as to encompass its full range of meaning.[note 8]\n",
+    "count": [
+        "How many types of suffering are there in Buddhism?",
+        "What is the main cause of suffering in Buddhism?",
+        "What is the purpose of suffering in Buddhism?",
+        "How many different English words can be used to translate the concept of suffering?"
+    ],
+    "yesno": [
+        "1. Does the Buddhist concept of suffering correspond to any terms in English?",
+        "2. Is suffering a central concept in Buddhism?",
+        "3. Is the word 'suffering' too narrow a translation for the Buddhist concept of 'dukkha'?",
+        "4. Is the Buddhist view pessimistic?"
+    ],
+    "count_gt": [
+        "twelve",
+        "unknown",
+        "unknown",
+        "zero"
+    ],
+    "yesno_gt": [
+        "no",
+        "yes",
+        "yes",
+        "no"
+    ],
+    "count_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many types of dukkha are there in Buddhism?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many types of dukkha are there in Buddhism?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: What are the different types of suffering outlined in Buddhism?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many types of suffering are described in Buddhism?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What are the different types of suffering in Buddhism?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are the different types of suffering in Buddhism?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are the different types of suffering according to Buddhism?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many types of suffering does Buddhism identify?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "There are many types of suffering in Buddhism."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are the different types of suffering described in Buddhism?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What is the main cause of dukkha in Buddhism?'\nDukkha, or suffering, is caused by craving and attachment."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are the main causes of suffering in Buddhism?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What is the main cause of suffering according to Buddhism?'\n\nThe main cause of suffering in Buddhism is attachment."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What is the main cause of suffering according to Buddhist teachings?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "The main cause of suffering in Buddhism is attachment."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the first cause of suffering in Buddhism?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What is the main cause of suffering according to Buddhist teachings?'\n\nThe main cause of suffering in Buddhism is ignorance."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: What are the main causes of suffering in Buddhism?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the root cause of suffering in Buddhism?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the main cause of suffering according to Buddhist teachings?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the role of suffering in Buddhism?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How does Buddhism explain suffering?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What is the meaning of suffering in Buddhism?' \n\nThe purpose of suffering, or dukkha, in Buddhism is to teach us that nothing in life is permanent. Everything is always changing and nothing stays the same. Suffering reminds us that we are not perfect"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the role of suffering in Buddhism?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How does suffering fit into the Buddhist way of life?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What role does suffering play in Buddhism?' \n\nThe purpose of suffering, or dukkha, in Buddhism is to show that life is not perfect and that we should strive to end our attachment to things."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the role of suffering in Buddhism?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the role of suffering in Buddhism?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What is the role of suffering in Buddhism?'\n\nSuffering is an important part of Buddhist teachings because it shows that life is not perfect and that we should be grateful for what we have. It also teaches us to let go of attachment to things that can cause us"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "In Buddhism, what is the purpose of suffering?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many different words in English can be used to translate the concept of suffering?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many different words in the English language can be used to translate the concept of suffering?'\n\nThere are no solid numbers on how many English words can be used to translated the concept of suffering. However, there is an estimate that over one thousand different words could be used"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many English words are there for the concept of suffering?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many different ways can you say 'suffering' in English?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many different English words can be used to describe suffering? \n\nThere are many different English words that can be used to describe suffering. Some of these words include pain, hurt, anguish, distress, and misery."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many different ways can you say 'suffering' in English?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: What are some different English words that can be used to translate the concept of suffering?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: What are some different English words that can be used to translate the concept of suffering?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are some different English words that can be used to translate the concept of suffering?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many English words are there for the concept of suffering?"
+            }
+        ]
+    ],
+    "yesno_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What is the English translation for the Buddhist concept of suffering?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Is the Buddhist concept of suffering similar to any terms in English?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. What is the English translation for the Buddhist concept of suffering?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. What is the English translation of the Buddhist concept of suffering?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. How does the Buddhist concept of suffering compare to any terms in English?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is there an English equivalent to the Buddhist concept of suffering?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. What does the Buddhist concept of suffering correspond to in English?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What is the English translation of the Buddhist concept of suffering?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What is the English translation for the Buddhist concept of suffering?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. What is the English translation of the Buddhist concept of suffering?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "How important is the idea of suffering in Buddhism?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is suffering a key concept in Buddhism?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2. Does Buddhism focus on suffering?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2. Does Buddhism consider suffering to be a central concept?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What is the role of suffering in Buddhism?' \n\nIn Buddhism, suffering is an important part of the path to Enlightenment. It is one of the Four Noble Truths, and it teaches that by understanding suffering, we can transcend it."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "In Buddhism, is suffering considered a central concept?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Is the alleviation of suffering a central concept in Buddhism?\n\nYes, the alleviation of suffering is a central concept in Buddhism."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2. Does suffering play a central role in Buddhism?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2. Does Buddhism focus on suffering?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Is suffering a key component of the Buddhist religion? \n\nYes, Buddha himself said that life is full of sufferings."
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is the word 'suffering' an accurate translation for the Buddhist concept of 'dukkha'?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What is the most accurate translation for the Buddhist concept of 'dukkha'?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Is the translation of 'dukkha' as 'suffering' too narrow?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. What is the best translation for the Buddhist concept of 'dukkha'?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "How accurately does the word 'suffering' translate to the Buddhist concept of 'dukkha'?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. What is the word 'dukkha' in Buddhism?' \nThe word \"dukkha\" in Buddhism means suffering."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Is the word 'suffering' an accurate translation for the Buddhist concept of 'dukkha'?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "How accurately does the word 'suffering' translate the Buddhist concept of 'dukkha'?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is the word 'suffering' an accurate translation of the Buddhist concept of 'dukkha'?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Does the word 'suffering' accurately translate the Buddhist concept of 'dukkha'?'"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Does the Buddhist view entail that life is ultimately unhappy or unworthy of living?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Is the Buddhist view of reality negative? \nNo, the Buddhist view is not pessimistic."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Is the Buddhist view pessimistic?' \nNo, the Buddha's teachings are not pessimistic. The Buddhas teaching emphasize the importance of developing positive states of mind, such as loving-kindness and compassion."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4. Do Buddhists believe that life is full of suffering?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is the Buddhist view a pessimistic one?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Buddhism teaches that life is full of suffering. Does this make the religion pessimistic?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is the Buddhist view pessimistic?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is the Buddhist view of life pessimistic?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is the Buddhist view of reality bleak?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Buddhism teaches that suffering is inevitable, but that it can be alleviated by following the path. Some people might see this as a pessimistic view, but Buddhists believe that understanding and accepting suffering leads to true happiness."
+            }
+        ]
+    ]
+}

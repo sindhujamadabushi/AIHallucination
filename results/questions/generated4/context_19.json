@@ -1,0 +1,1255 @@
+{
+    "context": "Chopin's public popularity as a virtuoso began to wane, as did the number of his pupils, and this, together with the political strife and instability of the time, caused him to struggle financially. In February 1848, with the cellist Auguste Franchomme, he gave his last Paris concert, which included three movements of the Cello Sonata Op. 65.\n",
+    "count": [
+        "1) How many pupils did Chopin have?",
+        "2) How many concerts did Chopin give in Paris?",
+        "3) How many movements were in the Cello Sonata Op. 65?",
+        "4) How much money did Chopin struggle to make?",
+        "5) How many February 1848s were there?"
+    ],
+    "yesno": [
+        "1. Did Chopin's popularity as a virtuoso begin to decline in the 1830s?",
+        "2. Did the number of Chopin's pupils also start to decrease during this time?",
+        "3. Was Chopin's financial situation worsened by the political instability of the 1840s?",
+        "4. Did Chopin give his last Paris concert in February 1848?",
+        "5. Did the program for this final concert include the Cello Sonata Op. 65?"
+    ],
+    "count_gt": [
+        "unknown",
+        "unknown",
+        "three",
+        "unknown",
+        "one"
+    ],
+    "yesno_gt": [
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ],
+    "count_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many students did Chopin teach?",
+                "answer": "chopin taught few students in his later years.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many students did Chopin teach?",
+                "answer": "chopin taught 3 students.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "1) How many students did Chopin teach?",
+                "answer": "2) why was his public popularity as a virtuoso beginning to wane?\n\n1) chopin taught fewer and fewer pupils as his public popularity as a virtuoso began to wane. \n2) the political strife and instability of the time may have caused his public popularity as a virtuoso to begin to wane.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "1) How many students did Chopin teach?",
+                "answer": "2) what caused chopin to struggle financially?\n\n1) chopin taught a number of students, but the number dwindled over time.\n\n2) chopin struggled financially due to a combination of factors, including a decline in public popularity and political instability.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many students did Chopin teach?",
+                "answer": "chopin taught fewer and fewer students as his public popularity as a virtuoso waned.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many pupils did Chopin teach?'",
+                "answer": "chopin taught fewer pupils as his public popularity as a virtuoso began to wane.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Chopin had how many pupils?",
+                "answer": "chopin had a number of pupils.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many students did Chopin teach?",
+                "answer": "chopin taught fewer and fewer students as his public popularity waned.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "1) How many students did Chopin teach?",
+                "answer": "2) what was the focus on his last concert?\n\n1) chopin taught fewer students as his public popularity as a virtuoso began to wane.\n\n2) the focus of his last concert was on the cello sonata op. 65.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Chopin had how many pupils?",
+                "answer": "chopin had fewer than 10 pupils.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many concerts did Chopin perform in Paris?",
+                "answer": "chopin performed three concerts in paris.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many concerts did Chopin perform in Paris?",
+                "answer": "this is not stated in the passage, but we can infer that chopin gave at least two concerts in paris, since he is described as giving his \"last\" paris concert.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many concerts did Chopin give in total?",
+                "answer": "this is not stated in the passage.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many concerts did Chopin perform in Paris?",
+                "answer": "chopin performed three concerts in paris.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many concerts did Chopin give in his lifetime?",
+                "answer": "chopin gave hundreds of concerts throughout his lifetime.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many concerts did Chopin give in Paris? \nAnswer: 180",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '2) How many concerts did Chopin perform in Paris?'",
+                "answer": "chopin performed three concerts in paris.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many concerts did Chopin give in total?",
+                "answer": "we do not know how many concerts chopin gave in total.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the total number of concerts that Chopin gave in Paris?",
+                "answer": "chopin gave a total of three concerts in paris.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many concerts did Frederic Chopin give in Paris?",
+                "answer": "chopin gave three concerts in paris.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many sections are in the Cello Sonata Op. 65?",
+                "answer": "there are three sections in the cello sonata op. 65.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many movements are in the Cello Sonata Op. 65?' \nThere are three movements in the Cello Sonata Op. 65.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "The answer is consistent with the ground truth"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many sections are in the Cello Sonata Op. 65?",
+                "answer": "there are three sections in the cello sonata op. 65.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many sections are in the Cello Sonata Op. 65?",
+                "answer": "there are three sections in the cello sonata op. 65.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many movements were in the Cello Sonata Op. 65?' \nThere are three movements in the Cello Sonata Op. 65.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the total number of movements in Cello Sonata Op. 65?",
+                "answer": "there were four movements in the cello sonata op. 65.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many movements were in the Cello Sonata Op. 65?",
+                "answer": "the cello sonata op. 65 had three movements.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many movements are in the Cello Sonata Op. 65?",
+                "answer": "3",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many sections are in the Cello Sonata Op. 65?",
+                "answer": "the cello sonata op. 65 is in three sections.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many movements are in the Cello Sonata Op. 65?\nThere are three movements in the Cello Sonata Op. 65.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What were Chopin's financial struggles?",
+                "answer": "chopin's financial struggles were caused by a combination of factors, including a decline in public popularity, a decline in the number of students, and political instability.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How much money did Chopin earn?",
+                "answer": "chopin earned very little money.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What were Chopin's financial difficulties?",
+                "answer": "chopin's public popularity as a virtuoso began to wane, as did the number of his pupils, and this, together with the political strife and instability of the time, caused him to struggle financially.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How little money did Chopin struggle to make?",
+                "answer": "chopin struggled to make very little money.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '4) How much money did Chopin have difficulty making?'",
+                "answer": "chopin had difficulty making money.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How much money did Chopin have to work hard for?",
+                "answer": "chopin had to work hard for money.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '4) How much money did Chopin make?'\"",
+                "answer": "there is no specific answer to this question. during this time period, chopin's public popularity as a virtuoso began to wane, as did the number of his pupils. this, together with the political strife and instability of the time, caused him to struggle financially.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How little money did Chopin struggle to make?",
+                "answer": "chopin struggled to make very little money.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How little money did Chopin struggle to make?",
+                "answer": "chopin struggled to make very little money.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How little money did Chopin struggle to make?",
+                "answer": "chopin struggled to make very little money.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many years were there in which February 1848 occurred?",
+                "answer": "there were 47 years in which february 1848 occurred.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many February 1848s have there been?",
+                "answer": "there have been two february 1848s.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many February 1848s have there been?",
+                "answer": "there has only been one february 1848.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many February 1848s were there?'",
+                "answer": "there was only one february 1848.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "There was only one February 1848.",
+                "answer": "what other information is necessary to tell when this event happened?\n\nthe event happened in the year 1848.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '5) How many February 1848s have there been?'",
+                "answer": "there have been two february 1848s.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many February 1848s have there been?",
+                "answer": "this february 1848 was the most recent one.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many February 1848s have there been?",
+                "answer": "there have been two february 1848s.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many February 1848s were there?'",
+                "answer": "there was only one february 1848.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the significance of February 1848?",
+                "answer": "february 1848 is the date of chopin's last paris concert.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            }
+        ]
+    ],
+    "yesno_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Did Chopin's popularity as a virtuoso decrease in the 1830s?",
+                "answer": "2. did chopin have any regular pupils in the 1830s?\n\n3. did chopin give any public concerts in the 1830s?\n\n1. chopin's popularity as a virtuoso waned in the 1830s.\n\n2. chopin had fewer pupils in the 1830s.\n\n3. chopin gave his last public concert in february 1848.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Did Chopin's popularity as a virtuoso start to decrease in the 1830s?",
+                "answer": "2. did he have fewer pupils as a result of his declining popularity?\n\n3. what other factors may have contributed to his financial struggles?\n\n1. while chopin's popularity as a virtuoso may have started to decline in the 1830s, it did not significantly affect his career until the 1840s.\n\n2. chopin's declining popularity likely resulted in fewer pupils, although other factors such as the political unrest of the time may also have contributed.\n\n3. in addition to his declining popularity, chopin's financial struggles may have been caused by the political strife and instability of the time.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Did Chopin's popularity start to decrease in the 1830s?",
+                "answer": "2. did chopin give his last concert in the presence of auguste franchomme?\n\n1. yes\n2. yes",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Was Chopin's popularity as a virtuoso beginning to decline in the 1830s?",
+                "answer": "2. by 1848, was chopin's popularity as a virtuoso beginning to decline?\n\n1. it is not clear from the context when chopin's public popularity as a virtuoso began to wane.\n2. yes, by 1848 chopin's popularity as a virtuoso was beginning to decline.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Was Chopin's popularity as a virtuoso beginning to decline in the 1830s?",
+                "answer": "2. why was chopin struggling financially in 1848?\n\n1. no, chopin's popularity as a virtuoso began to decline in the 1840s.\n\n2. chopin was struggling financially in 1848 because the number of his pupils had decreased and he was experiencing political strife and instability.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Did Chopin's popularity decrease in the 1830s?",
+                "answer": "no, his popularity began to wane in the 1840s.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Did Chopin's popularity begin to decline in the 1830s?",
+                "answer": "2. what caused his popularity to decline?\n\n1. chopin's popularity did not begin to decline in the 1830s.\n\n2. chopin's popularity began to decline in the 1840s due to the political strife and instability of the time.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did Chopin's popularity decline when he was in his 30s?",
+                "answer": "chopin was in his 30s when his popularity as a virtuoso began to wane.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Did Chopin's popularity start to decrease in the 1830s?",
+                "answer": "2. did chopin struggle financially because he had fewer pupils?\n\n1. it is not clear when chopin's popularity began to decrease.\n2. yes, chopin struggled financially because he had fewer pupils.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Did Chopin's popularity begin to decline in the 1830s?",
+                "answer": "2. did the number of his pupils begin to decline in the 1830s?\n\n1. chopin's public popularity as a virtuoso may have begun to decline in the 1830s, although this is not stated explicitly in the context.\n2. it is not stated explicitly when the number of chopin's pupils began to decline, but it is implied that it was around the same time as his public popularity began to decline.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '2. Did fewer students begin to study with Chopin during this time?'",
+                "answer": "yes, the number of chopin's pupils began to decline during this period.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did the number of Chopin's pupils begin to decline during this time?",
+                "answer": "chopin's public popularity as a virtuoso began to wane, as did the number of his pupils.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is it correct that the number of Chopin's pupils decreased during this time period as well?",
+                "answer": "yes, the number of chopin's pupils decreased during this time period.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 2. Did Chopin's number of pupils also start to decrease during this time?",
+                "answer": "yes, chopin's number of pupils began to decrease during this time.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did Chopin's number of pupils also start to decrease during this time?",
+                "answer": "yes, the number of chopin's pupils also began to decline during this period.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes, the number of Chopin's"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did Chopin's number of pupils also start to decrease during this time?",
+                "answer": "yes, chopin's number of pupils also started to decrease during this time.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2. Did the number of Chopin's pupils also start to decrease during this time?",
+                "answer": "based on the context, it seems that the number of chopin's pupils did start to decrease during this time.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Chopin's number of pupils also start to decrease during this time?",
+                "answer": "yes, chopin's number of pupils started to decrease during this time.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Does the number of Chopin's pupils also start to decrease during this time?",
+                "answer": "yes, the number of chopin's pupils also starts to decrease during this time.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '2. Did fewer students start taking Chopin's classes during this time?'",
+                "answer": "based on the information in the context, it can be inferred that the number of chopin's pupils decreased during the time when his public popularity began to wane.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes."
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Did the political instability of the 1840s worsen Chopin's financial situation?'",
+                "answer": "based on the context, it would appear that the answer to this question is yes.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Did Chopin's financial situation worsen because of the political instability in the 1840s?'",
+                "answer": "yes, chopin's financial situation did worsen because of the political instability in the 1840s.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Chopin's financial situation worsen because of the political instability in the 1840s?",
+                "answer": "yes, the political instability in the 1840s caused chopin's financial situation to worsen.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did Chopin's financial situation worsen because of the political instability during the 1840s?",
+                "answer": "it is likely that the political instability of the 1840s contributed to chopin's worsening financial situation.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did the political instability of the 1840s make Chopin's financial situation worse?",
+                "answer": "yes, the political instability of the 1840s made chopin's financial situation worse.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did the political instability of the 1840s worsen Chopin's financial situation?",
+                "answer": "yes, the political instability of the 1840s worsened chopin's financial situation.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Did the political instability of the 1840s worsen Chopin's financial situation?'",
+                "answer": "the answer is yes.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: How did Chopin's financial situation change in the 1840s as a result of the political instability?",
+                "answer": "chopin's financial situation worsened in the 1840s as a result of the political instability.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Did Chopin's financial situation worsen due to the political instability of the 1840s?'",
+                "answer": "yes, chopin's financial situation worsened due to the political instability of the 1840s.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "3. Did Chopin's financial situation worsen because of the political instability in the 1840s?",
+                "answer": "yes, chopin's financial situation did worsen because of the political instability in the 1840s.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Chopin's last Paris concert was in February 1848, correct?",
+                "answer": "yes, chopin's last paris concert was in february 1848.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Chopin give his last concert in Paris in February 1848?",
+                "answer": "yes, chopin gave his last concert in paris in february 1848.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'In February 1848, did Chopin give his last Paris concert?'",
+                "answer": "no, chopin did not give his last paris concert in february 1848.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did Chopin give his last concert in Paris in February 1848?\n\nAnswer: Yes, Chopin gave his last concert in Paris in February 1848.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Chopin gave his last Paris concert in February 1848, correct?'",
+                "answer": "yes, this is correct.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did Chopin's last Paris concert take place in February 1848? \nYes, it did.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Chopin's public popularity as a virtuoso"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'When did Chopin give his last concert in Paris?' \nChopin gave his last concert in Paris on February 17, 1848.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Chopin give his final Paris concert in February 1848?",
+                "answer": "yes, chopin gave his final paris concert in february 1848.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'In February 1848, did Chopin give his last Paris concert?'",
+                "answer": "yes",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Chopin's last Paris concert take place in February 1848?",
+                "answer": "yes",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "5. Did the Cello Sonata Op. 65 appear on the program for this final concert?",
+                "answer": "yes, the cello sonata op. 65 appears on the program for chopin's final concert.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '5. Did the program for this final concert include the Cello Sonata in D major, Op. 65?'",
+                "answer": "the program for this final concert included three movements of the cello sonata op. 65.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '5. Did the program for this final concert include Mendelssohn's Cello Sonata Op. 65?'",
+                "answer": "the program for this final concert included three movements of the cello sonata op. 65, but it is not clear if mendelssohn's cello sonata op. 65 was also included.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '5. Was the Cello Sonata Op. 65 included in the program for this final concert?'",
+                "answer": "yes",
+                "exact_match": "no",
+                "llm_selfevaluation": "The answer is consistent with the ground"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did the program for this final concert include Brahms' Cello Sonata Op. 65?",
+                "answer": "no, brahms' cello sonata op. 65 was not included in the program for this final concert.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What pieces were included in the program for this final concert?' The Cello Sonata Op. 65 was one of the pieces.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is the Cello Sonata Op. 65 included in the program for this final concert?",
+                "answer": "yes, the cello sonata op. 65 is one of the pieces included in the program for the final concert.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did the program for this final concert include Beethoven's Cello Sonata Op. 65?",
+                "answer": "no, the program for this particular concert only included three movements from chopin's cello sonata op. 65.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '5. Did the program for this final concert include Beethoven's Cello Sonata Op. 65?'",
+                "answer": "no.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "1"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '5. Was the Cello Sonata Op. 65 included in the program for this final concert?'",
+                "answer": "yes, the cello sonata op. 65 was included in the program for the final concert.",
+                "exact_match": "no",
+                "llm_selfevaluation": "ground truth=yes, answer refers to it="
+            }
+        ]
+    ]
+}

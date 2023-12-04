@@ -1,0 +1,971 @@
+{
+    "context": "Nintendo staff members reported that demo users complained about the difficulty of the control scheme. Aonuma realized that his team had implemented Wii controls under the mindset of \"forcing\" users to adapt, instead of making the system intuitive and easy to use. He began rethinking the controls with Miyamoto to focus on comfort and ease.[q] The camera movement was reworked and item controls were changed to avoid accidental button presses.[r] In addition, the new item system required use of the button that had previously been used for the sword. To solve this, sword controls were transferred back to gestures—something E3 attendees had commented they would like to see. This reintroduced the problem of using a right-handed swing to control a left-handed sword attack. The team did not have enough time before release to rework Link's character model, so they instead flipped the entire game—everything was made a mirror image.[s] Link was now right-handed, and references to \"east\" and \"west\" were switched around. The GameCube version, however, was left with the original orientation. The Twilight Princess player's guide focuses on the Wii version, but has a section in the back with mirror-image maps for GameCube users.[t]\n",
+    "count": [
+        {
+            "question": "How many Nintendo staff members reported complaints about the control scheme?",
+            "answer": "One Nintendo staff member reported complaints about the control scheme."
+        },
+        {
+            "question": "How many users were surveyed about the control scheme?",
+            "answer": "Aonuma and Miyamoto reworked the controls based on feedback from Nintendo staff members, who reported that demo users found the control scheme difficult. It's not stated how many users were surveyed."
+        },
+        {
+            "question": "How many button presses did the new item system require?",
+            "answer": "The new item system required two button presses."
+        },
+        {
+            "question": "How many minutes before release did the team rework Link's character model?",
+            "answer": "The team did not have enough time before release to rework Link's character model."
+        },
+        {
+            "question": "How many sections are in the player's guide?",
+            "answer": "There are two sections in the player's guide."
+        }
+    ],
+    "yesno": [
+        {
+            "question": "1. Did Nintendo staff members report that demo users complained about the difficulty of the control scheme?",
+            "answer": "2. What did Aonuma do in response to the complaints?\n\n1. Yes, Nintendo staff members reported that demo users complained about the difficulty of the control scheme.\n\n2. In response to the complaints, Aonuma began rethinking the controls with Miyamoto to focus on comfort and ease."
+        },
+        {
+            "question": "2. Did Aonuma realize that his team had implemented Wii controls under the mindset of \"forcing\" users to adapt, instead of making the system intuitive and easy to use?",
+            "answer": "Based on the context, it can be inferred that Aonuma did realize that his team had implemented Wii controls under the mindset of \"forcing\" users to adapt, instead of making the system intuitive and easy to use."
+        },
+        {
+            "question": "3. Did the camera movement get reworked and item controls get changed to avoid accidental button presses?",
+            "answer": "Yes, the camera movement was reworked and item controls were changed to avoid accidental button presses."
+        },
+        {
+            "question": "4. Did the new item system require use of the button that had previously been used for the sword?",
+            "answer": "Yes."
+        },
+        {
+            "question": "5. Did Link's character model get changed so that he was right-handed?",
+            "answer": "No, the team did not have enough time before release to rework Link's character model. Instead, they flipped the entire game so that everything was a mirror image. Link was now right-handed, and references to \"east\" and \"west\" were switched around."
+        }
+    ],
+    "count_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Nintendo employees reported complaints about the control scheme? One Nintendo employee reported complaints about the control scheme."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many complaints about the control scheme were reported by Nintendo staff members?\nOne complaint about the control scheme was reported by a Nintendo staff member."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Nintendo staff members were there that reported complaints about the control scheme?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: One Nintendo staff member reported complaints about the control scheme."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people who work for Nintendo reported feeling frustrated with the control scheme? Just one staff member came forward with that feedback."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Nintendo staff members were complaintive about the control scheme?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many Nintendo staff members were there who reported complaints about the control scheme? Answer: One Nintendo staff member reported complaints about the control scheme."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many complaints about the control scheme were reported by Nintendo staff members?\nAnswer: One complaint about the control scheme was reported by a Nintendo staff member."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many complaints about the control scheme were reported by Nintendo staff members?\nAnswer: One complaint about the control scheme was reported by a Nintendo staff member."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many complaints about the control scheme were reported by Nintendo staff members?\nOne complaint about the control scheme was reported by a Nintendo staff member."
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Nintendo staff members were surveyed about the control scheme?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people were surveyed about the control scheme?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the feedback from Nintendo staff members about the control scheme? Aonuma and Miyamoto reworked the controls based on this feedback. It's not stated how many users were surveyed."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people were surveyed about the control scheme?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the feedback that Nintendo staff members reported about the control scheme?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many staff members at Nintendo were surveyed about the control scheme?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people were surveyed about the control scheme?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many users were asked for feedback about the control scheme? Aonuma and Miyamoto reworked the controls based on feedback from Nintendo staff members, who reported that demo users found the control scheme difficult. It's not stated how many users were surveyed."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people were surveyed about the control scheme?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people were surveyed about the control scheme?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many button presses were required for the new item system?\nThe new item system required two button presses."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the number of button presses required for the new item system? The new item system required two button presses."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the number of button presses required for the new item system?\nThe new item system required two button presses."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many button presses were required for the new item system?\nAnswer: The new item system required two button presses."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many button presses were required for the new item system?\nThe new item system required two button presses."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many button presses were required for the new item system?\nThe new item system required two button presses."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many button presses are required for the new item system?\nThe new item system requires two button presses."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many button presses were required for the new item system?\nTwo."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many button presses were required for the new item system? The new item system required two button presses."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many button presses were required for the new item system? The new item system required two button presses."
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '{'question': \"How long before release did the team have to rework Link's character model?\", 'answer': \"The team did not have enough time before release to rework Link's character model.\"}'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How much time did the team have before release to rework Link's character model?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How long before release did the team have to rework Link's character model? The team didn't have enough time to finish reworking Link's character model."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How much time did the team have before release to rework Link's character model? The team did not have enough time before release to rework Link's character model."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How long before release did the team have to rework Link's character model?\nAnswer: The team had insufficient time before release to rework Link's character model."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How close to release did the team have to rework Link's character model?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How much time did the team have before release to rework Link's character model?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How much time before release did the team have to rework Link's character model?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '{'question': \"How many minutes before release did the team rework Link's character model?\", 'answer': \"The team had to work on Link's character model right up until release.\"}'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How much time did the team have before release to rework Link's character model?\nAnswer: The team did not have enough time before release to rework Link's character model."
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many parts are in the player's guide? There are two sections in the player's guide."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many parts are in the player's guide? There are two sections in the player's guide."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: \"How many parts are in the player's guide?\"\nAnswer: There are two sections in the player's guide."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many subsections are in the player's guide? There are two sections in the player's guide."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the number of sections in the player's guide? There are two sections in the player's guide."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many parts are in the player's guide? There are two sections in the player's guide."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many sections are in the player's guide?\nAnswer: There are two sections in the player's guide."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many sections are in the player's guide? There are two sections in the player's guide."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many sections are in the player's guide?\nAnswer: There are two sections in the player's guide."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many sections are in the player's guide? There are two sections in the player's guide."
+            }
+        ]
+    ],
+    "yesno_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Did users who tried the game demo at Nintendo complain about the difficulty of the control scheme? \n2. What was Aonuma's response to these complaints?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Did users who tried the demo version of the game have complaints about the control scheme being too difficult?\n2. What was Aonuma's response to these complaints?\n\n1. Yes, Nintendo staff members reported that demo users complained about the difficulty of the control scheme."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Nintendo staff members report that demo users complained about the difficulty of the control scheme? If so, what did Aonuma do in response to these complaints?\n\n1. Yes, Nintendo staff members reported that demo users complained about the difficulty of the control scheme. \n2."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Did the Nintendo staff find that players who tried the demo had issues with the control scheme being too difficult? \n2. What was Aonuma's response to these complaints?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Nintendo staff members report that demo users complained about the difficulty of the control scheme? If so, what was Aonuma's response?\n\n1. Yes, Nintendo staff members reported that demo users complained about the difficulty of the control scheme. \n2. In response to complaints"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Did demo users complain about the difficulty of the control scheme?\n2. What did Aonuma do in response to the complaints?\n\n1. Yes, Nintendo staff members reported that demo users complained about the difficulty of the control scheme.\n2. In response to the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Did any Nintendo staff members report complaints from demo users about the game's controls being too difficult?\n2. What was Aonuma's response to these complaints?\n\n1. Yes, Nintendo staff members reported that demo users complained about the difficulty of the control scheme."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Did the demo users for Nintendo report that they found the control scheme difficult?\n2. What was Aonuma's response to these complaints?\n\n1. Yes,Nintendo staff members reported that demo users complained about the difficulty of the control scheme. \n2. In"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Did the demo users for Nintendo complain about the difficulty of the control scheme?\n2. What was Aonuma's response to these complaints?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Nintendo staff members report that demo users complained about the difficulty of the control scheme? If so, what was Aonuma's response?\n\n1. Yes, Nintendo staff members reported that demo users complained about the difficulty of the control scheme.\n2. In response to the complaints"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did Aonuma realize that his team's implementation of Wii controls was forcing users to adapt, instead of making the system intuitive and easy to use?\nAnswer: Based on the context, it can be inferred that Aonuma did realize that his team had implemented Wii controls under"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Aonuma realize that his team had implemented Wii controls in a way that would force users to adapt, instead of making the system easy and intuitive to use?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Aonuma's team realize that they were forcing users to adapt Wii controls, instead of making the system easy and intuitive to use?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did Aonuma realize that his team's implementation of Wii controls was forcing users to adapt, instead of making the system easy and intuitive to use?\nAnswer: Based on the context, it can be inferred that Aonuma did realize that his team had implemented Wii controls under"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is it accurate to say that Aonuma realized his team had adopted a Wii controls approach that forced users to adapt, rather than making the system easy and natural to use?\nBased on the context, it can be inferred that Aonuma did realize that his team had implemented Wii controls"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Aonuma's team implement Wii controls with the intention of \"forcing\" users to adapt, instead of making the system easy to use?\nBased on the context, it can be inferred that Aonuma did realize that his team had implemented Wii controls under the mindset of \"forcing"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Aonuma realize that his team had implemented Wii controls in a way that would require users to adapt, instead of making the system more intuitive? Based on the context, it can be inferred that Aonuma did realize that his team had implemented Wii controls under the mindset of \"forcing"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Aonuma realize that his team had implemented Wii controls with the intention of \"forcing\" users to adapt, instead of making the system intuitive and easy to use?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Aonuma realize that his team had implemented Wii controls in a way that would require users to adapt, rather than making the system intuitive and easy to use?\n\nBased on the context, it can be inferred that Aonuma did realize that his team had implemented Wii controls under"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did Aonuma realize that his team had implemented Wii controls in a way that would require users to adapt, instead of making the system easy and intuitive to use?\nAnswer: Based on the context, it can be inferred that Aonuma did realize that his team had implemented"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did the camera movement and item controls get changed to avoid accidental button presses? \nAnswer: Yes, the camera movement was reworked and item controls were changed to avoid accidental button presses."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did the camera movement and item controls get changed to avoid accidental button presses?\nAnswer: Yes, the camera movement was reworked and item controls were changed to avoid accidental button presses."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Did the camera movement get reworked and item controls get changed so that accidental button presses would be avoided?' answer': Yes, the camera movement was reworkd and item controls were changed to avoid accidental button presses.'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Did the camera movement get changed and item controls get reworked to avoid accidental button presses?' answer: 'Yes, the camera movement was changed and item controls were reworked to avoid accidental button presses.'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Was the camera movement reworked and were item controls changed to avoid accidental button presses?'\nAnswer: Yes, the camera movement was reworked and item controls were changed to avoid accidental button presses."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did the camera movement and item controls get changed to avoid accidental button presses?\nAnswer: Yes, the camera movement was reworked and item controls were changed to avoid accidental button presses."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "3. Did the camera movement and item controls get changed to avoid accidental button presses?\nYes, both were changed for that purpose."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Did the camera movement and item controls get changed to avoid accidental button presses?' \nAnswer: Yes, both the camera movement and item controls were changed to avoid accidental button presses."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did the camera movement and item controls get changed to avoid accidental button presses?\nAnswer: Yes, both the camera movement and item controls were changed to avoid accidental button presses."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Did the camera movement and item controls get changed to avoid accidental button presses?'\nAnswer: Yes, the camera movement was reworked and item controls were changed to avoid accidental button presses."
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did the new item system require use of the button that was previously used for the sword? \nAnswer: Yes."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did the new item system require use of a different button than what was used for the sword?\nAnswer: Yes."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is the button for the new item system the same as the one that was used for the sword?\nYes."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is the new item system button different from the sword button?\nYes."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did the new item system require use of the button that had previously been used for the sword?\nYes."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did the new item system require use of the button that was previously used for the sword? \nYes."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4. Did the new item system require you to use a button that was previously used for your sword?' answer: 'Yes.'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did the new item system require use of the button that had previously been used for the sword?\nAnswer: Yes."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did the new item system require use of the button that was previously used for the sword?  Yes."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did the new item system replace the sword button with a new one? \nYes."
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Link's character model get changed so that everything was a mirror image and he became right-handed? \nNo, the team did not have enough time before release to rework Link's character model. Instead, they flipped the entire game so that everything was a mirror image."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did the team flip the entire game so that Link was right-handed? \nAnswer: Yes, they did this because they didn't have time to change his character model."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Link's character model stay the same or did it get changed so that he was right-handed? \nThe team didn't have enough time before release to rework Link's character model, so they flipped the entire game so that everything was a mirror image. That way, Link"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Link's character model stay the same, meaning he is left-handed?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did Link's character model get changed so that he was left-handed?\nAnswer: No, the team did not have enough time before release to rework Link's character model. Instead, they flipped the entire game so that everything was a mirror image. Link was now right"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did Link's character model get changed so that he was right-handed?\nAnswer: No, the team did not have enough time before release to rework Link's character model. Instead, they flipped the entire game so that everything was a mirror image. Link was now right-"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Link's character model get changed so that he was left-handed?\nNo, the team did not have enough time before release to rework Link's character model. Instead, they flipped the entire game so that everything was a mirror image. Link was now right-handed, and"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did Link's character model stay the same so that he was left-handed? \nAnswer: No, the team did not have enough time before release to rework Link's character model. Instead, they flipped the entire game so that everything was a mirror image. Link was"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Link's character model get changed so that he was originally left-handed but was switched to being right-handed?\nNo, the team did not have enough time before release to rework Link's character model. Instead, they flipped the entire game so that everything was a mirror image"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did the team have enough time to change Link's character model so that he was right-handed?\nNo, they did not have enough time. Instead, they flipped the entire game so that everything was a mirror image."
+            }
+        ]
+    ]
+}

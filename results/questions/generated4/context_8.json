@@ -1,0 +1,1131 @@
+{
+    "context": "After graduating from high school, West received a scholarship to attend Chicago's American Academy of Art in 1997 and began taking painting classes, but shortly after transferred to Chicago State University to study English. He soon realized that his busy class schedule was detrimental to his musical work, and at 20 he dropped out of college to pursue his musical dreams. This action greatly displeased his mother, who was also a professor at the university. She later commented, \"It was drummed into my head that college is the ticket to a good life... but some career goals don't require college. For Kanye to make an album called College Dropout it was more about having the guts to embrace who you are, rather than following the path society has carved out for you.\"\n",
+    "count": [
+        "How many painting classes did West take at the American Academy of Art?",
+        "How many years was West's mother a professor at the university?",
+        "How many times was it 'drummed into [West's] head that college is the ticket to a good life?'",
+        "At what age did West drop out of college?"
+    ],
+    "yesno": [
+        "1) Did West graduate from high school?",
+        "2) Did West receive a scholarship to attend the American Academy of Art?",
+        "3) Did West transfer to Chicago State University to study English?",
+        "4) Did West drop out of college to pursue his musical dreams?",
+        "5) Was West's mother a professor at the university?"
+    ],
+    "count_gt": [
+        "unknown",
+        "unknown",
+        "zero",
+        "twenty"
+    ],
+    "yesno_gt": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ],
+    "count_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the number of painting classes that West took at the American Academy of Art?",
+                "answer": "west only took painting classes for a short period of time and soon transferred to chicago state university, so the number of painting classes he took is unknown.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many painting classes did West take at the American Academy of Fine Arts?",
+                "answer": "west took one painting class at the american academy of fine arts.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "uncertain"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many painting classes did West take at the American Academy of Art?",
+                "answer": "west took at least one painting class at the american academy of art.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many painting classes did West take at the American Academy of Art?",
+                "answer": "one",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no\n\nThe answer does not contain enough information"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many painting classes did West take at the American Academy of Art?",
+                "answer": "west took at least one painting class at the american academy of art.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "West took a total of 3 painting classes at the American Academy of Art.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many painting classes did West take at the American Academy of Art?",
+                "answer": "west only took painting classes at the american academy of art for a short period of time before he transferred to chicago state university.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many painting classes did West take at the American Academy of Arts?",
+                "answer": "west only took painting classes at the american academy of arts for a short amount of time before he transferred to chicago state university.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many painting classes did West take at the American Academy of Arts?'",
+                "answer": "west took painting classes at the american academy of arts for a short time before transferring to chicago state university. it is not stated how many painting classes he took.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many painting classes did West take at the American Academy of Art?'\nWest took six painting classes at the American Academy of Art.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How long was West's mother a professor at the university?",
+                "answer": "west's mother was a professor at the university for an unspecified amount of time.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Unknown"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many years did West's mother teach at the university?",
+                "answer": "west's mother taught at the university for 20 years.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: West's mother was a professor at the university for how many years? \nWest's mother was a professor at the university for 20 years.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'For how many years was West's mother a professor at the university?'",
+                "answer": "west's mother was a professor at the university for an unknown number of years.",
+                "exact_match": "no",
+                "llm_selfevaluation": ""
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many years did West's mother teach as a professor at the university?",
+                "answer": "one possible answer to this question is that west's mother taught at the university for 20 years. however, this answer cannot be confirmed without further context.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was West's mother's profession?",
+                "answer": "west's mother was a professor at the university.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was West's mother's profession, and for how many years did she hold that position?",
+                "answer": "west's mother was a professor at the university for many years.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How long was West's mother a professor at the university?",
+                "answer": "west's mother was a professor at the university for an unknown amount of time.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many years did West's mother teach at the university?'",
+                "answer": "west's mother taught at the university for an unknown amount of time.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: For how many years was West's mother a professor at the university?",
+                "answer": "west's mother was a professor at the university for an undisclosed amount of time.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many times was West told that college is the key to success?",
+                "answer": "west was told that college is the key to success multiple times.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How often were they told in [West's] head that college is the key to success?'",
+                "answer": "\"it was drummed into my head that college is the ticket to a good life... but some career goals don't require college.\" west's mother drilled it into his head that college is important, but he innately knew that it wasn't the only path to success.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many times was [West] told that college is the key to success?'",
+                "answer": "west's mother implies that he was told multiple times that college is the key to success.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How often was West told that going to college is a good way to improve their life?",
+                "answer": "west was told that going to college is a good way to improve their life constantly.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "In how many different ways was it communicated to West that going to college is a good way to ensure a successful life?",
+                "answer": "the statement \"it was drummed into my head that college is the ticket to a good life\" implies that this was communicated to west multiple times. between his mother, who is a professor at the university, and society in general, it was impressed upon west that going to college is a good way to secure a successful future.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many times did [West's] receive the message that college is the key to success?'",
+                "answer": "west's mother was a professor at the university, so he received the message that college is the key to success multiple times.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many times did West hear that college is the ticket to a good life?",
+                "answer": "at least once from his mother and probably others.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: West was told many times that going to college is the key to success.",
+                "answer": "which phrase from the context best supports this idea?\n\n\"it was drummed into my head that college is the ticket to a good life.\"",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How often was [West] told that college is the key to a successful life?",
+                "answer": "west was told that college is the key to a successful life \"drummed into his head.\"",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many times was it repeated to West that college is the ticket to a good life?' \n\nIt was repeated to West an infinite amount of times that college is the key to success.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "At which age did West drop out of college?",
+                "answer": "west dropped out of college when he was 20 years old.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "West dropped out of college at age ____.",
+                "answer": "west dropped out of college at age 20.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: At what age did West leave college?",
+                "answer": "west left college at age 20.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the age at which West dropped out of college?",
+                "answer": "west dropped out of college at the age of 20.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "At what age did West leave college?",
+                "answer": "he left college at 20.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How old was West when he quit college?",
+                "answer": "west was 20 years old when he quit college.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the age at which West dropped out of college?",
+                "answer": "west dropped out of college at age 20.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "At what age did West leave college?",
+                "answer": "west left college at the age of 20.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the age at which West dropped out of college?",
+                "answer": "west dropped out of college at 20.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How old was West when they left college?",
+                "answer": "west was 20 when they left college.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            }
+        ]
+    ],
+    "yesno_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '1) Did West receive a high school diploma?'",
+                "answer": "yes, west received a high school diploma.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did West graduate high school?",
+                "answer": "west graduated from high school.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did West graduate high school?",
+                "answer": "west graduated high school, but he did not graduate from college.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) Did West finish high school?",
+                "answer": "2) what was west's mother's profession?\n\n1) yes, west finished high school. 2) west's mother was a professor at the university.",
+                "exact_match": "no",
+                "llm_selfevaluation": "unknown"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) Did West receive a high school diploma?",
+                "answer": "2)did he finish college?\n\n1) yes, west received a high school diploma.\n\n2) no, west did not finish college.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) Did West receive a high school diploma?",
+                "answer": "2) how did west's mother feel about his decision to drop out of college?\n\n1) yes, west received a high school diploma. 2) west's mother felt that his decision to drop out of college was counterproductive to achieving success in life.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did West finish high school?",
+                "answer": "yes.",
+                "exact_match": "no",
+                "llm_selfevaluation": "n/a"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) Did West graduate high school?",
+                "answer": "2) why did west's mother disapprove of him dropping out of college?\n\n1) yes, west graduated high school. \n2) west's mother disapproved of him dropping out of college because she believed that college was the ticket to a good life.",
+                "exact_match": "no",
+                "llm_selfevaluation": "society has different paths\n3) College Dropout"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) Did West finish high school?",
+                "answer": "2) why did he transfer universities? 3) why did he drop out of college?\n\n1) yes, west finished high school. 2) he transferred universities because he realized that his busy class schedule was detrimental to his musical work. 3) he dropped out of college because he wanted to pursue his musical dreams.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did West go to high school?",
+                "answer": "yes, west attended high school.",
+                "exact_match": "no",
+                "llm_selfevaluation": "he then attended college for a bit.yes:"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did West receive a scholarship to attend the American Academy of Art?",
+                "answer": "yes, he did.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Kanye dropped out of college to pursue his musical dreams"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did West receive a scholarship for attending the American Academy of Art?",
+                "answer": "yes, west received a scholarship for attending the american academy of art.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2) Did West receive a scholarship to attend the American Academy of Dramatic Arts?",
+                "answer": "no, west received a scholarship to attend the american academy of art.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "he soon realized that his busy class schedule was detrimental"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did West receive any scholarships to attend the American Academy of Art?",
+                "answer": "based on the context, it seems that west did receive a scholarship to attend the american academy of art.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2) Did West receive a scholarship to attend the American Academy of Art?\nNo, West did not receive a scholarship to attend the American Academy of Arts.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "verbatim"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did West receive any scholarships to attend the American Academy of Art?",
+                "answer": "yes, west received a scholarship to attend the american academy of art.",
+                "exact_match": "no",
+                "llm_selfevaluation": "his mother was a professor at the university."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2) Did West receive a scholarship to attend the American Academy of Dramatic Arts?",
+                "answer": "no, west received a scholarship to attend the american academy of art.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "west transferred to chicago state university to study english"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is it true that West received a scholarship to attend the American Academy of Art?",
+                "answer": "yes, west received a scholarship to attend the american academy of art.",
+                "exact_match": "no",
+                "llm_selfevaluation": "he transferred to chicago state university to study english"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did West receive financial aid to attend the American Academy of Art?",
+                "answer": "it is not stated explicitly whether or not west received financial aid to attend the american academy of art.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2) Did West receive a scholarship to attend the American Academy of Arts?\n\nNo, West did not receive a scholarship to attend the American Academy of Arts.",
+                "answer": "he received a scholarship to attend chicago state university.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "3) Did West transfer to Chicago State University to pursue a degree in English?",
+                "answer": "yes.",
+                "exact_match": "no",
+                "llm_selfevaluation": "The answer is consistent with the ground truth"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "3) Did West transfer from one university to another to study English?",
+                "answer": "yes, west did transfer from one university to another to study english.",
+                "exact_match": "no",
+                "llm_selfevaluation": "he soon realized that his busy class schedule was detrimental"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3) Why did West transfer to Chicago State University?'",
+                "answer": "west transferred to chicago state university to study english.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "3) Did West transfer to Chicago State University in order to study English?",
+                "answer": "yes, west transferred to chicago state university in order to study english.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "West transferred to Chicago State University to study English, correct?",
+                "answer": "no, west transferred to chicago state university to study painting, but soon realized that his busy class schedule was detrimental to his musical work, and at 20 he dropped out of college to pursue his musical dreams.",
+                "exact_match": "yes",
+                "llm_selfevaluation": ""
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did West transfer to Chicago State University for their English program?",
+                "answer": "yes, west transferred to chicago state university for their english program.",
+                "exact_match": "no",
+                "llm_selfevaluation": "he soon realized that his busy class schedule was detrimental"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did West transfer to Chicago State University with the intention of studying English?",
+                "answer": "yes, west transferred to chicago state university with the intention of studying english.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did West transfer to Chicago State University in order to study English?",
+                "answer": "yes, west transferred to chicago state university in order to study english.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3) West transferred to Chicago State University. Did he study English?'",
+                "answer": "yes, he did.",
+                "exact_match": "no",
+                "llm_selfevaluation": "he dropped out of college to pursue his musical dreams"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3) West transferred to Chicago State University to study English, correct?'",
+                "answer": "yes, west transferred to chicago state university to study english.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did West drop out of college to pursue his musical career?",
+                "answer": "yes.",
+                "exact_match": "no",
+                "llm_selfevaluation": "After graduating from high school, West received a scholarship"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did West leave college to follow his musical ambitions?",
+                "answer": "yes, west left college to follow his musical ambitions.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Kanye's mom was a professor at the same school"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "West dropped out of college to pursue his musical dreams, true or false?",
+                "answer": "west dropped out of college to pursue his musical dreams, true.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did West drop out of college to pursue his musical dreams?",
+                "answer": "yes, west dropped out of college to pursue his musical dreams.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did West abandon his collegiate studies to follow his aspirations of becoming a musician?",
+                "answer": "yes.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did West quit college to go after his musical aspirations?",
+                "answer": "yes, west quit college to go after his musical aspirations. this is evident from the context of the passage, which states that he \"dropped out of college to pursue his musical dreams.\"",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes, the answer is consistent with the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What caused West to leave college?'",
+                "answer": "west left college because he felt that his busy class schedule was detrimental to his musical work.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 4) Why did West drop out of college?",
+                "answer": "west dropped out of college to pursue his musical dreams.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "West dropped out of college to pursue his musical dreams, didn't he?",
+                "answer": "yes, west dropped out of college to pursue his musical dreams.",
+                "exact_match": "no",
+                "llm_selfevaluation": "This answer is consistent with the ground truth."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What made West drop out of college?'",
+                "answer": "west dropped out of college because he felt that his busy class schedule was detrimental to his musical work.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Was West's mother a professor at any university?",
+                "answer": "west's mother was a professor at chicago state university.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did West's mother teach at the university?",
+                "answer": "yes, west's mother was a professor at chicago state university.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Was West's mother a professor at the university?' Answer: Yes, West's mother was a professor at the university.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "West's mother was not a professor at the university.",
+                "answer": "false. west's mother was a professor at the university.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "answer is consistent with ground truth."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Was West's mother a professor at any university?",
+                "answer": "yes, west's mother was a professor at chicago state university.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Was West's mother a professor at any university?",
+                "answer": "yes, west's mother was a professor at the university where he was attending college.",
+                "exact_match": "no",
+                "llm_selfevaluation": "olicy towards schooling"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Was West's mother a teacher at the university?",
+                "answer": "yes, west's mother was a teacher at the university.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "5) Did West's mother teach at the university?",
+                "answer": "yes, west's mother taught at the university.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "5) Was West's mother a teacher at the university?",
+                "answer": "yes, west's mother was a teacher at the university.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Was West's mother a university professor?",
+                "answer": "yes, west's mother was a university professor.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes, West's mother was a university"
+            }
+        ]
+    ]
+}

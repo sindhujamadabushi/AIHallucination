@@ -1,0 +1,1131 @@
+{
+    "context": "Reports on the Delhi relay were similarly distinct. Despite intended torchbearers Kiran Bedi, Soha Ali Khan, Sachin Tendulkar and Bhaichung Bhutia all withdrawing from the event, the official Chinese website for the relay reported \"Indian torchbearers vow to run for spirit of Olympics\", and quoted torchbearers Manavjit Singh Sandhu, Abhinav Bindra, Ayaan Ali Khan and Rajinder Singh Rahelu all stating that sports and politics should not be mixed.\n",
+    "count": [
+        "1) How many intended torchbearers withdrew from the Delhi relay?",
+        "2) How many torchbearers were quoted on the official Chinese website?",
+        "4) How many torchbearers ran for the spirit of the Olympics?",
+        "5) How many torchbearers stated that sports and politics should not be mixed?"
+    ],
+    "yesno": [
+        "1. Do you think the Delhi relay went well?",
+        "2. Were all of the intended torchbearers able to participate?",
+        "3. Did the official Chinese website for the relay have positive things to say about it?",
+        "4. Do you think sports and politics should be mixed?",
+        "5. Do you think the torchbearers did a good job?"
+    ],
+    "count_gt": [
+        "four",
+        "four",
+        "four",
+        "four"
+    ],
+    "yesno_gt": [
+        "unknown",
+        "no",
+        "no",
+        "unknown",
+        "unknown"
+    ],
+    "count_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "1) How many people who were supposed to carry the torch withdrew from the Delhi relay?",
+                "answer": "2) how many people who actually carried the torch in the delhi relay pledged that sports and politics should not be mixed?\n\n1) four people who were supposed to carry the torch withdrew from the delhi relay. 2) four people who actually carried the torch in the delhi relay pledged that sports and politics should not be mixed.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many torchbearers withdrew from the Delhi relay?",
+                "answer": "kiran bedi, soha ali khan, sachin tendulkar and bhaichung bhutia all withdrew from the event.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "1) How many torchbearers withdrew from the Delhi relay?",
+                "answer": "2) what did the official chinese website for the relay report?\n\n1) four torchbearers withdrew from the delhi relay.\n2) the official chinese website for the relay reported \"indian torchbearers vow to run for spirit of olympics\", and quoted torchbearers manavjit singh sandhu, abhinav bindra, ayaan ali khan and rajinder singh rahelu all stating that sports and politics should not be mixed.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many torchbearers withdrew from the Delhi relay?",
+                "answer": "four torchbearers withdrew from the delhi relay.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "1) How many people who were supposed to carry torches in the Delhi relay withdrew?",
+                "answer": "2) what was the official chinese website's response to the situation?\n\n1) 4 people 2) \"indian torchbearers vow to run for spirit of olympics\"",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "1) How many torchbearers who were originally intended to participate withdrew from the Delhi relay?",
+                "answer": "2) what was the official chinese website's take on the torchbearers who did participate?\n\n1) four torchbearers originally intended to participate withdrew from the delhi relay. 2) the official chinese website reported that the torchbearers who did participate vowed to run for the spirit of the olympics, and that sports and politics should not be mixed.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people who were supposed to carry the torch in Delhi withdrew from the event?",
+                "answer": "four.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "1) How many torchbearers withdrew from the Delhi relay?",
+                "answer": "2) what did the official chinese website for the relay report?\n\n1) four torchbearers withdrew from the delhi relay. 2) the official chinese website for the relay reported \"indian torchbearers vow to run for spirit of olympics\".",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many torchbearers withdrew from the Delhi relay?",
+                "answer": "four torchbearers withdrew from the delhi relay.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people who were supposed to carry the torch withdrew from the Delhi relay?",
+                "answer": "this context mentions four people who withdrew from the delhi relay: kiran bedi, soha ali khan, sachin tendulkar, and bhaichung bhutia.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes, the answer is consistent with the"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many torchbearers were mentioned on the official Chinese website?",
+                "answer": "four torchbearers were mentioned on the official chinese website.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many torchbearers were featured on the official Chinese website?",
+                "answer": "four",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '2) How many torchbearers were featured on the official Chinese website?'",
+                "answer": "there were four torchbearers featured on the official chinese website.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many torchbearers were mentioned on the official Chinese website?",
+                "answer": "you provided no context.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many torchbearers were quoted on the official Chinese website?",
+                "answer": "torchbearers manavjit singh sandhu, abhinav bindra, ayaan ali khan and rajinder singh rahelu were all quoted on the official chinese website.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many torchbearers were featured on the official Chinese website?",
+                "answer": "the official chinese website featured four torchbearers.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many torchbearers were quoted on the official Chinese website?\n\nI'm not sure what you are asking me.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes, the answer is consistent with the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many torchbearers were quoted on the official Chinese website?",
+                "answer": "there were four torchbearers quoted on the official chinese website.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many torchbearers were mentioned on the official Chinese website?",
+                "answer": "four",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes, the answer is consistent with the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many torchbearers were mentioned on the official Chinese website?",
+                "answer": "there were four torchbearers mentioned on the official chinese website.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many people carried the torch for the Olympics?'",
+                "answer": "according to the context, four people carried the torch for the olympics.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many torchbearers ran with the Olympic flame?",
+                "answer": "there were four torchbearers.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many people ran with the Olympic torch?'",
+                "answer": "there were four people who ran with the olympic torch.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many torchbearers ran with the spirit of the Olympics?'",
+                "answer": "all of the torchbearers mentioned in the context ran with the spirit of the olympics.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many athletes ran with the torch to represent the spirit of the Olympics?",
+                "answer": "four",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many people carried torches in the spirit of the Olympics?",
+                "answer": "4",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people ran with the Olympic torch?",
+                "answer": "four.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people carried a torch for the spirit of the Olympics?",
+                "answer": "although four people withdrew from carrying the torch, four other people stepped up to carry it in their place.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many athletes carried the torch for the Olympics?",
+                "answer": "four athletes carried the torch for the olympics.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '4) How many people ran with the Olympic torch?'",
+                "answer": "there were four people who ran with the olympic torch.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many torchbearers think that sports and politics should not be mixed?",
+                "answer": "according to the context, all four of the torchbearers quoted think that sports and politics should not be mixed.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: Do you agree that sports and politics should not be mixed? Why or why not?",
+                "answer": "i don't necessarily agree that sports and politics should not be mixed. i think that it can depend on the situation. for example, if a political issue is directly affecting the sports world, then i think it would be appropriate to mix the two.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many torchbearers said that they believe sports and politics should not be mixed?",
+                "answer": "4",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many torchbearers said that they believe sports and politics should not be mixed?",
+                "answer": "all four of the torchbearers quoted in the context said that they believe sports and politics should not be mixed.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: Do you agree with the torchbearers who believe that sports and politics should not be mixed?",
+                "answer": "why or why not?\n\n\ni agree with the torchbearers who believe that sports and politics should not be mixed because sports are a way to bring people together and politics often divide people.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many torchbearers believe that sports and politics should remain separate?",
+                "answer": "all four",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '5) Do you think that sports and politics should be mixed?'",
+                "answer": "the answer to this question is found in the context: \"indian torchbearers vow to run for spirit of olympics\", and quoted torchbearers manavjit singh sandhu, abhinav bindra, ayaan ali khan and rajinder singh rahelu all stating that sports and politics should not be mixed. it seems that the general consensus is that sports and politics should not be mixed.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '5) How many torchbearers believe that sports and politics should be separate?'",
+                "answer": "all four of the torchbearers quoted in the context believe that sports and politics should be separate.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "5) How many torchbearers think that sports and politics should be kept separate?",
+                "answer": "four",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes, the answer is consistent with the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "5) How many torchbearers said that sports and politics should be kept separate?",
+                "answer": "4",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes, the answer is consistent with the"
+            }
+        ]
+    ],
+    "yesno_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '1. Do you think the Delhi event went well?'",
+                "answer": "no, i do not think the delhi event went well.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: How do you think the Delhi relay went?",
+                "answer": "the relay seems to have gone well, despite some high-profile withdrawals. the official chinese website quoted several indian torchbearers who said they believed sports and politics should not be mixed - suggesting that the event was successful in promoting the olympic spirit.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Do you think the Delhi relay was successful?",
+                "answer": "no, the delhi relay was not successful.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did you feel that the Delhi relay went smoothly?",
+                "answer": "no, the delhi relay did not go smoothly.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: How do you think the Delhi relay went?",
+                "answer": "the delhi relay seems to have gone well, despite some intended torchbearers withdrawing from the event.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did you feel that the Delhi relay went smoothly?",
+                "answer": "no, there were several intended torchbearers who withdrew from the event.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Do you think the Delhi race went well?",
+                "answer": "no, i do not think that the delhi race went well.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did you think the Delhi relay went well?",
+                "answer": "according to the context, it seems that the delhi relay did not go well.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did you feel that the Delhi relay ran smoothly?",
+                "answer": "based on the context, it does not seem that the delhi relay ran smoothly.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did you feel that the Delhi relay went smoothly?",
+                "answer": "no",
+                "exact_match": "yes",
+                "llm_selfevaluation": "the answer has little to no information that is present"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2. Were all of the torchbearers who were supposed to participate able to do so?",
+                "answer": "no, not all of the torchbearers who were supposed to participate were able to do so.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2. Did all of the intended torchbearers participate?",
+                "answer": "no",
+                "exact_match": "no",
+                "llm_selfevaluation": "Because the answer includes information not present in the ground"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '2. Did all of the intended torchbearers participate?'",
+                "answer": "no, all of the intended torchbearers did not participate.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2. Were all of the torchbearers who were intended to participate able to do so?",
+                "answer": "no, not all of the torchbearers who were intended to participate were able to do so.",
+                "exact_match": "no",
+                "llm_selfevaluation": ""
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Were any of the intended torchbearers unable to participate?' No, all of the intended torchbearers were able to participate.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "The answer is consistent with the ground truth"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Were all of the torchbearers who were supposed to participate able to do so?",
+                "answer": "no, not all of the torchbearers who were supposed to participate were able to do so. some of them withdrew from the event.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2. Did all of the intended torchbearers participate?",
+                "answer": "no, four out of the intended torchbearers withdrew from the event.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did all of the intended torchbearers participate? Yes.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2. Did all of the intended torchbearers participate?",
+                "answer": "no",
+                "exact_match": "no",
+                "llm_selfevaluation": "Indian torchbearers vow to run for spirit of"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Were all of the intended torchbearers able to participate?",
+                "answer": "no, not all of the intended torchbearers were able to participate.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did the official Chinese website for the relay have any positive reviews?",
+                "answer": "yes, the official chinese website for the relay had positive reviews from manavjit singh sandhu, abhinav bindra, ayaan ali khan and rajinder singh rahelu.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes, the official Chinese website for"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did the official Chinese website for the Olympic torch relay have positive things to say?",
+                "answer": "yes, the website had positive things to say. it reported that indian torchbearers vow to run for spirit of olympics\", and quoted torchbearers manavjit singh sandhu, abhinav bindra, ayaan ali khan and rajinder singh rahelu all stating that sports and politics should not be mixed.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did the official Chinese website for the relay say positive things about it?",
+                "answer": "yes, the official chinese website for the relay said positive things about it.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What did the official Chinese website for the relay have to say about it? \nAnswer: The official Chinese website had positive things to say about the relay.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "The answer is consistent with the ground"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Was the official Chinese website for the relay positive in its evaluation?",
+                "answer": "yes, the official chinese website was positive in its evaluation of the indian relay.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Did the official Chinese website for the relay have anything positive to say about it?'",
+                "answer": "based on the context, it seems that the official chinese website for the relay did not have anything positive to say about it.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Did the official Chinese website for the relay have any positive comments about it?'",
+                "answer": "yes, the official chinese website for the relay did have positive comments about it.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Did the official Chinese website for the relay mention any positive aspects?'",
+                "answer": "from the given context, it can be inferred that the official chinese website for the relay mentioned only the positive aspects of the event.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did the official Chinese website for the relay have a positive opinion of it?",
+                "answer": "from the context, it can be inferred that the official chinese website for the relay reported positively on the event.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Did the official Chinese website for the relay have good things to say about it?'",
+                "answer": "the website reported that the torchbearers vowed to run for the spirit of the olympics, indicating that they were pleased with the event.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Do you think that sports and politics should be mixed together?",
+                "answer": "no, i do not think that sports and politics should be mixed together.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Do you think sports and politics should be separate?",
+                "answer": "there is no right answer to this question as people can have different opinions on the matter. some people may think that sports and politics should be separate because they provide two different outlets for people, while others may think that they should be intertwined because they both have the potential to influence people.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Should sports and politics be kept separate?",
+                "answer": "there is no right answer to this question. some people believe that sports and politics should be kept separate, while others believe that the two can be connected.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Can you think of any reasons why sports and politics shouldn't be mixed?",
+                "answer": "some reasons why sports and politics shouldn't be mixed is that it could create divisions amongst team members, and also between teams. additionally, mixing the two could lead to athletes feeling that they have to choose sides between their country and their sport, which could lead to conflict.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Do you think politics and sports should be combined?",
+                "answer": "no, i do not think politics and sports should be combined.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Do you think that there should be a mix of sports and politics?",
+                "answer": "no",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "4. What are your thoughts on mixing sports and politics?",
+                "answer": "i think that they should not be mixed because they are two different things. sports is something that people do for fun and to compete, while politics is something that people do to govern.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Do you think sports and politics should be interconnected?",
+                "answer": "no, i don't think sports and politics should be interconnected.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Should politics and sports be mixed?",
+                "answer": "no, sports and politics should not be mixed.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Do you think politics and sports should intersect?",
+                "answer": "no",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Unknown"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '5. What did you think of the torchbearers?'",
+                "answer": "i thought they were brave to run despite the controversy.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did you think the torchbearers did a good job?",
+                "answer": "i think the torchbearers did a great job.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Do you believe that the torchbearers did an excellent job?",
+                "answer": "yes, i believe the torchbearers did an excellent job.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Do you think the torchbearers did a good job?",
+                "answer": "i think they did a great job.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What are your thoughts on the torchbearers' performance?'",
+                "answer": "the torchbearers performance was impressive.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did you think the torchbearers did a good job?",
+                "answer": "yes, i thought the torchbearers did a good job.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Do you believe the torchbearers were successful in their role?",
+                "answer": "there is no one answer to this question. some people might believe that the torchbearers were successful in their role because they remained committed to running the relay despite several high-profile withdrawals. others might believe that the torchbearers were not successful in their role because they were not able to prevent the event from being politicized.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Do you think the torchbearers did a good job?",
+                "answer": "yes, i think the torchbearers did a good job.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "How do you feel about the job the torchbearers did?",
+                "answer": "the torchbearers did a good job.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did you think the torchbearers did a good job?",
+                "answer": "i thought the torchbearers did a great job.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            }
+        ]
+    ]
+}

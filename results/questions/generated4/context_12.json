@@ -1,0 +1,1255 @@
+{
+    "context": "23-year-old Candice Glover won the season with Kree Harrison taking the runner-up spot. Glover is the first female to win American Idol since Jordin Sparks. Glover released \"I Am Beautiful\" as a single while Harrison released \"All Cried Out\" immediately after the show. Glover sold poorly with her debut album, and this is also the first season that the runner-up was not signed by a music label.\n",
+    "count": [
+        "-How many years old is Candice Glover?",
+        "-How many seasons of American Idol have there been?",
+        "-How many female winners of American Idol are there?",
+        "-How many singles did Candice Glover release?",
+        "-How many albums did Candice Glover sell?"
+    ],
+    "yesno": [
+        "1. Are Candice Glover and Kree Harrison female?",
+        "2. Is Candice Glover the first female to win American Idol?",
+        "3. Did Candice Glover release \"I Am Beautiful\" as a single?",
+        "4. Did Harrison release \"All Cried Out\" immediately after the show?",
+        "5. Was Glover signed by a music label after winning American Idol?"
+    ],
+    "count_gt": [
+        "twenty three",
+        "unknown",
+        "two",
+        "one",
+        "one"
+    ],
+    "yesno_gt": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "no"
+    ],
+    "count_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How old is Candice Glover?",
+                "answer": "candice glover is 23 years old.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is Candice Glover's age?",
+                "answer": "23",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How old is Candice Glover in years? Answer: 30",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How old is Candice Glover in years?",
+                "answer": "candice glover is 23 years old.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How old is Candice Glover?",
+                "answer": "candice glover is 23 years old.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How old is Candice Glover?' \nAnswer: Candice Glover is 33 years old.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes, Glover is 23 years old."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How old is Candice Glover?",
+                "answer": "candice glover is 23 years old.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How old is Candice Glover?",
+                "answer": "23",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How old is Candice Glover?",
+                "answer": "23",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What is Candice Glover's age?' \nCandice Glover is 26 years old.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes, the answer is consistent with the"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many seasons of American Idol have passed?",
+                "answer": "seasons of american idol have passed.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many seasons of American Idol have aired?",
+                "answer": "as of may 2019, american idol has aired for 17 seasons.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many installments of American Idol have aired?",
+                "answer": "15",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many seasons of American Idol have passed?",
+                "answer": "season 12 was the most recent season of american idol.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many iterations of American Idol have there been?",
+                "answer": "as of may 2019, there have been 17 seasons of american idol.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many seasons of American Idol have passed?",
+                "answer": "twelve seasons of american idol have passed.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many seasons of American Idol have aired? \nAnswer: There have been eighteen seasons of American Idol.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Glover won American Idol, Kree Harrison was the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many seasons of American Idol have aired?",
+                "answer": "season 12 was the most recent season of american idol.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the total number of seasons for American Idol?",
+                "answer": "the total number of seasons for american idol is 15.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many iterations of American Idol have there been?",
+                "answer": "13",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Glover released \"I Am Beautiful\" as a single"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many women have won American Idol? \nAnswer: As of September 2020, there have been 15 female winners of American Idol.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many winners of American Idol have been female?",
+                "answer": "three",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many female winners of American Idol have there been?",
+                "answer": "there have been two female winners of american idol.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many women have won American Idol?",
+                "answer": "two women have won american idol.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many women have won American Idol?",
+                "answer": "two",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many women have won American Idol?",
+                "answer": "except for the first season, there has always been at least one woman in the finale. candice glover is the most recent female winner, and jordin sparks was the previous female winner.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "-How many female winners of American Idol have there been?",
+                "answer": "-there have been two female winners of american idol.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many American Idol winners have been female?",
+                "answer": "two",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many women have won American Idol? \nAnswer: As of May 2020, there have been 15 female winners of American Idol.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '-What is the number of female winners of American Idol?'",
+                "answer": "glover is the first female to win american idol since jordin sparks.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Inconsistent"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many songs did Candice Glover release as singles?",
+                "answer": "from the context, it can be inferred that candice glover released one song as a single.",
+                "exact_match": "no",
+                "llm_selfevaluation": ""
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many songs did Candice Glover release as singles?",
+                "answer": "candice glover released one song, \"i am beautiful,\" as a single.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many songs did Candice Glover release as singles?",
+                "answer": "candice glover released 1 song as a single.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What is the total number of singles that Candice Glover has released?' \nAnswer: Candice Glover has released a total of four singles.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many singles has Candice Glover released?",
+                "answer": "candice glover has released only one single, \"i am beautiful.\"",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many songs did Candice Glover release as singles?'",
+                "answer": "one",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many songs did Candice Glover release as singles?",
+                "answer": "1",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many songs did Candice Glover release as singles?",
+                "answer": "1",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many songs did Candice Glover release as singles?",
+                "answer": "candice glover released one song as a single, \"i am beautiful.\"",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many songs did Candice Glover release as singles?'",
+                "answer": "one",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many albums has Candice Glover sold?'",
+                "answer": "only one album.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Answer: I'm not sure.\n\nHow many albums did Candice Glover sell in total?",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "-How many albums did Candice Glover release?",
+                "answer": "one",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many albums did Candice Glover release?",
+                "answer": "candice glover has released one album.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many albums has Candice Glover sold?",
+                "answer": "candice glover has only sold one album.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many albums has Candice Glover sold?",
+                "answer": "one",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many albums has Candice Glover sold?",
+                "answer": "one",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many albums did Candice Glover release?",
+                "answer": "glover released one album.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many copies of Candice Glover's albums were sold?",
+                "answer": "less than 1,000",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "-How many albums has Candice Glover sold?",
+                "answer": "quite poorly. this is the first season that the runner-up was not signed by a music label.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            }
+        ]
+    ],
+    "yesno_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '1. Do Candice Glover and Kree Harrison identify as female?'",
+                "answer": "yes, candice glover and kree harrison both identify as female.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Candice Glover and Kree Harrison - are they both women?",
+                "answer": "no, candice glover is a woman and kree harrison is a man.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Is Candice Glover a woman? \n2. Is Kree Harrison a woman?",
+                "answer": "1. yes, candice glover is a woman.\n2. no, kree harrison is a man.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Are Candice Glover and Kree Harrison women?",
+                "answer": "yes",
+                "exact_match": "no",
+                "llm_selfevaluation": "The ground truth mentions that Candice Glover is the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Are Candice Glover and Kree Harrison women?",
+                "answer": "yes, both candice glover and kree harrison are women.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Are Candice Glover and Kree Harrison women?",
+                "answer": "yes",
+                "exact_match": "no",
+                "llm_selfevaluation": "We don't need to know if Kree Harrison"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '1. Candice Glover and Kree Harrison, are they both female?'",
+                "answer": "yes, candice glover and kree harrison are both female.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Is Candice Glover a woman? \n1. Is Kree Harrison a woman?",
+                "answer": "1. candice glover is a woman.\n2. kree harrison is also a woman.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Are Candice Glover and Kree Harrison women?",
+                "answer": "yes, candice glover and kree harrison are both women.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '1. Are Candice Glover and Kree Harrison women?'",
+                "answer": "yes. candice glover and kree harrison are both women.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Yes, Candice Glover is the first female to win American Idol.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Glover won the season, Kree Harrison was the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '2. Did Candice Glover win American Idol?'",
+                "answer": "yes, candice glover won american idol.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Is a female contestant named Candice Glover the first to win American Idol? \nYes, she is.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is Candice Glover the first woman to win American Idol?",
+                "answer": "yes, candice glover is the first female to win american idol since jordin sparks.",
+                "exact_match": "no",
+                "llm_selfevaluation": ""
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is Candice Glover the first female winner of American Idol?",
+                "answer": "yes, candice glover is the first female winner of american idol.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Has Candice Glover been the only female to win American Idol?",
+                "answer": "no, she is not the only female to win american idol.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is Candice Glover the first woman to win American Idol?",
+                "answer": "candice glover is the first female to win american idol since jordin sparks.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "No, she is not the first female to win American Idol.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes, Glover won the season with Harrison"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Is Candice Glover the first female to have won American Idol? \nYes, Candice Glover is the first African-American female to have won American Idol.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Glover won American Idol, Kree Harrison was the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What is Candice Glover's claim to fame?",
+                "answer": "candice glover is the first female to win american idol since jordin sparks.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Did Candice Glover release \"I Am Beautiful\" as a single?'",
+                "answer": "yes",
+                "exact_match": "no",
+                "llm_selfevaluation": "Candidate did not discuss whether Kree Harrison was signed"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Did Candice Glover release \"I Am Beautiful\" as a part of an album?'",
+                "answer": "no,candice glover released \"i am beautiful\" as a single.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Did Candice Glover release \"I Am Beautiful\" as a single?'\nAnswer: Yes, Candice Glover released \"I Am Beautiful\" as a single.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Glover released \"I Am Beautiful\" as a single"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Was \"I Am Beautiful\" released as a single by Candice Glover?'",
+                "answer": "yes, \"i am beautiful\" was released as a single by candice glover.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes, the answer is consistent with the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Does Candice Glover's song \"I Am Beautiful\" appear as a single on any albums?",
+                "answer": "no, \"i am beautiful\" was never released as a single on an album. it was only released as a digital single.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Candice Glover release \"I Am Beautiful\" as a standalone single, outside of an album?",
+                "answer": "yes, candice glover released \"i am beautiful\" as a standalone single, outside of an album.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Was \"I Am Beautiful\" released as a single by Candice Glover?'",
+                "answer": "yes.",
+                "exact_match": "no",
+                "llm_selfevaluation": "23-year-old Candice Glover won the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "3. Did Candice Glover release \"I Am Beautiful\" as a single?\n\nYes, Candice Glover released \"I Am Beautiful\" as a single in 2013.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Glover released \"I Am Beautiful\" as a single"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Candice Glover release \"I Am Beautiful\" as a separate song, not part of an album?",
+                "answer": "yes, candice glover released \"i am beautiful\" as a separate single, not part of an album.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Did Candice Glover release \"I Am Beautiful\" on an album?'",
+                "answer": "no.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "The answer is not consistent with the ground"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'After the show, did Harrison release \"All Cried Out\" immediately?'",
+                "answer": "yes",
+                "exact_match": "no",
+                "llm_selfevaluation": "Glover is the first female to win American Idol since"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4. Did Harrison release \"All Cried Out\" right after the show?'",
+                "answer": "yes, kree harrison released \"all cried out\" immediately after the show.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Harrison released \"All Cried Out\" immediately after the show.",
+                "answer": "what does this mean?\n\ni'm assuming you mean what harrison releasing \"all cried out\" immediately after the show signifies and not the actual meaning of the phrase \"all cried out\". it means that harrison was not signed by a music label which is significant because the runner-up has always been signed in the past.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4. Harrison released \"All Cried Out\" immediately after the show, correct?'",
+                "answer": "yes.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Glover sold poorly with her debut album"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "4. Did Harrison release \"All Cried Out\" right after the show?",
+                "answer": "yes, harrison released \"all cried out\" immediately after the show.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "After the show concluded, Harrison released \"All Cried Out.\"",
+                "answer": "why was glover not signed by a music label?\n\nthere are a few possible reasons why glover was not signed by a music label. one reason could be that her debut album sold poorly. additionally, this was the first season that the runner-up was not signed by a music label, so it is possible that there was simply not enough interest from labels in signing either contestant.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "ground truth is present in the answer: no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4. Did Harrison release \"All Cried Out\" soon after the show?'",
+                "answer": "yes, harrison released \"all cried out\" immediately after the show.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4. Did Harrison release \"All Cried Out\" after the show?'",
+                "answer": "yes",
+                "exact_match": "no",
+                "llm_selfevaluation": "the answer is consistent with the ground truth"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "4. Did Harrison release \"All Cried Out\" right after the show ended?",
+                "answer": "yes, harrison released \"all cried out\" immediately after the show.",
+                "exact_match": "no",
+                "llm_selfevaluation": "ground truth present?= no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did Harrison release \"All Cried Out\" immediately after the show aired?",
+                "answer": "yes, harrison released \"all cried out\" immediately after the show aired.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Glover is the first female to win American Idol since"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "5. Did Glover win American Idol and get signed by a music label afterwards?",
+                "answer": "no, glover did not get signed by a music label after winning american idol.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "After winning American Idol, was Glover signed by a music label?",
+                "answer": "no, glover was not signed by a music label after winning american idol.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Was Glover signed to a music label after winning American Idol?",
+                "answer": "no, glover was not signed to a music label after winning american idol.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '5. Did a music label sign Glover after he won American Idol?'",
+                "answer": "based on the context, it appears that the answer to the question is no - a music label did not sign glover after he won american idol.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'After winning American Idol, was Glover signed by a music label?'",
+                "answer": "no, glover was not signed by a music label after winning american idol.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '5. Did a music label sign Glover after he won American Idol?'",
+                "answer": "no, a music label did not sign glover after she won american idol.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What was the result of Glover winning American Idol?",
+                "answer": "the result of glover winning american idol was that she released \"i am beautiful\" as a single while harrison released \"all cried out.\"",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Glover was signed by a music label after winning American Idol, correct?",
+                "answer": "no, the runner-up, kree harrison, was actually signed by a music label.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '5. What happened to Glover after winning American Idol?' He was signed by a music label.",
+                "answer": "glover's debut album sold poorly.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Glover get signed by a music label after winning American Idol?",
+                "answer": "no, backyard music label did not sign glover after she won american idol.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            }
+        ]
+    ]
+}

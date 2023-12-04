@@ -1,0 +1,673 @@
+{
+    "context": "Forms of lighting include alcove lighting, which like most other uplighting is indirect. This is often done with fluorescent lighting (first available at the 1939 World's Fair) or rope light, occasionally with neon lighting, and recently with LED strip lighting. It is a form of backlighting.\n",
+    "count": [
+        "How many types of lighting are there?",
+        "How many types of uplighting are there?"
+    ],
+    "yesno": [
+        "Q: Is lighting important?",
+        "Q: Does lighting set the mood?",
+        "Q: Can lamps be used for lighting?",
+        "Q: Is there more than one type of lighting?",
+        "Q: Do you need a light to see?"
+    ],
+    "count_gt": [
+        "four",
+        "unknown"
+    ],
+    "yesno_gt": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ],
+    "count_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: What are the different types of lighting?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are the different types of lighting?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What are the different types of lighting?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are the different types of lighting?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are the different types of lighting?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "There are many types of lighting, including natural lighting, fluorescent lighting, and LED lighting."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What are the different types of lighting?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many different types of lighting are there?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are the different types of lighting?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are the different types of lighting?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are the different types of uplighting?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are the different types of uplighting?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: What are the different types of uplighting?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are the different types of uplighting?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What are the different types of uplighting?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What are the different types of uplighting?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: What are the different types of uplighting?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many different types of uplighting are there?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many types of lighting are there that can be used to light up a space from above?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: What are the different types of uplighting?"
+            }
+        ]
+    ],
+    "yesno_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Yes, lighting is important."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What role does lighting play in design?' Lighting is important because it can set the tone of a room and highlight certain features. It can also be used to create an illusion of space."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: It can be argued that lighting is important because it can impact one's ability to see.\n\nQ: How important is lighting? \nA: It can be argued that lighting is important because it impacts one's ability to see."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Lighting can be important in different ways depending on the situation. In some cases, lighting can be used to set a mood or atmosphere. In other cases, good lighting can improve visibility and safety"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Yes, lighting is important.\n\nQuestion: 'Q: Why is lighting important?' \nA: Lighting can set the mood of a space and affect how we perceive colors. Good lighting can also reduce eye strain and make a space more inviting."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Lighting is important because it can affect the mood of a room. It can also make a space feel more open and welcoming."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A:\n\nQ: How important is lighting?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Yes, lighting is important. It can help set the mood of a room and make it feel more inviting. Good lighting can also be functional, helping you to see better when you're working or reading."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Yes, lighting can be important in different ways. It can help set the tone of a room, make a space feel more open and airy, or provide task lighting for things like cooking or reading."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Yes, lighting can be important in setting the mood or atmosphere of a space. It can also help to create a visual focal point, and highlight certain features within a room."
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Q: Does light have an effect on mood?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Does lighting have an effect on mood?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: No, but it can create an ambiance.\n\nQ: What role does lighting play in setting the mood? \nA: Lighting creates an ambiance, but doesn't necessarily set the mood."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Q: Does lighting affect the mood?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: It is often said that lighting can set the mood of a room or space. Different types of lighting can create different atmospheres, so it is important to consider what kind of mood you want to create in your home before choosing your light fixtures. While some people prefer bright, natural"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "How does lighting affect the mood?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Q: Do you think lighting sets the mood?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Absolutely! The type of lighting you have can greatly affect the overall ambiance in your home.\n\nQ: How important is lighting in setting the mood? \nA: Very, different types of lighting can create different feels in a room or space."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'How does lighting affect the mood?'\nAnswer: Lighting can play a role in setting the tone or atmosphere of a space. It can be used to create different feelings, depending on how it is used. For example, warm lighting may make people feel more comfortable and relaxed,"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Do different types of lighting set the mood?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Can lamps be used as a light source? \nYes, lamps can emit light and be used to create an illuminated environment."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Lamps can be used for lighting."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Yes, lamps can be used for lighting."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Q: Are lamps good for lighting?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Can lamps be used for lighting purposes?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Yes, lamps can be used for lighting."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Lamps can be used for lighting."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Lamps are a common source of light in many homes. They can be used for task lighting, such as reading or sewing, and for ambient lighting to create a warm and inviting atmosphere."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Yes, lamps can be used for lighting."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Yes, lamps can be used for lighting."
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Q: Are there different types of lighting?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Q: What types of lighting are available?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Yes, there are many types of lighting available on the market. You can choose from traditional incandescent bulbs to more energy-efficient options, such as LED or CFL bulbs."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Q: Are there different types of lighting?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Lighting can be classified in a variety of ways. The three main categories are general, task, and accent lighting."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: There are different types of lighting that can be used to create different effects."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Q: What are the different types of lighting?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Yes, there are three types of lighting. Ambient, accent, and task lighting."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Are there different types of lighting? \nAnswer: Yes, there are various types of lighting that serve different purposes."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Are there different types of lighting?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Do you need a light in order to see?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: No, you don't need a light to see."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A:\n\nNo, you don't need a light to see."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: You need a light to see.\n\nQuestion: Is it necessary to have a light in order to see? \nAnswer: Yes, you need a light in order to be able to see."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "No, you don't need a light to see."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: No, you don't need a light to see."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Yes, you need a light to see.\n\nQuestion: 'Q: Do you need a light in order to see?' \nA: Yes, in order to see you need some sort of light whether it be natural or artificial."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: No, you don't need a light to see."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Q: Is it necessary to have a light in order to see?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Is it necessary to have light in order to see?'"
+            }
+        ]
+    ]
+}

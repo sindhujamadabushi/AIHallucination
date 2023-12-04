@@ -1,0 +1,861 @@
+{
+    "context": "The second part of the novel deals with what book reviewer Harding LeMay termed \"the spirit-corroding shame of the civilized white Southerner in the treatment of the Negro\". In the years following its release, many reviewers considered To Kill a Mockingbird a novel primarily concerned with race relations. Claudia Durst Johnson considers it \"reasonable to believe\" that the novel was shaped by two events involving racial issues in Alabama: Rosa Parks' refusal to yield her seat on a city bus to a white person, which sparked the 1955 Montgomery Bus Boycott, and the 1956 riots at the University of Alabama after Autherine Lucy and Polly Myers were admitted (Myers eventually withdrew her application and Lucy was expelled, but reinstated in 1980). In writing about the historical context of the novel's construction, two other literary scholars remark: \"To Kill a Mockingbird was written and published amidst the most significant and conflict-ridden social change in the South since the Civil War and Reconstruction. Inevitably, despite its mid-1930s setting, the story told from the perspective of the 1950s voices the conflicts, tensions, and fears induced by this transition.\"\n",
+    "count": [
+        "How many people were on the bus with Rosa Parks?",
+        "How many people were in the Bus Boycott?",
+        "How many people were applied to the University of Alabama?",
+        "How many people were admitted to the University of Alabama?",
+        "How many people were expelled from the University of Alabama?"
+    ],
+    "yesno": [
+        "1) Did the novel To Kill a Mockingbird primarily deal with race relations?",
+        "3) Did two events involving racial issues in Alabama contribute to the shaping of the novel?",
+        "4) Did literary scholars believe that the story in To Kill a Mockingbird was told from the perspective of the 1950s?",
+        "5) Was the social change in the South during the time the novel was written and published the most significant and conflict-ridden since the Civil War and Reconstruction?"
+    ],
+    "count_gt": [
+        "unknown",
+        "unknown",
+        "two",
+        "two",
+        "one"
+    ],
+    "yesno_gt": [
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ],
+    "count_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people were on the bus when Rosa Parks was arrested?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "There were four people seated in Rosa Parks' row on the bus."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "There were many people on the bus with Rosa Parks."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people were on the bus Rosa Parks was on?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many people were on the bus when Rosa Parks was on it?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many people were on the bus with Rosa Parks when she was arrested?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people were on the bus with Rosa Parks when she was arrested?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "On what date did Rosa Parks refuse to give up her bus seat?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many people were on the bus at the time Rosa Parks was riding it?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many people were on the bus with Rosa Parks when she was arrested?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people participated in the Bus Boycott?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people participated in the Bus Boycott?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people participated in the Bus Boycott?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people participated in the Bus Boycott?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Approximately 50,000 African-American people participated in the Bus Boycott."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people participated in the Bus Boycott?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people participated in the Bus Boycott?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people participated in the Bus Boycott?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people participated in the Bus Boycott?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many people participated in the Bus Boycott?'"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many people applied to the University of Alabama?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people applied to the University of Alabama?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What was the application rate to the University of Alabama?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people applied to the University of Alabama?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many applicants were there for the University of Alabama?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people applied to the University of Alabama?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many applicants did the University of Alabama receive?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many applicants did the University of Alabama have?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people applied to the University of Alabama?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many people applied to the University of Alabama?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many students were admitted to the University of Alabama?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many applicants were admitted to the University of Alabama?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many applicants were accepted to the University of Alabama?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people were accepted to the University of Alabama?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many students were admitted to the University of Alabama?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What was the admission rate for the University of Alabama?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many students were accepted to the University of Alabama?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many students were accepted to the University of Alabama?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many applicants were admitted to the University of Alabama?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many students were admitted to the University of Alabama?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many students were expelled from the University of Alabama?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many students were expelled from the University of Alabama?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many students were expelled from the University of Alabama?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many students were expelled from the University of Alabama?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many students were expelled from the University of Alabama?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many students were expelled from the University of Alabama?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many students were expelled from the University of Alabama?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many students were expelled from the University of Alabama?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many students were expelled from the University of Alabama?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many students were expelled from the University of Alabama?"
+            }
+        ]
+    ],
+    "yesno_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) Did the novel To Kill a Mockingbird primarily deal with issues of racism?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) Did the novel To Kill a Mockingbird primarily revolve around race relations?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is the novel To Kill a Mockingbird primarily about race relations?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) Did the novel To Kill a Mockingbird focus mainly on race relations?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is the primary focus of the novel To Kill a Mockingbird on race relations?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) Was the main focus of To Kill a Mockingbird on race relations?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Was race relations the primary focus of the novel To Kill a Mockingbird?\n\nYes, the novel focuses mainly on issues of racial injustice and inequity."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) Was race relations the primary subject of the novel To Kill a Mockingbird?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) Was the primary subject of To Kill a Mockingbird race relations?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) Did the novel To Kill a Mockingbird primarily deal with race relations in America?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What were the two events involving racial issues in Alabama that contributed to the shaping of the novel?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: In what ways did two events involving racial issues in Alabama contribute to the shaping of the novel?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: How did two events involving racial issues in Alabama contribute to the shaping of the novel?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What were the two events involving racial issues in Alabama that contributed to shaping the novel?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did two events related to race in Alabama influence the novel's development?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "3) How did two events involving racial issues in Alabama contribute to the shaping of the novel?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What were the two events involving racial issues in Alabama that contributed to the shaping of the novel?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: In what ways did two events involving racial issues in Alabama contribute to the shaping of the novel?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "3) What were two events involving racial issues in Alabama that contributed to the shaping of the novel?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What were the two events involving racial issues in Alabama that contributed to the shaping of the novel?'"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What was the general belief of literary scholars about the perspective from which the story in To Kill a Mockingbird was told?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4) Did literary scholars believe that the story in To Kill a Mockingbird accurately depicted life in the 1950s?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4) Do literary scholars believe that the story in To Kill a Mockingbird was told from the perspective of the 1950s?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4) Is the story in To Kill a Mockingbird told from the perspective of the 1950s?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Do literary scholars believe that the story in To Kill a Mockingbird was told from the perspective of Atticus Finch?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What was the belief of literary scholars in regards to the story told in To Kill a Mockingbird being set in the 1950s?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4) Does the story in To Kill a Mockingbird take place during the 1950s?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did literary scholars in the 1950s believe that the story in To Kill a Mockingbird was told from their perspective?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4) Did literary scholars in the 1950s believe that the story in To Kill a Mockingbird was told from their perspective?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did literary scholars in the 1950s believe that the story in To Kill a Mockingbird was told from their perspective?"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "5) How does the social change in the South during the time the novel was written and published compare to other periods since the Civil War and Reconstruction?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What was the social climate like in the South during the time period when the novel was written and published?'\nThe social change in the south during this time was quite significant and conflict-ridden, second only to that of post Civil War Reconstruction."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What was the most significant and conflict-ridden social change in the South during the time the novel was written and published?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What was the most significant and conflict-ridden social change in the South during the time when the novel was written and published?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Was the social change in the South during the time period that the novel was written and published one of, if not, the most conflict-ridden since The Civil War and Reconstruction?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What was the most significant and conflict-ridden social change in the South during the time that the novel was written and published?'\n\nThe answer to this question would depend on interpretation."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "5) Was the social change in the South during the time the novel was written and published more significant and conflict-ridden than any other since the Civil War and Reconstruction?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is the social change in the South during the time novel was written and published comparable to other conflicts such as Civil War and Reconstruction?"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '5) Was the social change in the South during the time the novel was written and published significant and full of conflict?'"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "5) How does the social change in the South during the time the novel was written and published compare to other periods in American history?"
+            }
+        ]
+    ]
+}

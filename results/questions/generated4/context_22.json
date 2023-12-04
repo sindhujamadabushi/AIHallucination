@@ -1,0 +1,1131 @@
+{
+    "context": "Service dogs such as guide dogs, utility dogs, assistance dogs, hearing dogs, and psychological therapy dogs provide assistance to individuals with physical or mental disabilities. Some dogs owned by epileptics have been shown to alert their handler when the handler shows signs of an impending seizure, sometimes well in advance of onset, allowing the guardian to seek safety, medication, or medical care.\n",
+    "count": [
+        "1. How many service dog types are there?",
+        "2. How many states in the US have service dog laws?",
+        "4. How many types of assistance do service dogs provide?",
+        "5. How long does it typically take to train a service dog?"
+    ],
+    "yesno": [
+        "1. Are service dogs trained to provide assistance to individuals with physical or mental disabilities?",
+        "2. Do service dogs go through extensive training?",
+        "3. Are service dogs allowed in all public places?",
+        "4. Do service dogs provide their handlers with advance warning of an impending seizure?",
+        "5. Do all service dog owners have a disability?"
+    ],
+    "count_gt": [
+        "five",
+        "unknown",
+        "five",
+        "unknown"
+    ],
+    "yesno_gt": [
+        "yes",
+        "unknown",
+        "unknown",
+        "yes",
+        "unknown"
+    ],
+    "count_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many different types of service dogs are there?'\n\nThere are four main types of service dogs: guide dogs, hearing dogs, mobility assistance dogs, and psychiatric service dogs.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many different types of service dogs are there?'\n\nThere are four different types of service dogs: guide dogs, hearing dogs, mobility assistance dogs, and medical alert/response Dogs.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes, the answer is consistent with the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many different types of service dogs are there?'",
+                "answer": "there are five different types of service dogs.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many different types of service dogs are there?",
+                "answer": "there are five different types of service dogs: guide dogs, utility dogs, assistance dogs, hearing dogs, and psychological therapy dogs.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many types of service dogs are there?",
+                "answer": "according to the context, there appear to be at least five types of service dogs: guide dogs, utility dogs, assistance dogs, hearing dogs, and psychological therapy dogs.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many types of service dogs are there?",
+                "answer": "there are five types of service dogs: guide dogs, utility dogs, assistance dogs, hearing dogs, and psychological therapy dogs.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "There are three types of service dogs: guide dogs, hearing dogs, and assistance dogs.",
+                "answer": "what is the primary difference between these three types of service dogs?\n\nthe three types of service dogs differ in their primary function. guide dogs are used by individuals who are blind or have low vision. hearing dogs are used by individuals who are deaf or hard of hearing. assistance dogs are used by individuals with physical disabilities.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "hearing dogs are used by individuals with physical disabilities."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "There are different types of service dogs, each trained to perform specific tasks.",
+                "answer": "what is one type of service dog?\n\none type of service dog is a guide dog, which is trained to help individuals with physical disabilities.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What are the different types of service dogs?'",
+                "answer": "guide dogs, utility dogs, assistance dogs, hearing dogs, and psychological therapy dogs are all types of service dogs.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What are the different types of service dogs?'",
+                "answer": "the different types of service dogs are guide dogs, utility dogs, assistance dogs, hearing dogs, and psychological therapy dogs.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many states in the United States have service dog laws?",
+                "answer": "there are currently at least nineteen states in the united states that have laws concerning service dogs and their handlers.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many states in the US have service dog laws?",
+                "answer": "there are 24 states in the united states with laws governing the use of service animals.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many states in the US have laws pertaining to service dogs?",
+                "answer": "all 50 states in the us have laws pertaining to service dogs.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: What are the service dog laws in each US state?",
+                "answer": "in the united states, there are federal laws that protect the rights of individuals with disabilities to use service animals. individual states also have laws that further protect the rights of individuals with disabilities to use service animals.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many states in the United States have service dog laws?",
+                "answer": "there are currently 24 states in the united states with service dog laws.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: What are the service dog laws in each state?",
+                "answer": "there are no federal laws governing service dogs, but each state has its own laws and regulations.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many states in the US have service dog laws?",
+                "answer": "there are currently no us federal laws that regulate service dogs, but all 50 states have their own laws regarding service dogs.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many states in the US have laws regulating service dogs?",
+                "answer": "however, there is no clear answer. service dogs are not currently regulated at the federal level in the united states, and it is unclear how many states have laws regulating service dogs.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many states in the US have laws regulating service dogs?",
+                "answer": "there are laws regulating service dogs in all 50 states in the us.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many states in the United States have service dog laws?",
+                "answer": "at least 22 states in the united states have laws that protect the rights of individuals who use service animals.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are the different types of assistance service dogs can provide?",
+                "answer": "service dogs can provide assistance with physical disabilities, such as blindness or deafness, or they can provide assistance to those with mental disabilities, such as ptsd or autism.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many types of assistance do service dogs typically provide?",
+                "answer": "a typical service dog will provide three types of assistance: hearing, mobility, and medical.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many types of assistance do service dogs typically provide?",
+                "answer": "service dogs typically provide five types of assistance: guide dogs, utility dogs, assistance dogs, hearing dogs, and psychological therapy dogs.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are the different types of assistance that service dogs can provide?",
+                "answer": "service dogs can provide different types of assistance such as guide dogs, utility dogs, assistance dogs, hearing dogs, and psychological therapy dogs.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many types of assistance do service dogs typically provide?",
+                "answer": "service dogs typically provide five types of assistance: guide dogs, utility dogs, assistance dogs, hearing dogs, and psychological therapy dogs.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are the different types of assistance that service dogs can provide?",
+                "answer": "service dogs can provide a variety of assistance services, including but not limited to acting as a guide dog for individuals who are blind or have low vision, a utility dog for individuals with physical disabilities, an assistance dog for individuals with mental disabilities, a hearing dog for individuals who are deaf or have hearing loss, and a psychological therapy dog for individuals who suffer from mental health conditions.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many different types of assistance do service dogs provide?",
+                "answer": "service dogs provide five different types of assistance: guide dogs, utility dogs, assistance dogs, hearing dogs, and psychological therapy dogs.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: What are the different types of assistance that service dogs provide?",
+                "answer": "the different types of assistance that service dogs provide are guiding, helping with utility tasks, providing assistance, alerting to sound, and serving as a psychological therapy dog.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are the four types of assistance service dogs provide?",
+                "answer": "guide dogs, utility dogs, hearing dogs, and psychological therapy dogs",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many types of assistance do service dogs typically provide?",
+                "answer": "service dogs typically provide three types of assistance: physical, mental, and emotional.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: On average, how long does it take to train a service dog?",
+                "answer": "response: it can take up to two years to train a service dog.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How much time is typically required to train a service dog?",
+                "answer": "there is no one answer to this question as the amount of time required to train a service dog can vary depending on the specific tasks the dog is being trained to perform and the level of difficulty associated with those tasks. for example, training a service dog to alert its handler to an impending seizure may be a relatively simple process that can be completed in a matter of weeks, while training a service dog to provide mobility assistance to someone with a physical disability may be a much more complex and time-consuming process that could take several months or even years to complete.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How much time is typically required to train a service dog?",
+                "answer": "the amount of time required to train a service dog can vary depending on the type of dog and the specific task it is being trained to perform. some dogs may only require a few weeks of training, while others may need several months.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How much time is typically required to train a service dog?",
+                "answer": "a service dog typically requires about two years of training.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How much time is required to train a service dog?'",
+                "answer": "training a service dog is a lengthy process that can take up to two years.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How long does it take to train a service dog on average?",
+                "answer": "it takes about two years to train a service dog on average.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the average amount of time it takes to train a service dog?",
+                "answer": "it typically takes around two years to train a service dog.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How long does it take to train a service dog on average?",
+                "answer": "it is recommended that service dogs receive between 120 and 150 hours of training. however, some service dogs may receive up to 400 hours of training.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How much time is typically required to train a service dog?",
+                "answer": "there is no definitive answer to this question as it can vary greatly depending on the type of service dog being trained, the specific tasks being taught, and the individual dog's learning speed and aptitude. however, it is generally agreed that service dogs require a significant amount of training in order to learn the specialized skills needed to perform their duties effectively. for example, guide dogs typically undergo around two years of training before being matched with a blind or visually impaired partner, while utility dogs may require up to two years of training to learn all the tasks they are expected to perform.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What is the average amount of time it takes to train a service dog?'",
+                "answer": "the average amount of time it takes to train a service dog is two years.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            }
+        ]
+    ],
+    "yesno_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Do service dogs provide assistance to individuals with physical or mental disabilities?",
+                "answer": "yes, service dogs provide assistance to individuals with physical or mental disabilities.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Do service dogs provide assistance to people with physical or mental disabilities?",
+                "answer": "2. what are some things that service dogs can do to help their handlers?\n\n1. yes, service dogs provide assistance to people with physical or mental disabilities.\n\n2. service dogs can perform a variety of tasks to help their handlers, such as providing assistance with daily tasks, aiding in mobility, alerting their handlers to potential danger, and providing emotional support.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Do service dogs provide assistance to individuals with physical or mental disabilities?",
+                "answer": "yes, service dogs provide assistance to individuals with physical or mental disabilities.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Do service dogs provide assistance to individuals with physical or mental disabilities?",
+                "answer": "yes, service dogs provide assistance to individuals with physical or mental disabilities.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Do service dogs provide assistance to people with physical or mental disabilities?",
+                "answer": "yes, service dogs provide assistance to individuals with physical or mental disabilities.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '1. Do service dogs provide assistance to people with physical or mental disabilities?' \nAnswer: Yes, they are trained specifically for that reason.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. How are service dogs trained to provide assistance to individuals with physical or mental disabilities?",
+                "answer": "most service dogs are trained by professional organizations that specialize in breeding, raising, and training service dogs.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Do service dogs receive training to help those with physical or mental disabilities?",
+                "answer": "yes, service dogs receive training to help those with physical or mental disabilities.",
+                "exact_match": "no",
+                "llm_selfevaluation": "​yes​"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Do service dogs provide assistance to people with physical or mental disabilities?",
+                "answer": "yes, service dogs provide assistance to individuals with physical or mental disabilities.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Do service dogs provide assistance to people with physical or mental disabilities?",
+                "answer": "yes, service dogs provide assistance to people with physical or mental disabilities.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What kind of training do service dogs go through? \nAnswer: Service dogs undergo extensive and specific training in order to perform their duties.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Service dogs typically go through an extensive and rigorous training program in order to be certified.",
+                "answer": "what is one important skill that service dogs must be able to perform?\n\na service dog must be able to perform basic obedience commands such as sit, stay, come, down, and heel.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Answer: Yes, service dogs go through extensive training.",
+                "answer": "guide dogs, for example, can take up to two years to fully train.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What kind of training do service dogs go through?",
+                "answer": "service dogs are trained to provide specific assistance to their handlers. guide dogs, for example, are trained to lead blind or visually impaired individuals around obstacles. utility dogs are trained to perform specific tasks, such as retrieving items or opening doors, for individuals with physical disabilities. assistance dogs are trained to provide physical assistance, such as helping to stand or walk, for individuals with mobility impairments. hearing dogs are trained to alert their deaf or hard-of-hearing handlers to specific sounds, such as doorbells, alarm clocks, or smoke detectors. psychological therapy dogs are trained to provide emotional support and companionship for individuals with mental illness or other psychological disorders.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: How much training do service dogs go through?",
+                "answer": "service dogs go through a lot of training, most of which is specific to the needs of their handlers. guide dogs, for example, are trained to help blind or visually impaired individuals navigate their surroundings. utility dogs and assistance dogs are trained to perform specific tasks that their handlers are unable to do, such as picking up objects or opening doors. hearing dogs are trained to alert their handlers to sounds, such as doorbells or alarms. psychological therapy dogs are trained to provide comfort and support to their handlers during times of stress.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Answer: Yes, service dogs go through extensive training.",
+                "answer": "service dogs such as guide dogs, utility dogs, assistance dogs, hearing dogs, and psychological therapy dogs provide assistance to individuals with physical or mental disabilities. some dogs owned by epileptics have been shown to alert their handler when the handler shows signs of an impending seizure, sometimes well in advance of onset, allowing the guardian to seek safety, medication, or medical care.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Service dogs undergo extensive training in order to perform their duties.",
+                "answer": "true or false?\n\ntrue",
+                "exact_match": "yes",
+                "llm_selfevaluation": "The answer is consistent with the ground truth."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What type of training do service dogs go through? \nService dogs go through an extensive variety of training that covers obedience, basic manners, and public access skills.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What type of training do service dogs go through? \nService dogs go through extensive obedience training, and are also taught to perform specific tasks that their disabled partner may need assistance with.",
+                "answer": "for example, a service dog for a blind person may be taught to guide their partner around obstacles, or a service dog for a person with severe allergies may be trained to alert their partner to the presence of an allergen.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2. Are service dogs put through extensive training?",
+                "answer": "why or why not?\n\nyes, service dogs are put through extensive training. this is because they need to be able to perform specific tasks or behaviours in order to help their handler with their disability. for example, guide dogs need to be able to guide their handler around obstacles, and utility dogs need to be able to perform tasks such as fetching items or opening doors.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What are the policies regarding service dogs in public places?",
+                "answer": "there is no single answer to this question as policies regarding service dogs in public places can vary from country to country and even from state to state. in general, however, service dogs are generally allowed in public places such as restaurants, stores, and other businesses. some businesses may require proof that the dog is a trained service dog, however, so it is always best to check with the business in advance.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Are service dogs allowed in public places such as restaurants, stores, and hotels?",
+                "answer": "yes, service dogs are allowed in public places in the united states.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Yes, service dogs are allowed in all public places by law.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Yes, service dogs are allowed in all public places.",
+                "answer": "this is because they are considered working animals and are therefore not subject to the same rules and regulations as regular pets.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Are service dogs allowed in all places that are open to the public?",
+                "answer": "some places that are open to the public, such as restaurants, bars, and public transportation, may not allow service dogs.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Are service dogs allowed to accompany their owners in all public places? \nYes, service animals are generally permitted to accompany people with disabilities in all public places.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Are service dogs allowed in all public places?'",
+                "answer": "yes, service dogs are allowed in all public places.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Are service dogs allowed to accompany their owners in all public places?\nYes, service dogs are allowed to accompany their owners in all public places.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "3. Can service dogs go into all public places?",
+                "answer": "yes",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Service dogs provide assistance to individuals with physical or mental"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Are service dogs allowed in all public places? \nAnswer: Service animals are generally allowed in all public places.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Do service dogs give their handlers warning before a seizure happens?",
+                "answer": "yes, in some cases service dogs have been able to warn their handlers of an impending seizure.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Do service dogs provide their handlers with an warning prior to a seizure?",
+                "answer": "some service dogs owned by epileptics have been shown to alert their handler when the handler shows signs of an impending seizure, sometimes well in advance of onset, allowing the guardian to seek safety, medication, or medical care.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Do service dogs give their handlers advance warning of an impending seizure?' \nYes, service dogs can provide their handlers with warnings of an oncoming seizure up to 45 minutes in advance. These trained animals are able to pick up on changes in a person’s behavior,",
+                "answer": "body language, and scent that indicate an oncoming seizure.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Do service dogs warn their handlers in advance if a seizure is going to happen?",
+                "answer": "yes, some service dogs owned by epileptics have been shown to alert their handler when the handler shows signs of an impending seizure, sometimes well in advance of onset.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Do service dogs give their handlers any warning before a seizure happens?",
+                "answer": "some service dogs have been known to give their handlers warning before a seizure happens, while other service dogs may not show any warning signs before a seizure.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Do service dogs give their handlers any kind of warning before a seizure happens?",
+                "answer": "yes, some service dogs have been shown to give their handlers warning before a seizure happens.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Do service dogs warn their handlers of an oncoming seizure?",
+                "answer": "yes, some service dogs have been shown to alert their handlers when they show signs of an impending seizure.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Do service dogs warn their handlers in advance of an upcoming seizure?",
+                "answer": "based on the context, it appears that some service dogs owned by epileptics have been shown to alert their handler when the handler shows signs of an impending seizure, sometimes well in advance of onset.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Do service dogs warn their handlers of an oncoming seizure?",
+                "answer": "yes, some service dogs are able to warn their handlers of an oncoming seizure.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Do service dogs provide their handlers with a warning before they have a seizure? \nAnswer: Yes",
+                "answer": ", service dogs have been shown to provide their handlers with a warning before they have a seizure.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Do all service dog owners have a disability?\nAnswer: Yes, service dogs are only provided to individuals with disabilities.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Do all service dog owners have a disability as defined by the Americans with Disabilities Act?\nNo, not all service dog owners have a disability as defined by the ADA.",
+                "answer": "some may have physical disabilities, while others may have mental disabilities.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Do all service dog owners have a disability?' Yes, all service dog owners have a disability.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Do all service dog owners have a disability? No, not all service dog owners have a disability.",
+                "answer": "however, all service dog owners must have a disability that the dog is trained to assist with. for example, a service dog might be trained to help a person with a physical disability, such as helping them to walk or pick up things that they have dropped.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is it a requirement that all service dog owners have a disability?",
+                "answer": "no, it is not a requirement that all service dog owners have a disability.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What percentage of service dog owners have a disability?",
+                "answer": "100% of service dog owners have a disability.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "No, not all service dog owners have a disability. Some people may use a service dog for other purposes such as assistance with allergies or help during times of anxiety.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is it a requirement that all service dog owners have a disability?",
+                "answer": "no, it is not a requirement that all service dog owners have a disability.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Do all service dog owners have a disability?'",
+                "answer": "no, not all service dog owners have a disability. for example, some people with service dogs may not have a visible disability, such as a person who has a seizure disorder or a mental health condition.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "No, not all service dog owners have a disability. Some service dogs are trained for people with disabilities, but some are trained for other purposes such as assisting law enforcement officers or helping in the military.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,1255 @@
+{
+    "context": "Nintendo staff members reported that demo users complained about the difficulty of the control scheme. Aonuma realized that his team had implemented Wii controls under the mindset of \"forcing\" users to adapt, instead of making the system intuitive and easy to use. He began rethinking the controls with Miyamoto to focus on comfort and ease.[q] The camera movement was reworked and item controls were changed to avoid accidental button presses.[r] In addition, the new item system required use of the button that had previously been used for the sword. To solve this, sword controls were transferred back to gestures—something E3 attendees had commented they would like to see. This reintroduced the problem of using a right-handed swing to control a left-handed sword attack. The team did not have enough time before release to rework Link's character model, so they instead flipped the entire game—everything was made a mirror image.[s] Link was now right-handed, and references to \"east\" and \"west\" were switched around. The GameCube version, however, was left with the original orientation. The Twilight Princess player's guide focuses on the Wii version, but has a section in the back with mirror-image maps for GameCube users.[t]\n",
+    "count": [
+        "How many Nintendo staff members reported complaints about the control scheme?",
+        "How many users were surveyed about the control scheme?",
+        "How many button presses did the new item system require?",
+        "How many minutes before release did the team rework Link's character model?",
+        "How many sections are in the player's guide?"
+    ],
+    "yesno": [
+        "1. Did Nintendo staff members report that demo users complained about the difficulty of the control scheme?",
+        "2. Did Aonuma realize that his team had implemented Wii controls under the mindset of \"forcing\" users to adapt, instead of making the system intuitive and easy to use?",
+        "3. Did the camera movement get reworked and item controls get changed to avoid accidental button presses?",
+        "4. Did the new item system require use of the button that had previously been used for the sword?",
+        "5. Did Link's character model get changed so that he was right-handed?"
+    ],
+    "count_gt": [
+        "unknown",
+        "unknown",
+        "one",
+        "unknown",
+        "unknown"
+    ],
+    "yesno_gt": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ],
+    "count_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many Nintendo employees filed complaints about the control scheme?",
+                "answer": "none of the nintendo employees filed complaints about the control scheme. the complaints came from the demo users.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Nintendo employees reported complaints about the control scheme?",
+                "answer": "a. 1\nb. 2\nc. 3\n\nb. 2",
+                "exact_match": "yes",
+                "llm_selfevaluation": "The answer is consistent with the ground truth."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many Nintendo employees filed complaints about the control scheme?",
+                "answer": "one nintendo employee filed a complaint about the control scheme.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Nintendo employees reported complaints about the control scheme?",
+                "answer": "a. two\n\nb. four\n\nc. six\n\nd. eight",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Nintendo employees filed complaints about the control scheme?",
+                "answer": "according to the text, it was nintendo staff members who reported that demo users complained about the difficulty of the control scheme. there is no specific number given of how many employees filed these complaints.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many Nintendo employees reported complaints about the control scheme?",
+                "answer": "one nintendo employee reported complaints about the control scheme.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Nintendo employees filed complaints about the control scheme?",
+                "answer": "from the context, it can be inferred that only demo users - and not nintendo staff members - filed complaints about the difficulty of the control scheme.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Nintendo employees filed complaints about the control scheme?",
+                "answer": "one nintendo employee filed a complaint about the control scheme.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many Nintendo employees filed complaints about the control scheme?",
+                "answer": "according to the text, it was nintendo staff members, not just employees, who reported the demo users' complaints.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Nintendo employees reported complaints about the control scheme?",
+                "answer": "one employee reported complaints about the control scheme.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people were surveyed about the control scheme?",
+                "answer": "nintendo staff members reported that demo users complained about the difficulty of the control scheme. aonuma realized that his team had implemented wii controls under the mindset of \"forcing\" users to adapt, instead of making the system intuitive and easy to use.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many users were surveyed about the control scheme?",
+                "answer": "a. dozens\n\nb. hundreds\n\nc. thousands\n\nd. nintendo staff members\n\n\n nintendo staff members",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people were surveyed about the control scheme?",
+                "answer": "aonuma and miyamoto spoke to nintendo staff members who reported complaints from demo users. it's unclear how many people were surveyed.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people were surveyed about the control scheme?",
+                "answer": "a. 1\nb. 2\nc. 3\nd. 4\n\nb. 2",
+                "exact_match": "yes",
+                "llm_selfevaluation": "The answer is consistent with the ground truth."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people were surveyed about the control scheme?",
+                "answer": "from the context, it can be inferred that a small number of people were surveyed about the control scheme.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people were surveyed about the control scheme?",
+                "answer": "aonuma and miyamoto focused on comfort and ease after nintendo staff members reported that demo users complained about the difficulty of the control scheme. it's not stated how many people were surveyed.",
+                "exact_match": "yes",
+                "llm_selfevaluation": ""
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people were surveyed about the control scheme?",
+                "answer": "according to the context, nintendo staff members reported that demo users complained about the difficulty of the control scheme. it is not stated how many people were surveyed.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people were surveyed about the control scheme?",
+                "answer": "one possible answer to this question is that nintendo staff members reported that demo users complained about the difficulty of the control scheme. if this is the case, then it is safe to say that at least a handful of people were surveyed about the control scheme. however, it is also possible that many more people were surveyed and that the nintendo staff members were simply reporting on the feedback that they received.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Unknown"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people were surveyed about the control scheme?",
+                "answer": "apparently, at least two nintendo staff members and some e3 attendees were consulted about the control scheme. it's unclear exactly how many people were surveyed.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people were surveyed about the control scheme?",
+                "answer": "it is not stated in the passage how many people were surveyed.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many button presses were required for the new item system?",
+                "answer": "one button press is required for the new item system.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many button presses were required for the new item system?",
+                "answer": "one button press is required for the new item system.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many button presses are required for the new item system?",
+                "answer": "one button press is required for the new item system.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many button presses were required for the new item system?'",
+                "answer": "one button press is required for the new item system.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many button presses were required for the new item system?",
+                "answer": "one button press was required for the new item system.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the number of button presses required for the new item system?",
+                "answer": "the number of button presses required for the new item system was one.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many button presses were required for the new item system?",
+                "answer": "the new item system required one additional button press.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many button presses are required for the new item system?",
+                "answer": "one button press is required for the new item system.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many button presses were required for the new item system?",
+                "answer": "a. 1\n\nb. 2\n\nc. 3\n\nd. 4\n\nb. 2",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many button presses did the new item system take?",
+                "answer": "one button press.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How much time before release did the team spend reworking Link's character model?",
+                "answer": "the team did not spend time reworking link's character model before release.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many minutes before the release did the team rework Link's character model?",
+                "answer": "the team did not have enough time to rework link's character model, so they instead flipped the entire game—everything was made a mirror image.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How long before release did the team rework Link's character model?'",
+                "answer": "the team did not have enough time before release to rework link's character model, so they instead flipped the entire game—everything was made a mirror image.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "When did the team rework Link's character model in relation to the release?",
+                "answer": "the team reworked link's character model after the release.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the amount of time in minutes that the team took to rework Link's character model before release?",
+                "answer": "the team did not have enough time before release to rework link's character model, so they instead flipped the entire game—everything was made a mirror image. link was now right-handed, and references to \"east\" and \"west\" were switched around.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How long before release did the team rework Link's character model?",
+                "answer": "the team did not have enough time before release to rework link's character model.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the amount of time in minutes that the team had to revise Link's character model before it was published?",
+                "answer": "the team did not have enough time before release to rework link's character model, so they instead flipped the entire game—everything was made a mirror image.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the team's turnaround time for Link's character model?",
+                "answer": "there was not enough time to rework link's character model.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Unknown"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many minutes before release did the team finish reworking Link's character model?",
+                "answer": "the team did not have enough time before release to rework link's character model.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How long before release did the team rework Link's character model?",
+                "answer": "the team did not have enough time before release to rework link's character model, so they instead flipped the entire game—everything was made a mirror image.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many parts are in the player's guide?",
+                "answer": "the player's guide has two sections.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many sections are there in the player's guide?",
+                "answer": "the player's guide has two sections.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the number of sections in the player's guide?",
+                "answer": "there are four sections in the player's guide.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many parts are in the player's guide?'",
+                "answer": "there are two parts in the player's guide: the main section and the mirror-image maps section.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many sections are in the player's guidebook?",
+                "answer": "the player's guidebook has one section in the front that focuses on the wii version and one section in the back that has mirror image maps for gamecube users.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many chapters are in the player's guide?",
+                "answer": "there are a total of 27 chapters in the player's guide.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "In how many sections is the player's guide divided?",
+                "answer": "the player's guide for twilight princess is divided into two sections. one section focuses on the wii version of the game, while the other section contains mirror-image maps for gamecube users.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "In how many sections is the player's guide divided?",
+                "answer": "the player's guide is divided into two sections: one for wii users and one for gamecube users.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the total number of sections in the player's guide?",
+                "answer": "there are a total of five sections in the player's guide.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "In how many sections is the player's guide divided?",
+                "answer": "the player's guide is divided into two sections.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            }
+        ]
+    ],
+    "yesno_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did any Nintendo staff members report that demo users had complained about the difficulty of the control scheme?",
+                "answer": "yes, a number of staff members reported that demo users complained about the difficulty of the control scheme.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Did Nintendo staff members report that demo users found the control scheme difficult?",
+                "answer": "yes, nintendo staff members reported that demo users found the control scheme difficult.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Nintendo staff members reported that demo users found the control"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did Nintendo staff members report that demo users had difficulty with the control scheme?\n\nNo, there were no reports from Nintendo staff members regarding complaints about the difficulty of the control scheme.",
+                "answer": "instead, it was aonuma who realized that the team had implemented wii controls under the mindset of \"forcing\" users to adapt, instead of making the system intuitive and easy to use.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What were the complaints from demo users about the control scheme?",
+                "answer": "the complaints from the demo users were that the control scheme was not intuitive and easy to use.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did demo users complain about the difficulty of the control scheme, as reported by Nintendo staff members?",
+                "answer": "yes, demo users complained about the difficulty of the control scheme, as reported by nintendo staff members.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Aonuma realized that his team had implemented Wii"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Did Nintendo staff members receive complaints from demo users about the difficulty of the control scheme?",
+                "answer": "2. what caused aonuma to rework the controls?\n\n1. yes, nintendo staff members received complaints from demo users about the difficulty of the control scheme.\n\n2. the complaints from demo users about the difficulty of the control scheme caused aonuma to rework the controls.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did demo users complain about the difficulty of the control scheme to Nintendo staff members?",
+                "answer": "yes",
+                "exact_match": "no",
+                "llm_selfevaluation": "The answer is consistent with the ground truth"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did demo users complain about the difficulty of the control scheme to Nintendo staff members?",
+                "answer": "yes, demo users complained about the difficulty of the control scheme to nintendo staff members.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did any Nintendo staff members report that demo users complained about the difficulty of the control scheme?",
+                "answer": "yes, nintendo staff members reported that demo users complained about the difficulty of the control scheme.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Did Nintendo staff members report that demo users found the control scheme difficult?",
+                "answer": "yes. nintendo staff members reported that demo users complained about the difficulty of the control scheme.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2. Did Aonuma realize that his team had implemented Wii controls in a way that would require users to adapt, instead of making the system easy and intuitive to use?",
+                "answer": "based on the context, it can be inferred that aonuma did realize that his team had implemented wii controls in a way that would require users to adapt, instead of making the system easy and intuitive to use.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Aonuma says that when they were creating the controls for Wii, they kept in mind that it was important to make it easy and intiutive for users instead of forcing them to adopt. Did he always have this idea in mind?",
+                "answer": "no, he did not always have this idea in mind. he realized it after speaking with the staff members who first demoed the game to potential players.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Aonuma's team implemented Wii controls under the mindset of \"forcing\" users to adapt. Did he realize this, and did it cause problems? \nAnswer: Yes, Aonuma realized that his team had implemented Wii controls under the mindset of forcing users to adapt instead",
+                "answer": "of making the system comfortable and easy to use. this caused problems because e3 attendees commented that they would like to see sword controls transferred back to gestures, which reintroduced the problem of using a right-handed swing to control a left-handed sword attack.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Aonuma realize that his team had implemented Wii controls with the intention of forcing users to adapt, instead of making the system easy and intuitive to use?",
+                "answer": "yes, aonuma realized that his team had implemented wii controls with the intention of forcing users to adapt, instead of making the system easy and intuitive to use.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Aonuma and his team realize that they had implemented Wii controls under the mindset of \"forcing\" users to adapt, instead of making the system more intuitive and easy to use?",
+                "answer": "yes, aonuma and his team realized that they had implemented wii controls under the mindset of \"forcing\" users to adapt, instead of making the system more intuitive and easy to use.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Aonuma realize that his team had implemented Wii controls with the intention of \"forcing\" users to adapt, instead of making the system easy and intuitive to use?",
+                "answer": "aonuma realized that his team had implemented wii controls under the mindset of \"forcing\" users to adapt, instead of making the system intuitive and easy to use.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Aonuma's team implemented Wii controls with the mindset of \"forcing\" users to adapt. Did he realize this, and if so, what were his thoughts on it?",
+                "answer": "yes, aonuma realized that his team had implemented wii controls with the mindset of \"forcing\" users to adapt. he began rethinking the controls with miyamoto to focus on comfort and ease.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Aonuma realize that his team had implemented Wii controls with the intent of users having to adapt, instead of making the system easy to use?",
+                "answer": "yes, he realized this and then changed the controls to be more comfortable and easier to use.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Aonuma realized that his team had implemented Wii controls under the mindset of \"forcing\" users to adapt, instead of making the system intuitive and easy to use.",
+                "answer": "why was this a problem?\n\nthis was a problem because it made the game more difficult for users, instead of making it easier.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Aonuma: No.",
+                "answer": "that wasn’t a problem that we ran into too much. i think maybe at the beginning there were some comments like that but, again, because it was something that we were developing with the wii remote in mind from the start, that’s how we designed the game, and i don’t think it was a problem that we had to go back and redo too much.\n\n\n\nwhat was the problem that they didn't have to go back and redo too much?",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did the camera movement and item controls get changed to avoid accidental button presses?",
+                "answer": "yes, the camera movement and item controls were changed to avoid accidental button presses.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Nintendo staff members reported that demo users complained about the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Did you change the camera movement and item controls to avoid accidental button presses?'",
+                "answer": "based on the context, it can be inferred that the answer to the question is yes.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "3. Did the team make changes to camera movement and item controls to prevent accidental button presses?",
+                "answer": "a. yes\nb. no, they did not\n\na. yes",
+                "exact_match": "no",
+                "llm_selfevaluation": "they changed the controls to be more intuitive, and"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "3. Did the camera movement and item controls get changed to avoid accidental button presses?",
+                "answer": "yes.",
+                "exact_match": "no",
+                "llm_selfevaluation": "The answer seems to be consistent with the ground truth"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Did the camera movement and item controls get changed to avoid accidental button presses?'",
+                "answer": "yes.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes, the answer is consistent with the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did the camera movement and item controls get changed to avoid accidental button presses?",
+                "answer": "yes, the camera movement and item controls got changed to avoid accidental button presses.",
+                "exact_match": "no",
+                "llm_selfevaluation": "the answer is consistent with the ground truth"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Were the camera movement and item controls changed to avoid accidental button presses?'\n\nYes, the camera movement and item controls were both changed in order to avoid accidental button presses.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes, the answer is consistent with the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Did you change the camera movement and item controls to avoid accidental button presses?'",
+                "answer": "yes, the camera movement was reworked and item controls were changed to avoid accidental button presses.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "3. Were the camera movements and item controls changed to avoid accidental button presses?",
+                "answer": "yes.",
+                "exact_match": "no",
+                "llm_selfevaluation": "The answer is generally consistent with the ground truth,"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Did the camera movement and item controls get changed to avoid accidental button presses?'",
+                "answer": "the camera movement and item controls were changed to avoid accidental button presses.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did the new item system require use of a button that had previously been used for a sword?",
+                "answer": "yes, the new item system required use of the button that had previously been used for the sword.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4. Did the new item system require use of a button that had previously been used for the sword?'",
+                "answer": "no, the new item system did not require use of the button that had previously been used for the sword.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4. Did the new item system require use of a button that had previously been used for something else?'",
+                "answer": "yes, the new item system required the use of a button that had previously been used for the sword.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4. Did the new item system require use of the button that was previously used for the sword?'",
+                "answer": "no, the new item system did not require the use of the button that was previously used for the sword.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "4. Did the new item system require use of a different button than what was previously used for the sword?",
+                "answer": "no, the new item system did not require use of a different button than what was previously used for the sword.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4. Did the new item system require use of a different button than what had been used for the sword?'",
+                "answer": "yes, the new item system required the use of a different button than what had been used for the sword.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4. Did the new item system require use of the button that was previously used for the sword?'\n\nNo, the new item system does not require use of the button that was previously used for the sword.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "The answer is consistent with the ground truth"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4. Did the new item system require use of a button that had been used for the sword in the previous game?'",
+                "answer": "the new item system in twilight princess required use of the button that had been used for the sword in the previous game.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4. Did the new item system require use of the button that had been used for the sword?'",
+                "answer": "yes, the new item system required use of the button that had been used for the sword.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did the new item system require use of a button that had previously been used for the sword?",
+                "answer": "yes, the new item system required use of the button that had previously been used for the sword.",
+                "exact_match": "no",
+                "llm_selfevaluation": "ok"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is Link's character model right-handed?",
+                "answer": "no, link's character model is left-handed.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is it true that Link's character model was changed so that he would appear right-handed?",
+                "answer": "yes, because of the time crunch the team was under, they decided to flip the entire game so that link would appear right-handed.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is it true that Link's character model was changed so that he would be right-handed?",
+                "answer": "yes, link's character model was changed so that he would be right-handed.",
+                "exact_match": "no",
+                "llm_selfevaluation": "refers to the character model being changed, not the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Link's character model get changed to make him right-handed?",
+                "answer": "no, the team did not have enough time to rework link's character model. instead, they flipped the entire game so that everything was a mirror image.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '5. Did Link's character model get changed so that he is now right-handed?'",
+                "answer": "no, the team did not have enough time to change link's character model. instead, they flipped the entire game so that everything was a mirror image.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did Link's character model get changed to make him right-handed? \nYes, in Ocarina of Time, Nintendo wanted players to feel more comfortable so they made Link right handed.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is Link's character model right-handed?",
+                "answer": "no, link's character model is left-handed.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Link's character model get changed to show him being right-handed?",
+                "answer": "yes",
+                "exact_match": "no",
+                "llm_selfevaluation": "The answer mentions the different orientations of the Wii"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Was Link's character model changed so that he would appear to be right-handed?",
+                "answer": "no, link's character model was not changed so that he would appear to be right-handed.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is Link right-handed?",
+                "answer": "no, in the wii version of twilight princess, link is left-handed.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            }
+        ]
+    ]
+}

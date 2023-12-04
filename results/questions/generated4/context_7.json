@@ -1,0 +1,1255 @@
+{
+    "context": "There are numerous community and international newspapers locally that cater to the city's ethnic mosaic; such as The Black Chronicle, headquartered in the Eastside, the OK VIETIMES and Oklahoma Chinese Times, located in Asia District, and various Hispanic community publications. The Campus is the student newspaper at Oklahoma City University. Gay publications include The Gayly Oklahoman.\n",
+    "count": [
+        "1. How many community and international newspapers are in Oklahoma City?",
+        "2. How many of these cater to the city's ethnic mosaic?",
+        "3. How many publications are there for the LGBTQIA+ community?",
+        "4. How many local publications are students at Oklahoma City University responsible for?",
+        "5. How many different languages are spoken by publications in Oklahoma City?"
+    ],
+    "yesno": [
+        "1) Do the papers mentioned in the context likely have a biased perspective?",
+        "2) Is the city mentioned in the context diverse?",
+        "3) Do all the papers mentioned in the context print in English?",
+        "4) Are the publications mentioned in the context all based in the city?",
+        "5) Is the university mentioned in the context private or public?"
+    ],
+    "count_gt": [
+        "unknown",
+        "unknown",
+        "one",
+        "one",
+        "unknown"
+    ],
+    "yesno_gt": [
+        "no",
+        "yes",
+        "unknown",
+        "yes",
+        "unknown"
+    ],
+    "count_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '1. How many community newspapers and international newspapers are in Oklahoma City?'",
+                "answer": "from the context, it can be inferred that there are at least four community or international newspapers in oklahoma city.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many local and foreign newspapers are in Oklahoma City?",
+                "answer": "there are 8 local and foreign newspapers in oklahoma city.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many community and international papers does Oklahoma City have?",
+                "answer": "oklahoma city has numerous community and international papers.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many community newspapers and how many international newspapers are in Oklahoma City?\nThere are 0 community papers and 1 international paper in Oklahoma City.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many newspapers in Oklahoma City are community and international?",
+                "answer": "there are numerous community and international newspapers in oklahoma city that cater to the city's ethnic mosaic; such as the black chronicle, headquartered in the eastside, the ok vietimes and oklahoma chinese times, located in asia district, and various hispanic community publications.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many community and international newspapers does Oklahoma City have?",
+                "answer": "oklahoma city has at least seven community and international newspapers.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many community and international newspapers are located in Oklahoma City, Oklahoma?",
+                "answer": "six community and international newspapers are located in oklahoma city, oklahoma.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "1. How many community newspapers and international papers are in Oklahoma City?",
+                "answer": "2. where is the black chronicle headquartered?\n\n1. oklahoma city has numerous community and international papers.\n\n2. the black chronicle is headquartered in the eastside.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "unknown"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many community and international newspapers are there in Oklahoma City?",
+                "answer": "there are numerous community and international newspapers in oklahoma city.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the number of community and international newspapers in Oklahoma City?",
+                "answer": "the number of community and international newspapers in oklahoma city is six.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '2. What percentage of these cater to the city's ethnic mosaic?'",
+                "answer": "there is no information provided in the context to answer this question.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the ethnic makeup of the city?",
+                "answer": "the city's ethnic makeup is diverse. it includes people from various racial and ethnic backgrounds.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many of these are for the city's different ethnic groups?",
+                "answer": "three of the publications cater to the city's different ethnic groups.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many of these businesses are ethnic?",
+                "answer": "there are numerous community and international newspapers locally that cater to the city's ethnic mosaic; such as the black chronicle, headquartered in the eastside, the ok vietimes and oklahoma chinese times, located in asia district, and various hispanic community publications.\n\nin this context, all of the businesses are ethnic.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yesthere are a few different types of publications"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "2. How many of these cater to the city's different cultures?",
+                "answer": "there are at least six newspapers that cater to the city's different cultures.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many of these cater to the city's diverse population?",
+                "answer": "there are numerous community and international newspapers locally that cater to the city's ethnic mosaic; such as the black chronicle, headquartered in the eastside, the ok vietimes and oklahoma chinese times, located in asia district, and various hispanic community publications.\n\nall of the newspapers listed cater to the city's diverse population.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "consistent"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many of these cater to the city's diversity?",
+                "answer": "a. all of them.\nb. only some of them.\nc. none of them.\n\nb. only some of them.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: What percentage of these cater to the city's ethnic mosaic?",
+                "answer": "all of the publications mentioned cater to the city's ethnic mosaic.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the percentage of businesses in the city that cater to different ethnic groups?",
+                "answer": "there is no way to determine the percentage of businesses in the city that cater to different ethnic groups from the given context.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: What percentage of these cater to the city's ethnic mosaic?",
+                "answer": "the black chronicle, ok vietimes, oklahoma chinese times, and various hispanic community publications all cater to the city's ethnic mosaic. it is difficult to determine an exact percentage, but it is safe to say that a significant portion of the city's newspapers cater to its diverse population.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many publications are there that cater to the LGBTQIA+ community?",
+                "answer": "there are at least three publications that cater to the lgbtqia+ community.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the number of publications available for the LGBTQIA+ community?",
+                "answer": "one",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many publications are available for the LGBTQIA+ community?",
+                "answer": "there is at least one publication available for the lgbtqia+ community.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many publications are there specifically for the LGBTQIA+ community?",
+                "answer": "there is only one publication specifically for the lgbtqia+ community.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What is the number of publications for the LGBTQIA+ community?'\nCurrently, there is no specific number for how many publications are available for the LGBTQIA+ community. This number could be higher or lower depending on different geographical locations and availability of resources.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many publications are there for the LGBTQIA+ community?",
+                "answer": "there is at least one publication for the lgbtqia+ community.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many publications exist that cater to the LGBTQIA+ community?",
+                "answer": "gay publications.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many publications are available for the LGBTQIA+ community?",
+                "answer": "one",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: What is the LGBTQIA+ community's total number of publications?",
+                "answer": "there are a total of four publications for the lgbtqia+ community.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many publications are there for the LGBTQIA+ community?",
+                "answer": "there is only one publication listed for the lgbtqia+ community.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What is the publication responsibility of students at Oklahoma City University?' \nPublication responsibility for students at Oklahoma City University varies depending on the specific program.",
+                "answer": "generally, students are responsible for finding a faculty sponsor and producing a quality publication that meets the requirements of the program.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many publications are local students at Oklahoma City University responsible for?",
+                "answer": "the campus is the student newspaper at oklahoma city university; therefore, local students at oklahoma city university are only responsible for one publication.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '4. How many local publications do students at Oklahoma City University need to be responsible for?'\n\n\nThere is no set number of local publications that students at Oklahoma City University are responsible for.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "The answer is \"one\", which is"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many local publications are the students at Oklahoma City University responsible for?",
+                "answer": "the students at oklahoma city university are responsible for one local publication, the campus.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many student-run publications are there at Oklahoma City University?",
+                "answer": "there is one student-run publication at oklahoma city university, the campus.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many publications are students at Oklahoma City University responsible for?",
+                "answer": "the students at oklahoma city university are responsible for one publication, the campus.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many local publications do students at Oklahoma City University produce?' \nStudents at Oklahoma City University are responsible for producing four local publications.",
+                "answer": "these include the black chronicle, oklahoma chinese times, ok vietimes, and the gayly oklahoman.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many student-run publications are there at Oklahoma City University?",
+                "answer": "there is one student-run publication at oklahoma city university.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many publications are students at Oklahoma City University responsible for?",
+                "answer": "students at oklahoma city university are responsible for the campus newspaper.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '4. How many local publications do students at Oklahoma City University have to be responsible for?'",
+                "answer": "the question is unclear.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many publications in Oklahoma City are written in different languages?",
+                "answer": "there are three publications in oklahoma city that are written in different languages: the black chronicle, ok vietimes, and oklahoma chinese times.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many languages are represented by publications in Oklahoma City?'",
+                "answer": "based on the given context, at least four languages are represented by publications in oklahoma city.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "In how many languages are publications in Oklahoma City available?",
+                "answer": "oklahoma city publications are available in english, spanish, chinese, and vietnamese.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many publications in Oklahoma City are written in different languages?",
+                "answer": "there are at least four publications in oklahoma city that are written in different languages.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "unknown"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: What languages are spoken by publications in Oklahoma City? \nThere is no set number of languages, as different publications may print in different languages.",
+                "answer": "however, some of the languages that may be spoken by publications in oklahoma city include english, chinese, vietnamese, spanish, and potentially others.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many publications in Oklahoma City are written in different languages?",
+                "answer": "two of the publications listed are written in different languages, although it is not stated how many different languages are represented.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many publications in Oklahoma City are printed in different languages?",
+                "answer": "there are at least four publications in oklahoma city that are printed in different languages.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many different languages are spoken by publications in Oklahoma City, and what are they?",
+                "answer": "there are multiple languages spoken by publications in oklahoma city, including english, spanish, vietnamese, and chinese.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many languages are spoken by publications in Oklahoma City?",
+                "answer": "five languages are spoken by publications in oklahoma city: english, spanish, vietnamese, chinese, and oklahoma.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many different languages are publications in Oklahoma City printed in?",
+                "answer": "there are at least four different languages that publications in oklahoma city are printed in: english, spanish, vietnamese, and chinese.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            }
+        ]
+    ],
+    "yesno_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Are the papers mentioned in the context likely to have a biased perspective?",
+                "answer": "the papers mentioned in the context are likely to have a biased perspective.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) Do the papers mentioned in the context have a biased perspective?",
+                "answer": "2) if so, what is the perspective?\n\n1) some of the papers mentioned in the context may have a biased perspective.\n\n2) the perspective may be that the papers cater to the city's ethnic mosaic.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) Is it likely that the papers mentioned in the context have a biased perspective?",
+                "answer": "2) do the papers mentioned in the context have a limited audience?\n\n1) it is likely that the papers mentioned in the context have a biased perspective.\n\n2) it is likely that the papers mentioned in the context have a limited audience.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Are the papers mentioned in the context likely to be biased?",
+                "answer": "the papers mentioned in the context are likely to be biased.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) The papers mentioned in the context may have a biased perspective.",
+                "answer": "2) the papers mentioned in the context are likely to be free of bias.\n\n1) the papers mentioned in the context may have a biased perspective.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) Do the papers mentioned in the context have a potential for bias?",
+                "answer": "how so? 2) what can you infer from the fact that the papers are all located in different areas of the city?\n\n1) yes, each of the papers mentioned in the context has the potential for bias, as they each cater to a specific community or ethnicity.\n\n2) from the fact that the papers are all located in different areas of the city, it can be inferred that the city is quite diverse, with a large population of different ethnicities and communities.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Are the papers mentioned in the context likely to be biased?",
+                "answer": "the papers mentioned in the context are likely to be biased.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) The papers mentioned in the context are likely biased.",
+                "answer": "true or false?\n\n\n\n2) how might the papers be biased?\n\n1) true\n2) the papers are likely biased because they are tailored to specific demographics within the city.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) Is it likely that the papers mentioned in the context have a biased perspective?",
+                "answer": "2) why or why not?\n\n1) it is likely that the papers mentioned in the context have a biased perspective. 2) the papers mentioned in the context are likely to have a biased perspective because they are targeted at specific ethnic groups.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1) Do the papers mentioned in the context likely have a perspective that is not objective?",
+                "answer": "the papers mentioned in the context likely do not have perspective that is objective.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Is the city in the context ethnically diverse?",
+                "answer": "yes, the city is ethnically diverse.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2) Is the city mentioned in the context ethnically diverse?",
+                "answer": "yes, the city mentioned in the context is ethnically diverse.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Is the city mentioned in the context diverse?",
+                "answer": "based on the context, it appears that the city is diverse.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What can you infer about the city from the context?'\n\nThe city is diverse.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "There are no gay publications in Oklahoma City."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Is the city in the context diverse?\nYes",
+                "answer": ", the city is diverse.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is the city in question ethnically diverse?",
+                "answer": "based on the given context, it can be inferred that the city in question is ethnically diverse. this is because the context mentions various ethnic community newspapers, suggesting that there is a significant population of different ethnic groups within the city.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2) Is the city mentioned in the context diverse racially?",
+                "answer": "yes, the city is diverse racially.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Is the city mentioned in the context diverse?'",
+                "answer": "yes, the city mentioned in the context is diverse.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes, the answer is consistent with the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2) Does the city mentioned in the context have a lot of different types of people living there?",
+                "answer": "yes, the city has a lot of different types of people living there.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2) Does the city mentioned in the context have a diverse population?",
+                "answer": "yes, the city has a diverse population.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Do all the papers mentioned in the context print exclusively in English?",
+                "answer": "no, the papers mentioned in the context do not all print exclusively in english.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3) Do all the papers mentioned in the context print exclusively in English?'",
+                "answer": "no, the papers do not exclusively print in english.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Do all of the papers mentioned in the context print in English?\n\nI believe so, yes.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "unknown"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "3) Are all the papers mentioned in the context printed in English?",
+                "answer": "no, some papers are printed in different languages to cater to the city's ethnic mosaic.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3) Do all the papers mentioned in the context print exclusively in English?'\nNo, not all of the papers mentioned in the context print exclusively in English. Some may offer bilingual versions or translations of their articles.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Do all of the papers mentioned in the context print in English? \nYes, all of the papers mentioned in the context do print in English.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Unknown"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "3) Do all the papers print in English?",
+                "answer": "no, not all of the papers print in english. the ok vietimes and oklahoma chinese times are located in asia district, and various hispanic community publications print in spanish.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Are all the papers mentioned in the context printed in English?",
+                "answer": "no, not all the papers mentioned in the context are printed in english.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Do all the papers referenced in the context print in English?",
+                "answer": "the context does not indicate whether all the papers referenced print in english.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Do all of the papers mentioned in the context print in English?",
+                "answer": "no, not all of the papers mentioned in the context print in english.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "4) Are all of the publications mentioned in the context based in the city?",
+                "answer": "no, the gayly oklahoman is based in norman, oklahoma.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is the research conducted in the city?",
+                "answer": "the research mentioned in the context is most likely conducted in the city.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Are all the publications mentioned in the context based in the city?'\n\nNo, not all of the publications are based in the city.",
+                "answer": "the gayly oklahoman is based in oklahoma city, but the other publications are based in different parts of the city.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4) Are all the publications mentioned in the context based in the city?'",
+                "answer": "the publications mentioned in the context are based in the city, with the exception of the gayly oklahoman, which is based in oklahoma.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4) Are the publications mentioned in the context all based in Los Angeles?'",
+                "answer": "no, the publications mentioned in the context are not all based in los angeles.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Are all of the publications mentioned in the context based in the city?",
+                "answer": "no, the gayly oklahoman is based in norman, oklahoma.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Are all of the publications mentioned in the context based in the city?",
+                "answer": "no, the gayly oklahoman is based in norman, oklahoma.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Are the publications mentioned in the context all based in the city?",
+                "answer": "yes, all of the publications mentioned in the context are based in the city.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Are the publications mentioned in the context all based in the same city?",
+                "answer": "the publications mentioned in the context are all based in the same city.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Are all of the publications mentioned in the context based in the city?",
+                "answer": "yes. all of the publications mentioned in the context are based in the city.",
+                "exact_match": "no",
+                "llm_selfevaluation": "the answer is consistent with the ground truth."
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "The university mentioned in the context is private.",
+                "answer": "yes, the university mentioned in the context is oklahoma city university, which is a private institution.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What type of institution is the university mentioned in the context?",
+                "answer": "university",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no\n\nThe answer does not mention any community"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What type of institution is the university mentioned in the context?",
+                "answer": "oklahoma city university is a moderately selective private university located in oklahoma city, oklahoma.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What is the university's status?",
+                "answer": "the university is private.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What type of university is mentioned in the context?' The university mentioned in the context is private.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is the university in question a private or public institution?",
+                "answer": "the university is oklahoma city university, which is a private institution.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What type of university is mentioned in the context?",
+                "answer": "a university with a diverse student body is mentioned in the context.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What is the university's status?",
+                "answer": "the context suggests that the university is located in oklahoma city.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What is the university's status?",
+                "answer": "oklahoma city university is a private, coeducational, university founded in 1890 by the united methodist church.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "The university mentioned in the context is private.",
+                "answer": "based on the context, it can be inferred that the university mentioned is private.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            }
+        ]
+    ]
+}

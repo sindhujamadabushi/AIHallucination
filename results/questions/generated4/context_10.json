@@ -1,0 +1,1131 @@
+{
+    "context": "On February 8, 1955, Malenkov was officially demoted to deputy Prime Minister. As First Secretary of the Central Committee of the Communist Party, Nikita Khrushchev's authority was significantly enhanced by Malenkov's demotion.\n",
+    "count": [
+        "1. How many days was Malenkov officially demoted?",
+        "2. How many months was Malenkov officially demoted?",
+        "3. How many years was Malenkov officially demoted?",
+        "4. How many deputy Prime Ministers were there?",
+        "5. How many First Secretaries of the Central Committee of the Communist Party were there?"
+    ],
+    "yesno": [
+        "1. Did Malenkov's demotion enhance Khrushchev's authority?",
+        "2. Was Malenkov's demotion officially on February 8, 1955?",
+        "3. Is Nikita Khrushchev the First Secretary of the Central Committee of the Communist Party?",
+        "4. Was Malenkov demoted to a deputy Prime Minister?"
+    ],
+    "count_gt": [
+        "unknown",
+        "unknown",
+        "unknown",
+        "one",
+        "one"
+    ],
+    "yesno_gt": [
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ],
+    "count_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "1. How long did Malenkov's official demotion last?",
+                "answer": "2. how did malenkov's demotion affect nikita khrushchev?\n\n1. malenkov's official demotion lasted for one day. 2. malenkov's demotion significantly enhanced nikita khrushchev's authority as first secretary of the central committee of the communist party.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '1. How long was Malenkov officially demoted?'",
+                "answer": "malenkov was officially demoted for two years.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How long was Malenkov demoted for?",
+                "answer": "there is no information given about how long malenkov was demoted for.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: For how many days was Malenkov officially demoted?",
+                "answer": "malenkov was officially demoted for eight days.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "1. How many days did Malenkov remain in office after he was demoted?",
+                "answer": "2. who succeeded him as first secretary of the communist party?\n\n1. malenkov remained in office as deputy prime minister for eight days after he was demoted. 2. nikita khrushchev succeeded him as first secretary of the communist party.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many days did Malenkov serve as premier after he was demoted from general secretary?",
+                "answer": "malenkov served as premier for twelve days after he was demoted from general secretary on february 8, 1955.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How long was Malenkov officially demoted for?",
+                "answer": "malenkov was officially demoted on february 8, 1955. there is no further information given about how long the demotion lasted.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many days did Malenkov remain in his official position after being demoted?",
+                "answer": "based on the context, it can be inferred that malenkov only remained in his official position for a few days after being demoted.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How long did Malenkov remain in his position after being officially demoted?",
+                "answer": "malenkov remained in his position for two more years.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '1. How long was Malenkov officially demoted?'",
+                "answer": "on february 8, 1955, malenkov was officially demoted to deputy prime minister.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How long was Malenkov officially demoted for?",
+                "answer": "malenkov's official demotion lasted for around two years.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How long was Malenkov officially demoted for? \nHe was demoted for 12 months.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How long was Malenkov officially demoted for? \nAnswer: Malenkov was officially demoted for two months.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'For how many months was Malenkov officially demoted?'\n\nMalenkov was officially demoted for four months.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How long was Malenkov officially demoted for?",
+                "answer": "there is no specified length of time given in the context.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How long was Malenkov demoted for?",
+                "answer": "malenkov was demoted for an indefinite amount of time.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How long was Malenkov officially demoted for?",
+                "answer": "he was demoted for an indefinite amount of time.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "For how many months was Malenkov officially demoted?\nMalenkov was officially demoted for 8 months.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How long was Malenkov demoted for?",
+                "answer": "there is no specific answer to this question in the context. malenkov's demotion was likely permanent, as nikita khrushchev's authority was enhanced by it.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How long was Malenkov's official demotion?",
+                "answer": "malenkov was officially demoted on february 8, 1955.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many years did Malenkov serve in his official capacity after he was demoted?",
+                "answer": "one",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many years did Malenkov spend in official demotion?",
+                "answer": "malenkov was officially demoted for 2 years.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How long was Malenkov's official demotion?",
+                "answer": "based on the context, it can be inferred that malenkov's official demotion lasted for a day.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How long was Malenkov officially demoted for? \nAnswer: Three years.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How long was Malenkov demoted for?",
+                "answer": "malenkov's demotion was permanent.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many years was Malenkov's official term of demotion?",
+                "answer": "malenkov's official term of demotion lasted for two years.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How long was Malenkov demoted for? \n\nHe was demoted for 3 years.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the official length of Malenkov's demotion?",
+                "answer": "there is no official length mentioned in the context.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How long was Malenkov officially demoted for?",
+                "answer": "malenkov was officially demoted for three years.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many years after Malenkov was officially demoted?",
+                "answer": "malenkov was officially demoted on february 8, 1955.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "There have been a total of four deputy prime ministers since the office was created in 1940.",
+                "answer": "who was the first?\n\nthe first was malenkov.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the total number of deputy prime ministers there have been?",
+                "answer": "there have been a total of 27 deputy prime ministers.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '4. How many deputy prime ministers were there?'",
+                "answer": "there was only one deputy prime minister at this time.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '4. How many deputy prime ministers were there?'",
+                "answer": "there was only one deputy prime minister at this time.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '4. How many deputy prime ministers were there?'",
+                "answer": "there was only one deputy prime minister at this time.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many deputy prime ministers have there been?",
+                "answer": "how many deputy prime ministers have there been?\n\nthere have been many deputy prime ministers over the years.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many deputy prime ministers were in office at the same time?",
+                "answer": "under malenkov's rule, there was only one deputy prime minister.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '4. How many deputy prime ministers were there?'",
+                "answer": "there was only one deputy prime minister at the time.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many deputy prime ministers have there been?",
+                "answer": "malenkov",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many deputy prime ministers were in office during the time period being studied?",
+                "answer": "there were two deputy prime ministers in office during the time period being studied.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "5. How many First Secretaries of the Central Committee were there?",
+                "answer": "there was only one first secretary of the central committee.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '5. How many people have held the position of First Secretary of the Central Committee of the Communist Party?'\n\nAs of June 2020, there have been seven holders of the office of First Secretary of the Central Committee of the Communist Party: Xi Jinping, Jiang Zemin,",
+                "answer": "hu jintao, zhou enlai, deng xiaoping, liu shaoqi, and nikita khrushchev.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Secretaries were there in the Central Committee of the Communist Party?",
+                "answer": "there were two secretaries in the central committee of the communist party: malenkov and khrushchev.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '5. How many Secretaries of the Central Committee were there?'",
+                "answer": "two: malenkov and khrushchev.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many people have held the position of First Secretary of the Central Committee of the Communist Party?",
+                "answer": "since the position was established in 1922, there have been a total of 18 people who have held the position of first secretary of the central committee of the communist party.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "There were five First Secretaries of the Central Committee of the Communist Party.",
+                "answer": "who was the first?\n\ngeorgy malenkov was the first of the five first secretaries of the central committee of the communist party.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "There were five First Secretaries of the Central Committee of the Communist Party.",
+                "answer": "who was the fifth?\n\nleonid brezhnev was the fifth first secretary of the central committee of the communist party.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many First Secretaries of the Central Committee of the Communist Party have been there?",
+                "answer": "to the best of my knowledge, there have been three first secretaries of the central committee of the communist party.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '5. How many people have held the position of First Secretary of the Central Committee of the Communist Party?'",
+                "answer": "since the communist party was founded in 1912, there have been a total of 21 people who have held the position of first secretary of the central committee.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many First Secretaries of the Central Committee of the Communist Party were there during Joseph Stalin's reign?'",
+                "answer": "there were three first secretaries of the central committee of the communist party during joseph stalin's reign.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            }
+        ]
+    ],
+    "yesno_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. How did Malenkov's demotion affect Khrushchev's authority?",
+                "answer": "as first secretary of the central committee of the communist party, nikita khrushchev's authority was significantly enhanced by malenkov's demotion.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Did Malenkov's demotion increase Khrushchev's authority?",
+                "answer": "yes, malenkov's demotion increased khrushchev's authority.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Did Malenkov's demotion help Khrushchev gain more authority?",
+                "answer": "2. what position did malenkov have before he was demoted?\n\n1. yes, because as first secretary of the central committee of the communist party, khrushchev's authority was significantly enhanced by malenkov's demotion.\n\n2. malenkov was the prime minister before he was demoted.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Malenkov's demotion increase Khrushchev's authority?",
+                "answer": "yes, malenkov's demotion increased khrushchev's authority as first secretary of the central committee of the communist party.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Did Malenkov's demotion improve Khrushchev's authority?",
+                "answer": "explain.\n\nyes, malenkov's demotion improved khrushchev's authority because he was demoted from his position as first secretary of the central committee of the communist party. as first secretary, khrushchev's authority was significantly enhanced by malenkov's demotion.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Did Malenkov's demotion bolster Khrushchev's authority?",
+                "answer": "yes, malenkov's demotion bolstered khrushchev's authority significantly.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Did Malenkov's demotion help increase Khrushchev's authority?",
+                "answer": "yes, malenkov's demotion helped increase khrushchev's authority.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did Malenkov's demotion give Khrushchev more power?\nAnswer: Yes, Malenkov's demotion allowed Khrushchev to solidify his control over the Soviet Union.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Did Malenkov's demotion give Khrushchev more power?",
+                "answer": "2. where was malenkov demoted to?\n\n1. yes, malenkov's demotion gave khrushchev significantly more power as first secretary of the central committee of the communist party.\n\n2. malenkov was demoted to deputy prime minister.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Did Malenkov's demotion make Khrushchev more powerful?",
+                "answer": "yes, malenkov's demotion made khrushchev more powerful.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What was the date of Malenkov's demotion?'\nThe official date of Malenkov's demotion was February 8, 1955.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Malenkov's demotion officially occur on February 8, 1955?",
+                "answer": "yes, malenkov's demotion officially occurred on february 8, 1955.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "On what date was Malenkov's demotion officially announced?",
+                "answer": "malenkov's demotion was officially announced on february 8, 1955.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2. Malenkov's demotion: Was it officially on February 8, 1955?",
+                "answer": "yes",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Was Malenkov's demotion made official on February 8, 1955?",
+                "answer": "yes, malenkov's demotion was made official on february 8, 1955.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '2. When was Malenkov's demotion?'\nThe date of Malenkov's demotion is February 8, 1955.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '2. When was Malenkov's demotion officially?' \nFebruary 8, 1955",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: On February 8, 1955, was Malenkov's demotion official?",
+                "answer": "yes, malenkov's demotion on february 8, 1955 was official.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "When was Malenkov's demotion?",
+                "answer": "malenkov's demotion was on february 8, 1955.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What was the date of Malenkov's demotion? \nAnswer: February 8, 1955",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What was Nikita Khrushchev's role in the Communist Party?'\n\nNikita Khrushchev was the First Secretary of the Central Committee of the Communist Party.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Was Nikita Khrushchev the First Secretary of the Central Committee of the Communist Party?'",
+                "answer": "yes, nikita khrushchev was the first secretary of the central committee of the communist party.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Was Nikita Khrushchev the First Secretary of the Central Committee of the Communist Party?'",
+                "answer": "yes, nikita khrushchev was the first secretary of the central committee of the communist party.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "No, Nikita Khrushchev was not the First Secretary of the Central Committee of the Communist Party.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is Nikita Khrushchev the leader of the Communist Party?",
+                "answer": "yes, nikita khrushchev became the leader of the communist party after malenkov was demoted.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is Nikita Khrushchev the head of the Communist Party?",
+                "answer": "nikita khrushchev was the head of the communist party from 1953 to 1964.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "3. Nikita Khrushchev was the First Secretary of the Central Committee of the Communist Party, correct?",
+                "answer": "yes, nikita khrushchev was the first secretary of the central committee of the communist party.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Nikita Khrushchev was the First Secretary of the Central Committee of the Communist Party, correct?'",
+                "answer": "yes, nikita khrushchev was the first secretary of the central committee of the communist party.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Was Nikita Khrushchev the First Secretary of the Central Committee of the Communist Party?'",
+                "answer": "yes, nikita khrushchev was the first secretary of the central committee of the communist party.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is Nikita Khrushchev the First Secretary of the Communist Party's Central Committee?",
+                "answer": "yes, nikita khrushchev is the first secretary of the communist party's central committee.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Was Malenkov removed from his position as Prime Minister?",
+                "answer": "yes, malenkov was removed from his position as prime minister.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What was Malenkov's position after he was demoted from Prime Minister?'\nAnswer: After Malenkov was demoted from Prime Minister, he became a deputy Prime Minister.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What was Malenkov's new position after he was demoted from Prime Minister?'\nMalenkov was demoted to a deputy Prime Minister.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What was Malenkov's new position after he was demoted from Prime Minister?'",
+                "answer": "malenkov was demoted to deputy prime minister.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What was Malenkov's position after he was demoted from Prime Minister?'\ndeputy Prime Minister",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Was Malenkov removed from his position as Prime Minister?",
+                "answer": "yes, malenkov was demoted to deputy prime minister on february 8, 1955.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What was Malenkov's title after he was demoted from Prime Minister?'\nMalenkov became a deputy prime minister.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What was Malenkov's title before he was demoted to a deputy Prime Minister?'",
+                "answer": "malenkov was the first secretary of the central committee of the communist party before he was demoted to deputy prime minister.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What happened to Malenkov after he was demoted from Prime Minister?' He became a deputy Prime Minister.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Was Malenkov demoted from Prime Minister to a deputy position?",
+                "answer": "yes.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            }
+        ]
+    ]
+}

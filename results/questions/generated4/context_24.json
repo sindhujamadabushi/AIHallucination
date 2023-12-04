@@ -1,0 +1,883 @@
+{
+    "context": "Forms of lighting include alcove lighting, which like most other uplighting is indirect. This is often done with fluorescent lighting (first available at the 1939 World's Fair) or rope light, occasionally with neon lighting, and recently with LED strip lighting. It is a form of backlighting.\n",
+    "count": [
+        "How many types of lighting are there?",
+        "How many types of uplighting are there?"
+    ],
+    "yesno": [
+        "Q: Is lighting important?",
+        "Q: Does lighting set the mood?",
+        "Q: Can lamps be used for lighting?",
+        "Q: Is there more than one type of lighting?",
+        "Q: Do you need a light to see?"
+    ],
+    "count_gt": [
+        "four",
+        "unknown"
+    ],
+    "yesno_gt": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ],
+    "count_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: What are the different types of lighting?",
+                "answer": "different types of lighting include alcove lighting, which is indirect, and fluorescent lighting, which is direct.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are the different types of lighting?",
+                "answer": "the different types of lighting are alcove lighting, indirect lighting, fluorescent lighting, rope light, neon lighting, and led strip lighting.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What are the different types of lighting?'",
+                "answer": "the different types of lighting include alcove lighting, uplighting, fluorescent lighting, neon lighting, and led strip lighting.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are the different types of lighting?",
+                "answer": "forms of lighting include alcove lighting, which like most other uplighting is indirect. this is often done with fluorescent lighting (first available at the 1939 world's fair) or rope light, occasionally with neon lighting, and recently with led strip lighting.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are the different types of lighting?",
+                "answer": "the different types of lighting include alcove lighting, which like most other uplighting is indirect. this is often done with fluorescent lighting (first available at the 1939 world's fair) or rope light, occasionally with neon lighting, and recently with led strip lighting. it is a form of backlighting.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "There are many types of lighting, including natural lighting, fluorescent lighting, and LED lighting.",
+                "answer": "what is alcove lighting?\n\nalcove lighting is a form of indirect lighting that is often done with fluorescent lighting, rope light, or neon lighting.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What are the different types of lighting?'",
+                "answer": "the different types of lighting include alcove lighting, which like most other uplighting is indirect. this is often done with fluorescent lighting (first available at the 1939 world's fair) or rope light, occasionally with neon lighting, and recently with led strip lighting. it is a form of backlighting.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many different types of lighting are there?",
+                "answer": "there are four different types of lighting mentioned in the context.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are the different types of lighting?",
+                "answer": "the different types of lighting include alcove lighting, which is indirect, and is often done with fluorescent lighting, rope light, or neon lighting.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are the different types of lighting?",
+                "answer": "there are many types of lighting, but the most common are alcove, fluorescent, rope, neon, and led strip lighting.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are the different types of uplighting?",
+                "answer": "the different types of uplighting are alcove lighting, fluorescent lighting, rope light, neon lighting, and led strip lighting.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are the different types of uplighting?",
+                "answer": "the different types of uplighting include alcove lighting, which is indirect lighting that is often done with fluorescent lighting, rope light, neon lighting, and led strip lighting.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: What are the different types of uplighting?",
+                "answer": "alcove lighting, fluorescent lighting, rope light, neon lighting, and led strip lighting are all different types of uplighting.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are the different types of uplighting?",
+                "answer": "the different types of uplighting include alcove lighting, which is indirect lighting that is often done with fluorescent lighting, rope light, neon lighting, and recently with led strip lighting.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What are the different types of uplighting?'",
+                "answer": "types of uplighting include alcove lighting, which is often done with fluorescent lighting, rope light, neon lighting, and led strip lighting.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What are the different types of uplighting?'",
+                "answer": "the different types of uplighting are indirect lighting, backlighting, and led strip lighting.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: What are the different types of uplighting?",
+                "answer": "forms of lighting that can be classified as uplighting include alcove lighting, fluorescent lighting, rope light, neon lighting, and led strip lighting.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many different types of uplighting are there?",
+                "answer": "there are three different types of uplighting mentioned in the context.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many types of lighting are there that can be used to light up a space from above?",
+                "answer": "there are three types of lighting that can be used to light up a space from above: alcove lighting, fluorescent lighting, and led strip lighting.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: What are the different types of uplighting?",
+                "answer": "there are several types of uplighting, including alcove lighting, which is often done with fluorescent lighting, rope light, occasionally with neon lighting, and recently with led strip lighting.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            }
+        ]
+    ],
+    "yesno_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Yes, lighting is important.",
+                "answer": "b: no, as long as there is some light, it doesn't matter what kind it is.\n\nc: indirect lighting is best for reading.\n\nd: bright, direct lighting is good for working.\n\n\nb: no, as long as there is some light, it doesn't matter what kind it is.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What role does lighting play in design?' Lighting is important because it can set the tone of a room and highlight certain features. It can also be used to create an illusion of space.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "YES"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: It can be argued that lighting is important because it can impact one's ability to see.\n\nQ: How important is lighting? \nA: It can be argued that lighting is important because it impacts one's ability to see.",
+                "answer": "poor lighting can lead to eye strain, headaches, and even migraines. conversely, good lighting can improve one's mood and help them feel more alert.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Lighting can be important in different ways depending on the situation. In some cases, lighting can be used to set a mood or atmosphere. In other cases, good lighting can improve visibility and safety",
+                "answer": ".\n\nwhat is the difference between alcove lighting and other forms of uplighting?\n\nalcove lighting is a type of uplighting that is indirect. this means that the light is not directly shining on the object or area that is being lit. other forms of uplights are direct, meaning that the light shines directly on the object or area being lit.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Yes, lighting is important.\n\nQuestion: 'Q: Why is lighting important?' \nA: Lighting can set the mood of a space and affect how we perceive colors. Good lighting can also reduce eye strain and make a space more inviting.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "consistent"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Lighting is important because it can affect the mood of a room. It can also make a space feel more open and welcoming.",
+                "answer": "why is lighting important in interior design?",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A:\n\nQ: How important is lighting?",
+                "answer": "a: lighting can be very important in creating the right atmosphere and mood.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Yes, lighting is important. It can help set the mood of a room and make it feel more inviting. Good lighting can also be functional, helping you to see better when you're working or reading.",
+                "answer": "b: i don't really care about lighting. as long as there's a lightbulb in the socket, i'm good.\n\nwhich person is more likely to enjoy alcove lighting?\n\nthe first person is more likely to enjoy alcove lighting because they appreciate the role that lighting plays in setting the mood of a room.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Yes, lighting can be important in different ways. It can help set the tone of a room, make a space feel more open and airy, or provide task lighting for things like cooking or reading.",
+                "answer": "b: no, lighting isn't important in different ways. it just provides light so you can see.\n\n\n\nthe correct answer is a.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes, forms of lighting can include alcove"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Yes, lighting can be important in setting the mood or atmosphere of a space. It can also help to create a visual focal point, and highlight certain features within a room.",
+                "answer": "b: yes, lighting can be important in setting the mood or atmosphere of a space. it can also help to create a visual focal point, and highlight certain features within a room. however, it is not the only factor that contributes to the overall atmosphere of a space – other elements such as furniture, color, and texture also play a role.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Q: Does light have an effect on mood?'",
+                "answer": "a:\n\nthere is some evidence that different types of light can have an effect on mood. for example, blue light has been shown to have a calming effect, while yellow light may be energizing.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Does lighting have an effect on mood?",
+                "answer": "yes, lighting can have an effect on mood.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: No, but it can create an ambiance.\n\nQ: What role does lighting play in setting the mood? \nA: Lighting creates an ambiance, but doesn't necessarily set the mood.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Q: Does lighting affect the mood?'",
+                "answer": "a:yes, lighting can affect the mood. different forms of lighting can create different atmospheres. for example, alcove lighting is often used to create a relaxing or calming mood.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: It is often said that lighting can set the mood of a room or space. Different types of lighting can create different atmospheres, so it is important to consider what kind of mood you want to create in your home before choosing your light fixtures. While some people prefer bright, natural",
+                "answer": "light, others find that softer, indirect light is more calming and relaxing.\n\nwhat is one advantage of indirect lighting?\n\nindirect lighting can be more calming and relaxing than other types of lighting.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "How does lighting affect the mood?",
+                "answer": "the type of lighting used can affect the mood of a space. for example, alcove lighting is a form of indirect lighting that is often used to create a more relaxing atmosphere.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Q: Do you think lighting sets the mood?'",
+                "answer": "yes, lighting plays an important role in setting the mood of a space. the type, intensity, and direction of light can all contribute to creating a particular atmosphere.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Absolutely! The type of lighting you have can greatly affect the overall ambiance in your home.\n\nQ: How important is lighting in setting the mood? \nA: Very, different types of lighting can create different feels in a room or space.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'How does lighting affect the mood?'\nAnswer: Lighting can play a role in setting the tone or atmosphere of a space. It can be used to create different feelings, depending on how it is used. For example, warm lighting may make people feel more comfortable and relaxed,",
+                "answer": "while bright lighting can make people feel more awake and alert.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Do different types of lighting set the mood?",
+                "answer": "yes, different types of lighting can help set the mood. alcove lighting, for example, can be used to create an intimate or cozy feeling, while brighter, more direct lighting may be better suited for a livelier atmosphere.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Can lamps be used as a light source? \nYes, lamps can emit light and be used to create an illuminated environment.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Lamps can be used for lighting.",
+                "answer": "b: are lamps a form of backlighting?\n\nb is not a form of backlighting.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Yes, lamps can be used for lighting.",
+                "answer": "b: no, lamps cannot be used for lighting.\n\nthe answer is a: yes, lamps can be used for lighting.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Q: Are lamps good for lighting?",
+                "answer": "lamps may be good for lighting in some cases, but they are not the only option. forms of lighting include alcove lighting, which like most other uplighting is indirect. this is often done with fluorescent lighting (first available at the 1939 world's fair) or rope light, occasionally with neon lighting, and recently with led strip lighting. it is a form of backlighting.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Can lamps be used for lighting purposes?",
+                "answer": "yes, lamps can be used for lighting purposes. for example, a lamp can be used as a desk lamp to provide light for reading or writing.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Yes, lamps can be used for lighting.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Lamps can be used for lighting.",
+                "answer": "b: false.\n\nb is false. lamps can be used for lighting, but they are not the only form of lighting.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Lamps are a common source of light in many homes. They can be used for task lighting, such as reading or sewing, and for ambient lighting to create a warm and inviting atmosphere.",
+                "answer": "what is the best way to use lamps for task lighting?\n\nby using a lamp with a shade that directs the light towards the area where tasks will be performed, task lighting can be created.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Yes, lamps can be used for lighting.",
+                "answer": "b: no, lamps cannot be used for lighting.\n\nc: it depends on the type of lamp.\n\n\nc: it depends on the type of lamp.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Yes, lamps can be used for lighting.",
+                "answer": "b: no, lamps cannot be used for lighting.\n\nwhich of the following is true?\n\na: lamps can be used for lighting.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no\nb: no, lamps cannot be used"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Q: Are there different types of lighting?",
+                "answer": "a: yes.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no.\n\nYes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Q: What types of lighting are available?'",
+                "answer": "a: forms of lighting include direct, indirect, and backlighting.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Yes, there are many types of lighting available on the market. You can choose from traditional incandescent bulbs to more energy-efficient options, such as LED or CFL bulbs.",
+                "answer": "b: no, there are no other lighting options available.\n\nwhat is the answer to the question?\n\na",
+                "exact_match": "yes",
+                "llm_selfevaluation": "The answer is consistent with the ground truth"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Q: Are there different types of lighting?",
+                "answer": "a: yes, there are different types of lighting.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Lighting can be classified in a variety of ways. The three main categories are general, task, and accent lighting.",
+                "answer": "what are the three main categories of lighting?\n\nthe three main categories of lighting are general, task, and accent lighting.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: There are different types of lighting that can be used to create different effects.",
+                "answer": "what are some of these types?\n\nb: some types of lighting include alcove lighting, backlighting, and uplighting.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Q: What are the different types of lighting?",
+                "answer": "the different types of lighting include alcove lighting, which like most other uplighting is indirect. this is often done with fluorescent light (first available at the 1939 world's fair) or rope light, occasionally with neon light, and recently with led strip light. it is a form of backlighting.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Yes, there are three types of lighting. Ambient, accent, and task lighting.",
+                "answer": "b: alcove lighting is a kind of task lighting. c: no, there are four types of lighting. d: alcove lighting is a kind of accent lighting.\n\nb: alcove lighting is a kind of task lighting.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no\n\nc: no, there are four"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Are there different types of lighting? \nAnswer: Yes, there are various types of lighting that serve different purposes.",
+                "answer": "some examples include alcove lighting, uplighting, and backlighting.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Are there different types of lighting?",
+                "answer": "yes, there are different types of lighting. examples of different types of lighting include alcove lighting, fluorescent lighting, rope light, neon lighting, and led strip lighting.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Do you need a light in order to see?",
+                "answer": "yes",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: No, you don't need a light to see.",
+                "answer": "b:\n\nno, you don't need a light to see. however, different forms of lighting can create different effects and highlight different features in a space.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A:\n\nNo, you don't need a light to see.",
+                "answer": "however, indirect lighting can help to make a space feel more open and inviting.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: You need a light to see.\n\nQuestion: Is it necessary to have a light in order to see? \nAnswer: Yes, you need a light in order to be able to see.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "No, you don't need a light to see.",
+                "answer": "you just need something to bounce light off of so you can see the reflection.\n\nwhat does the word \"uplighting\" mean in the context of the passage?\n\nuplighting is a type of lighting that is indirect.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: No, you don't need a light to see.",
+                "answer": "b: yes, light is necessary for vision.\n\n\n\nc: it depends on the type of lighting.\n\nb",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: Yes, you need a light to see.\n\nQuestion: 'Q: Do you need a light in order to see?' \nA: Yes, in order to see you need some sort of light whether it be natural or artificial.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "A: No, you don't need a light to see.",
+                "answer": "b: however, you need a light to see indirect lighting.\n\nwhich statement is true?\n\nb",
+                "exact_match": "yes",
+                "llm_selfevaluation": "the answer is consistent with the ground truth"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Q: Is it necessary to have a light in order to see?'",
+                "answer": "a: no, it is not necessary to have a light in order to see. however, without a light, the visibility may be decreased and it may be more difficult to see.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Is it necessary to have light in order to see?'",
+                "answer": "no, it is not necessary to have light in order to see. one can see in the dark if their eyes are adjusted to the darkness.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            }
+        ]
+    ]
+}

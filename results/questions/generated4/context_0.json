@@ -1,0 +1,1255 @@
+{
+    "context": "Theravāda is primarily practiced today in Sri Lanka, Burma, Laos, Thailand, Cambodia as well as small portions of China, Vietnam, Malaysia and Bangladesh. It has a growing presence in the west.\n",
+    "count": [
+        "-How many countries is Theravada primarily practiced in?",
+        "-How many of those countries are in Asia?",
+        "-How many of those countries are in Southeast Asia?",
+        "-What is the percentage of Theravada practitioners in Asia?",
+        "-What is the percentage of Theravada practitioners in the world?"
+    ],
+    "yesno": [
+        "1. Is Theravada primarily practiced in the west?",
+        "2. Is Theravada primarily practiced in Sri Lanka?",
+        "3. Is Theravada primarily practiced in Burma?",
+        "4. Is Theravada primarily practiced in Laos?",
+        "5. Is Theravada primarily practiced in Thailand?"
+    ],
+    "count_gt": [
+        "nine",
+        "nine",
+        "eight",
+        "unknown",
+        "unknown"
+    ],
+    "yesno_gt": [
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ],
+    "count_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many countries does Theravada Buddhism primarily take place?",
+                "answer": "theravada buddhism primarily takes place in seven countries.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many countries does Theravada Buddhism primarily exist in?",
+                "answer": "nine countries.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many countries is Theravada Buddhism practiced in?",
+                "answer": "theravada buddhism is practiced in nine countries.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many countries does Theravada Buddhism have a significant presence in?",
+                "answer": "according to the context, theravada buddhism has a significant presence in nine countries.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What are the countries where Theravada is primarily practiced?",
+                "answer": "the countries where theravada is primarily practiced are: sri lanka, burma, laos, thailand, cambodia, china, vietnam, malaysia, and bangladesh.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "nine"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "In how many countries is Theravada primarily practiced?",
+                "answer": "answer: theravada is primarily practiced in sri lanka, burma, laos, thailand, cambodia as well as small portions of china, vietnam, malaysia and bangladesh.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many countries practice Theravada Buddhism?",
+                "answer": "for the most part, theravada buddhism is practiced in sri lanka, burma, laos, thailand, cambodia, china, vietnam, malaysia, and bangladesh. there is also a growing presence of theravada buddhism in the west.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many countries does Theravada Buddhism primarily exist in?",
+                "answer": "theravada buddhism primarily exists in nine countries.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Which countries primarily practice Theravada Buddhism?",
+                "answer": "sri lanka, burma, laos, thailand, cambodia, china, vietnam, malaysia, and bangladesh.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many countries does Theravada Buddhism primarily exist in?",
+                "answer": "theravada buddhism primarily exists in sri lanka, burma, laos, thailand, cambodia, china, vietnam, malaysia, bangladesh, and the west.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many countries in Asia are there?",
+                "answer": "there are 9 countries in asia where theravāda is practiced.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "-How many countries are in Asia?",
+                "answer": "there are 48 countries in asia.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many countries in Asia are there?'",
+                "answer": "there are 10 countries in asia.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many countries in total are in Asia?",
+                "answer": "there are 47 countries in total in asia.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many countries in Asia are there?",
+                "answer": "there are 13 countries in asia.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many countries are in Asia?",
+                "answer": "there are 46 countries in asia.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "-How many countries are in Asia?",
+                "answer": "-what is the primary religion in sri lanka?\n\nthere are 47 countries in asia and the primary religion in sri lanka is theravada buddhism.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many countries in Asia are there?",
+                "answer": "there are fourteen countries in asia.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many countries in Asia are there?",
+                "answer": "there are 20 countries in asia.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many countries in Asia are there?",
+                "answer": "there are 10 countries in asia.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many countries in Southeast Asia are there?",
+                "answer": "there are ten countries in southeast asia.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "-How many countries in Southeast Asia are there?",
+                "answer": "there are ten countries in southeast asia.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many countries in Southeast Asia are there?",
+                "answer": "there is no clear consensus on how many countries are in southeast asia. definitions of the region vary and some definitions include parts of south asia, east asia, and oceania.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many countries in Southeast Asia are there?",
+                "answer": "there are 10 countries in southeast asia.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many countries in Southeast Asia are there?",
+                "answer": "there are ten countries in southeast asia.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many countries are in Southeast Asia?",
+                "answer": "there are ten countries in southeast asia.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "In how many of those countries is Southeast Asia?",
+                "answer": "southeast asia consists of burma, laos, thailand, cambodia, vietnam, malaysia, and bangladesh.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many countries in Southeast Asia are there?",
+                "answer": "there are ten countries in southeast asia. they are: cambodia, laos, myanmar, thailand, vietnam, malaysia, singapore, indonesia, the philippines, and east timor.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "-How many countries are in Southeast Asia?",
+                "answer": "there are ten countries in southeast asia.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many of the countries in your list are in Southeast Asia?",
+                "answer": "sri lanka, burma, laos, thailand, cambodia, vietnam, and malaysia are all in southeast asia.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What percentage of Buddhists in Asia practice Theravada?",
+                "answer": "there is no definitive answer to this question as it varies by region. generally speaking, however, it is estimated that around 90% of buddhists in asia practice theravada.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Answer: In Asia, Theravada is practiced by an estimated percentage of what?",
+                "answer": "based on the context, it can be inferred that theravada is practiced by a small percentage of the population in asia.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the Theravada Buddhist population in Asia?",
+                "answer": "a recent study estimated that there are over 100 million theravada buddhists in asia.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What proportion of Theravada practitioners are in Asia?",
+                "answer": "the vast majority of theravada practitioners are in asia.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Theravada practitioners are in Asia?",
+                "answer": "according to the context, theravada is primarily practiced in asia by small portions of the population in countries such as sri lanka, burma, laos, thailand, cambodia, china, vietnam, malaysia and bangladesh. it is difficult to estimate how many theravada practitioners there are in asia, but the number is likely in the millions.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the percentage of Theravada Buddhists in Asia?",
+                "answer": "there is no definitive answer to this question as the theravada buddhist population in asia is constantly changing and is difficult to accurately quantify. however, based on the nations where theravada buddhism is primarily practiced, it is estimated that approximately 95% of all theravada buddhists live in asia.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the percentage of Theravada Buddhists in Asia?",
+                "answer": "there is no one answer to this question as the percentage of theravada buddhists in each country in asia varies. however, it is estimated that theravada buddhists make up the majority of buddhists in asia.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What percentage of the population in Asia practices Theravada Buddhism?",
+                "answer": "we do not have enough information to answer this question.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What percentage of Buddhists in Asia are Theravada practitioners?",
+                "answer": "there is no definitive answer to this question as it varies depending on which source you consult. generally speaking, however, it is safe to say that the majority of buddhists in asia are theravada practitioners.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: What percentage of practitioners in Asia practice Theravada?",
+                "answer": "there is no definitive answer to this question as the percentage of practitioners varies from country to country. however, it is estimated that theravada makes up the majority of buddhist traditions in countries such as sri lanka, burma, laos, thailand, and cambodia.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What percentage of the world's population practices Theravada Buddhism?",
+                "answer": "the percentage of the world's population that practices theravada buddhism is estimated to be around 7%.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Approximately 7% of the world's Buddhist population practice Theravada Buddhism.",
+                "answer": "where is the majority of this population located?\n\nthe majority of this population is located in sri lanka, burma, laos, thailand, cambodia, china, vietnam, malaysia and bangladesh.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Theravada practitioners are in the world?",
+                "answer": "since theravada is practiced in many different countries, it is difficult to estimate how many theravada practitioners are in the world. however, the number is likely in the millions.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Theravada practitioners are there in the world?",
+                "answer": "there are over 100 million theravada practitioners in the world.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "There are over 100 million Theravada practitioners"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the percentage of Theravada Buddhism practitioners in the world?",
+                "answer": "there is no definitive answer to this question as the percentage of theravada buddhism practitioners in the world is difficult to estimate. however, according to a 2013 pew research center report, theravada buddhism is the religion of about 7% of the world's buddhist population.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Theravada practitioners are in the world?",
+                "answer": "there is no accurate count of how many theravada practitioners there are in the world. however, it is estimated that there are around 100 million theravada buddhists in total.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "-What is the Theravada Buddhists' percentage of the world's population?",
+                "answer": "there is no way to accurately estimate the percentage of the world's population that identify as theravada buddhist. while the tradition is primarily practiced in southeast asia, it also has a growing presence in the west.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Theravada practitioners are in the world?",
+                "answer": "it is difficult to say how many theravada practitioners there are in the world because it is not clear how many people practice theravada in each country. however, it is estimated that there are between 100 and 150 million theravada buddhists in the world.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What percentage of the world population practices Theravada Buddhism?",
+                "answer": "it is difficult to estimate the percentage of the world population that practices theravada buddhism because there is no centralized religious authority that keeps track of such data. however, based on the countries where theravada buddhism is prevalent, it is likely that at least 10% of the world's population practices this form of buddhism.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Unknown"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Approximately 350 million people worldwide practice Theravada Buddhism, which comprises approximately 37% of the global Buddhist population.",
+                "answer": "which continent has the largest population of theravada buddhists?\n\nasia has the largest population of theravada buddhists.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "asia has the largest population of theravada"
+            }
+        ]
+    ],
+    "yesno_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is Theravada more popular in the west or east?",
+                "answer": "there is no definitive answer to this question as it depends on how you define \"popular.\" generally speaking, however, theravada is more popular in the east, where it originated, than in the west.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Is Theravada primarily practiced in developed countries?",
+                "answer": "no, theravada is primarily practiced in sri lanka, burma, laos, thailand, cambodia as well as small portions of china, vietnam, malaysia and bangladesh.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '1. Is Theravada more popular in the west?'",
+                "answer": "there is no definitive answer to this question as it is difficult to accurately measure the popularity of any particular religion. however, based on the fact that theravada is growing in presence in the west, it is reasonable to conclude that it is becoming more popular in this region.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Is Theravada more popular in the west than in other areas?",
+                "answer": "2. do people in the west practice theravada more than people in other areas?\n\nit is difficult to say definitively whether theravada is more popular in the west than in other areas, as there is no reliable data on the relative popularity of the various buddhist traditions in different parts of the world. however, it is clear that theravada has a significant and growing presence in the west, and it is possible that its popularity is increasing more rapidly in the west than in other parts of the world.",
+                "exact_match": "no",
+                "llm_selfevaluation": "difficult to say"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Is Theravada Buddhism primarily practiced in the west?' \n\nYes, Theravada is mostly found in Southeast Asian countries like Sri Lanka, Myanmar, and Thailand. However, due to recent immigration trends, there has been a significant increase of followers in western countries such",
+                "answer": "as the united states and canada.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '1. Where is Theravada primarily practiced?' \nTheravada is mostly practiced in countries like Sri Lanka, Cambodia, Laos, Burma, and Thailand.",
+                "answer": "a small presence of theravada is seen in countries like china, vietnam, malaysia, and bangladesh.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '1. Is Theravada more popular in the west?'",
+                "answer": "there is no definitive answer to this question as data on the popularity of theravada buddhism in the west is limited. however, based on the context above, it seems that theravada buddhism is growing in popularity in the western world.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Is Theravada Buddhism mostly practiced in the western world?",
+                "answer": "no, theravada buddhism is mostly practiced in the eastern world, with a growing presence in the west.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Is Theravada more popular in the west than in other parts of the world?",
+                "answer": "no, theravada is not more popular in the west than in other parts of the world.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Is Theravada more widely practiced in the west than in other areas?",
+                "answer": "no, theravada is not more widely practiced in the west than in other areas.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What is the primary religion practiced in Sri Lanka?'\nTheravada Buddhism is primarily practiced in Sri Lanka.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Is Theravada Buddhism practiced primarily in Sri Lanka? \n\nYes, Theravada is the dominant form of Buddhism in Sri Lanka.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Theravāda is practiced in countries such as"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2. Is Theravada Buddhism primarily practiced in Sri Lanka?",
+                "answer": "yes, theravada buddhism is primarily practiced in sri lanka.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Is Theravada Buddhism mostly practiced in Sri Lanka? \nAnswer: Yes, it is estimated that around 3 million of the 7.6 million people practicing Theravada Buddhism live in Sri Lanka.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Is Theravada Buddhism more commonly found in Sri Lanka? \nYes, Theravada is primarily practiced in Sri Lanka.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What is the primary religion practiced in Sri Lanka?",
+                "answer": "theravāda",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What is the primary religion practiced in Sri Lanka?' Theravada Buddhism is the primary religion practiced in Sri Lanka.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Where is Theravada Buddhism primarily practiced? \nAnswer: Sri Lanka",
+                "answer": ", burma, laos, thailand, cambodia, china, vietnam, malaysia, bangladesh, and the west.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Is Theravada Buddhism primarily practiced in Sri Lanka? \n\nYes, Theravada is the main type of Buddhism present in Sri Lanka.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Does Theravada Buddhism primarily come from Sri Lanka?",
+                "answer": "no, theravada buddhism does not primarily come from sri lanka. theravada buddhism is primarily practiced in sri lanka, burma, laos, thailand, cambodia as well as small portions of china, vietnam, malaysia and bangladesh.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What country is Theravada primarily practiced in? \nBurma",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Is the Theravada branch of Buddhism primarily practiced in Burma?'",
+                "answer": "yes, theravada buddhism is primarily practiced in burma.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What is the main country where Theravada is practiced?",
+                "answer": "the main country where theravada is practiced is sri lanka.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Is Burma the primary country in which Theravada is practiced?",
+                "answer": "no, burma is not the primary country in which theravada is practiced. sri lanka is the primary country in which theravada is practiced.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What is the primary country of Theravada practice?' Burma",
+                "answer": ".",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. What country predominantly practices Theravada Buddhism?' \nAnswer: Burma",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "3. Is Burma the country where Theravada is primarily practiced?",
+                "answer": "no, burma is not the country where theravada is primarily practiced.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What country primarily practices Theravada Buddhism? \nAnswer: Burma",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Is Theravada Buddhism mostly practiced in Burma?'",
+                "answer": "no, theravada buddhism is not mostly practiced in burma.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What is the main country where Theravada is practiced?",
+                "answer": "the main country where theravada is practiced is sri lanka.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes, the main country where Therav"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What is the primary religion practiced in Laos?'\nAnswer: The primary religion practiced in Laos is Theravada Buddhism.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What is the primary religion practiced in Laos?",
+                "answer": "theravāda",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is Theravada Buddhism the primary religion practiced in Laos?",
+                "answer": "yes, theravada buddhism is the primary religion practiced in laos.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4. Which country primarily practices Theravada?'\nLaos",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is Theravada Buddhism mostly practiced in Laos?",
+                "answer": "no, theravada buddhism is mostly practiced in sri lanka.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is Theravada Buddhism primarily practiced in Laos?\nYes, Theravada is the dominant form of Buddhism in Laos.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Thailand, Sri Lanka, Burma, Laos, and"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What percentage of Theravada practitioners reside in Laos? \nFrom what I can find, it appears that Laotians make up the majority of Theravada Buddhists.",
+                "answer": "however, i could not locate an exact percentage.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Which country primarily practices Theravada Buddhism?\nLaos",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Is Theravada Buddhism primarily practiced in Laos? \nYes, Theravada is the main form of Buddhism practiced in Laos.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Theravāda is practiced in Sri Lanka,"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is Theravada Buddhism widely practiced in Laos?",
+                "answer": "yes, theravada buddhism is widely practiced in laos.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Q: What is the main country in which Theravada is practiced? \nA: Thailand",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '5. What country is Theravada primarily practiced in?' Thailand",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is Theravada Buddhism commonly practiced in Thailand?",
+                "answer": "yes, theravada buddhism is commonly practiced in thailand, as well as in sri lanka, burma, laos, cambodia, and small portions of china, vietnam, malaysia, and bangladesh. in addition, it has a growing presence in the west.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What is the primary religion practiced in Thailand?\n\nThe primary religion practiced in Thailand is Theravada Buddhism.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "No, Theravada is not primarily practiced in Thailand.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What country is Theravada primarily practiced in?\nAnswer: Thailand",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What country primarily practices Theravada Buddhism? \nAnswer: Thailand",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is Theravada Buddhism primarily practiced in Thailand? \nYes, according to Buddhanet, over 90% of the population in Thailand identify as Buddhist and specifically practice Theravada Buddhism.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What is the primary religion practiced in Thailand?' \nTheravada Buddhism.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is Theravada Buddhism primarily practiced in Thailand?\n\nYes, it is estimated that about 95% of the Thai population practices Theravada Buddhism.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            }
+        ]
+    ]
+}

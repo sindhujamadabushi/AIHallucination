@@ -1,0 +1,1255 @@
+{
+    "context": "The Association for Asian Studies states that there is no known written evidence to suggest that later leaders of the Gelug—Gendün Drup (1391–1474) and Gendün Gyatso (1475–1571)—had any contacts with Ming China. These two religious leaders were preoccupied with an overriding concern for dealing with the powerful secular Rinpungpa princes, who were patrons and protectors of the Karma Kargyu lamas. The Rinpungpa leaders were relatives of the Phagmodrupa, yet their authority shifted over time from simple governors to rulers in their own right over large areas of Ü-Tsang. The prince of Rinbung occupied Lhasa in 1498 and excluded the Gelug from attending New Years ceremonies and prayers, the most important event in the Gelug. While the task of New Years prayers in Lhasa was granted to the Karmapa and others, Gendün Gyatso traveled in exile looking for allies. However, it was not until 1518 that the secular Phagmodru ruler captured Lhasa from the Rinbung, and thereafter the Gelug was given rights to conduct the New Years prayer. When the Drikung Kagyu abbot of Drigung Monastery threatened Lhasa in 1537, Gendün Gyatso was forced to abandon the Drepung Monastery, although he eventually returned.\n",
+    "count": [
+        "How many religious leaders were preoccupied with an overriding concern for dealing with the powerful secular Rinpungpa princes?",
+        "How many princes of Rinbung occupied Lhasa?",
+        "How many abbots of Drigung Monastery threatened Lhasa?",
+        "How many times was Gendün Gyatso forced to abandon the Drepung Monastery?",
+        "How many years was the Gelug given rights to conduct the New Years prayer?"
+    ],
+    "yesno": [
+        "1. Did the Association for Asian Studies state that there is evidence to suggest that later leaders of the Gelug had contacts with Ming China?",
+        "2. Did Gendün Drup and Gendün Gyatso have an overriding concern for dealing with secular Rinpungpa princes?",
+        "3. Was the authority of the Rinpungpa leaders simple?",
+        "4. Was it 1518 when the secular Phagmodru ruler captured Lhasa from the Rinbung?",
+        "5. Was Gendün Gyatso forced to abandon the Drepung Monastery when the Drikung Kagyu abbot threatened Lhasa?"
+    ],
+    "count_gt": [
+        "two",
+        "one",
+        "one",
+        "one",
+        "twenty"
+    ],
+    "yesno_gt": [
+        "no",
+        "yes",
+        "no",
+        "yes",
+        "yes"
+    ],
+    "count_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many religious leaders were occupied with an overriding concern for dealing with the powerful secular Rinpungpa princes?'",
+                "answer": "there were two religious leaders who were occupied with an overriding concern for dealing with the powerful secular rinpungpa princes.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many religious leaders were primarily concerned with managing the secular Rinpungpa princes?",
+                "answer": "two religious leaders were primarily concerned with managing the secular rinpungpa princes.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many religious leaders were primarily concerned with Rinpungpa princes, who held secular power?",
+                "answer": "a. one\nb. two\nc. three\nd. four\n\nb. two",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many religious leaders were focused on dealing with the secular Rinpungpa princes who held power?",
+                "answer": "two religious leaders were focused on dealing with the secular rinpungpa princes who held power.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many religious leaders were concerned with dealing with the powerful secular Rinpungpa princes?",
+                "answer": "two religious leaders were concerned with dealing with the powerful secular rinpungpa princes.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many religious leaders were mostly concerned with the secular Rinpungpa princes?",
+                "answer": "two religious leaders were mostly concerned with the secular rinpungpa princes.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many religious leaders were occupied with a concern for dealing with the powerful secular Rinpungpa princes?",
+                "answer": "a. 1\nb. 2\nc. 3\nd. 4\n\nb. 2",
+                "exact_match": "yes",
+                "llm_selfevaluation": "The answer is consistent with the ground truth"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the primary concern of religious leaders during the time of the Rinpungpa princes?",
+                "answer": "the primary concern of religious leaders during the time of the rinpungpa princes was to deal with the powerful secular rinpungpa princes, who were patrons and protectors of the karma kargyu lamas.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the religious leaders' overriding concern during the time of the secular Rinpungpa princes?",
+                "answer": "the religious leaders' overriding concern during the time of the secular rinpungpa princes was to deal with the powerful secular rinpungpa princes.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many religious leaders were preoccupied with an overriding concern for dealing with secular Rinpungpa princes?",
+                "answer": "two religious leaders were preoccupied with an overriding concern for dealing with secular rinpungpa princes.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Rinbung princes occupied Lhasa?",
+                "answer": "one rinbung prince occupied lhasa in 1498.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the Rinbung dynasty's total number of princes who occupied Lhasa?",
+                "answer": "the rinbung dynasty had two princes who occupied lhasa.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many rulers of Rinbung occupied Lhasa?'",
+                "answer": "one ruler of rinbung occupied lhasa.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Rinbung princes were in charge of Lhasa?",
+                "answer": "a. one\nb. two\nc. three\n\nb. two",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many Rinpung princes ruled over Lhasa?",
+                "answer": "there were two rinpungpa princes who ruled over lhasa.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Rinpung princes were the rulers of Lhasa?",
+                "answer": "one rinpung prince was the ruler of lhasa.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the population of Lhasa?",
+                "answer": "the population of lhasa is not mentioned in the context.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Princes of Rinbung were in power in Lhasa?",
+                "answer": "one rinpungpa prince was in power in lhasa in 1498.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Who were the princes of Rinbung that occupied Lhasa?",
+                "answer": "the princes of rinbung that occupied lhasa were the rinpungpa leaders, who were relatives of the phagmodrupa. these princes shifted their authority over time from simple governors to rulers in their own right over large areas of ü-tsang.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Princes of Rinbung were there in Lhasa?",
+                "answer": "there were only two princes of rinbung in lhasa.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many abbots of Drigung Monastery were threatening Lhasa?",
+                "answer": "one",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many abbots from Drigung Monastery threatened Lhasa?",
+                "answer": "one abbot from drigung monastery threatened lhasa.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many abbots from Drigung Monastery threatened Lhasa?",
+                "answer": "one abbot from drigung monastery threatened lhasa.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many abbots from Drigung Monastery threatened Lhasa?",
+                "answer": "one abbot from drigung monastery threatened lhasa.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many abbots of Drigung Monastery posed a threat to Lhasa?",
+                "answer": "one.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many abbots of Drigung Monastery were threatening Lhasa?\nI'm not sure how many there were, but I know it was more than one.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many abbots from Drigung Monastery threatened Lhasa?",
+                "answer": "one",
+                "exact_match": "no",
+                "llm_selfevaluation": "no\n\n\nThe answer is not consistent with the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many abbots from Drigung Monastery threatened Lhasa?",
+                "answer": "one abbot from drigung monastery threatened lhasa.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many abbots of Drigung Monastery were critical of the Lhasa government?'",
+                "answer": "there was only one drikung kagyu abbot of drigung monastery who was critical of the lhasa government.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many abbots of Drigung Monastery were involved in the Lhasa incident?",
+                "answer": "one abbot of drigung monastery was involved in the lhasa incident.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many times did Gendün Gyatso have to leave the Drepung Monastery?",
+                "answer": "answer: twice",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no\n\n\nThe answer states that Gendü"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Gendün Gyatso was the abbot of the Drepung Monastery. He was forced to leave the monastery three times.",
+                "answer": "the first time was when the rinpungpa prince occupied lhasa and excluded the gelug from attending new years ceremonies and prayers. the second time was when the drikung kagyu abbot of drigung monastery threatened lhasa. the third time was _______. fill in the blank.\n\nthe third time gendün gyatso left the drepung monastery was when the secular phagmodru ruler captured lhasa from the rinbung.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many times did Gendün Gyatso have to leave the Drepung Monastery?",
+                "answer": "gendün gyatso had to leave the drepung monastery twice.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many times was Gendün Gyatso forced to leave the Drepung Monastery?",
+                "answer": "answer:\n\ngendün gyatso was forced to leave the drepung monastery twice. the first time was when the prince of rinbung occupied lhasa in 1498 and excluded the gelug from attending new years ceremonies and prayers. the second time was when the drikung kagyu abbot of drigung monastery threatened lhasa in 1537.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many times did Gendün Gyatso have to leave the Drepung Monastery?",
+                "answer": "gendün gyatso had to leave the drepung monastery twice.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'Gendün Gyatso had to leave the Drepung Monastery how many times?'",
+                "answer": "gendün gyatso had to leave the drepung monastery twice.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many times was Gendün Gyatso exiled from the Drepung Monastery?'",
+                "answer": "gendün gyatso was exiled from the drepung monastery twice; once in 1537 when the drikung kagyu abbot of drigung monastery threatened lhasa, and once in 1498 when the rinpungpa leader occupied lhasa and excluded the gelug from attending new years ceremonies and prayers.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the frequency of Gendün Gyatso abandoning the Drepung Monastery?",
+                "answer": "the drikung kagyu abbot of drigung monastery threatened lhasa in 1537, and gendün gyatso was forced to abandon the drepung monastery. this appears to be the only instance in which gendün gyatso was forced to abandon the drepung monastery.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many times did Gendün Gyatso have to leave the Drepung Monastery?",
+                "answer": "gendün gyatso had to leave the drepung monastery twice.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many times did Gendün Gyatso have to leave the Drepung Monastery?",
+                "answer": "gendün gyatso had to leave the drepung monastery twice.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the duration of the Gelug's right to conduct the New Years prayer?",
+                "answer": "the gelug's right to conduct the new years prayer lasted from 1518 to 1537.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "For how many years was the Gelug given rights to conduct the New Years prayer?",
+                "answer": "the gelug was given rights to conduct the new years prayer for 20 years.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: For how many years have the Gelug been given rights to conduct the New Years prayer?",
+                "answer": "the gelug have been given rights to conduct the new years prayer for 300 years.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What year were the Gelug given rights to conduct the New Years prayer?'",
+                "answer": "the gelug were given rights to conduct the new years prayer in 1518.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "In how many years was the Gelug given the right to conduct the New Years prayer?",
+                "answer": "the gelug was given the right to conduct the new years prayer in 1518.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: For how many years have the Gelug had the right to conduct the New Years prayer?",
+                "answer": "1518-1537",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How long was the Gelug given rights to conduct the New Years prayer?",
+                "answer": "the gelug was given rights to conduct the new years prayer in 1518.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "In which year were the Gelug given rights to conduct the New Years prayer?",
+                "answer": "the gelug were given rights to conduct the new years prayer in 1518.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: For how many years has the Gelug been given rights to conduct the New Years prayer?",
+                "answer": "the gelug has been given rights to conduct the new years prayer for 300 years.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the Gelug given rights to conduct the New Years prayer?",
+                "answer": "the gelug was given rights to conduct the new years prayer after the secular phagmodru ruler captured lhasa from the rinbung.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            }
+        ]
+    ],
+    "yesno_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Did the Association for Asian Studies find evidence to suggest that later leaders of the Gelug had contacts with Ming China?",
+                "answer": "2. why were the gelug preoccupied with an overriding concern for dealing with the powerful secular rinpungpa princes?\n\n1. no, the association for asian studies found no evidence to suggest that later leaders of the gelug had contacts with ming china.\n\n2. the gelug were preoccupied with an overriding concern for dealing with the powerful secular rinpungpa princes because the princes were patrons and protectors of the karma kargyu lamas.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Is there evidence to suggest that the Association for Asian Studies stated that later leaders of the Gelug had contacts with Ming China?",
+                "answer": "no, there is no evidence to suggest that the association for asian studies stated that later leaders of the gelug had contacts with ming china.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is there evidence to suggest that later leaders of the Gelug had contacts with Ming China, according to the Association for Asian Studies?",
+                "answer": "no, according to the association for asian studies, there is no known written evidence to suggest that later leaders of the gelug had contacts with ming china.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Did the Association for Asian Studies find evidence that later leaders of the Gelug had contacts with Ming China?",
+                "answer": "no",
+                "exact_match": "no",
+                "llm_selfevaluation": "There is no evidence to suggest that the religious leaders"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Does the Association for Asian Studies state that there is evidence to suggest that later leaders of the Gelug had contacts with Ming China?",
+                "answer": "the association for asian studies does not state that there is evidence to suggest that later leaders of the gelug had contacts with ming china.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Did the Association for Asian Studies state that there is evidence to suggest later leaders of the Gelug had contacts with Ming China?",
+                "answer": "no",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '1. Did the Association for Asian Studies state that there is evidence to suggest that later leaders of the Gelug had contacts with Ming China?'\n\n\nThe answer to this question is yes – in fact, the Association for Asian Studies has stated that there is strong evidence suggesting that",
+                "answer": "later leaders of the gelug had extensive contact with ming china.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Is there evidence to suggest that later leaders of the Gelug had contacts with Ming China, according to the Association for Asian Studies?",
+                "answer": "no, there is no known written evidence to suggest that later leaders of the gelug had contacts with ming china.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Is there evidence to suggest that later leaders of the Gelug had contacts with Ming China, according to the Association for Asian Studies?",
+                "answer": "2. who occupied lhasa in 1498, excluding the gelug from attending new years ceremonies?\n\n1. there is no evidence to suggest that later leaders of the gelug had contacts with ming china, according to the association for asian studies.\n\n2. the rinbung leader occupied lhasa in 1498, excluding the gelug from attending new years ceremonies.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Does the Association for Asian Studies state that there is evidence to suggest that later leaders of the Gelug had contacts with Ming China?",
+                "answer": "no",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2. Was there an overriding concern for Gendün Drup and Gendün Gyatso when dealing with secular Rinpungpa princes?",
+                "answer": "yes, there was an overriding concern for gendün drup and gendün gyatso when dealing with secular rinpungpa princes.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Do Gendün Drup and Gendün Gyatso primarily focus on secular Rinpungpa rulers?",
+                "answer": "yes, gendün drup and gendün gyatso primarily focus on secular rinpungpa rulers.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Gendün Drup and Gendün Gyatso primarily focus on secular Rinpungpa rulers?",
+                "answer": "yes, the two religious leaders were preoccupied with secular rinpungpa rulers.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2. Did Gendün Drup and Gendün Gyatso have an overriding concern for dealing with secular Rinpungpa rulers?",
+                "answer": "based on the context, it can be inferred that gendün drup and gendün gyatso did have an overriding concern for dealing with secular rinpungpa rulers.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Gendün Drup and Gendün Gyatso primarily focus on managing relationships with secular Rinpungpa rulers?",
+                "answer": "yes, gendün drup and gendün gyatso primarily focused on managing relationships with secular rinpungpa rulers.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2. Did Gendün Drup and Gendün Gyatso primarily focus on handling secular Rinpungpa rulers?",
+                "answer": "based on the context, it can be inferred that gendün drup and gendün gyatso primarily focused on handling secular rinpungpa rulers.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2. Did Gendün Drup and Gendün Gyatso have a main concern for dealing with secular Rinpungpa princes?",
+                "answer": "yes, the association for asian studies states that thetwo religious leaders were preoccupied with an overriding concern for dealing with the powerful secular rinpungpa princes.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes, the answer is consistent with the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2. Did Gendün Drup and Gendün Gyatso prioritize dealing with secular Rinpungpa princes?",
+                "answer": "yes, the association for asian studies states that gendün drup and gendün gyatso were preoccupied with an overriding concern for dealing with the powerful secular rinpungpa princes.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2. Was Gendün Drup and Gendün Gyatso's main concern dealing with secular Rinpungpa princes?",
+                "answer": "yes, their main concern was dealing with secular rinpungpa princes.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2. Did Gendün Drup and Gendün Gyatso have a main concern for dealing with secular Rinpungpa princes?",
+                "answer": "yes, the two religious leaders were preoccupied with an overriding concern for dealing with the powerful secular rinpungpa princes.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Was the authority of the Rinpungpa leaders straightforward? \nAnswer: Yes, the Rinpungpa leader's authority was clear and uncomplicated.",
+                "answer": "they were granted the right to conduct the new years prayer in lhasa and were given authority over large areas of ü-tsang.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Was the authority structure of the Rinpungpa leaders simple?' \nNo, the authority structure was not simple. There were three primary groups vying for power during this time period- Kyishod Ngawang Namgyal , Panchen Sonam Drak",
+                "answer": "pa, and depa dodrupchen.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What was the authority structure of the Rinpungpa leaders? \nThe authority structure of the Rinpungpa leaders was complex.",
+                "answer": "they were relative of the phagmodrupa, but their authority shifted over time from simple governors to rulers in their own right over large areas of ü-tsang.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "How much authority did the Rinpungpa leaders have?",
+                "answer": "the rinpungpa leaders had the authority to shift from being simple governors to being rulers in their own right over large areas of ü-tsang.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Was the authority of the Rinpungpa leaders straightforward?'",
+                "answer": "a. no, the authority of the rinpungpa leaders was not straightforward. they were constantly challenged by the gelug lamas.\n\nb. yes, the authority of the rinpungpa leaders was straightforward. they controlled lhasa and the gelug.\n\nc. no, the authority of the rinpungpa leaders was not straightforward. they fluctuated between being governors and rulers.\n\nd. yes, the authority of the rinpungpa leaders was straightforward. they ruled ü-tsang and conducted the new years prayers.\n\nc. no, the authority of the rinpungpa leaders was not straightforward. they fluctuated between being governors and rulers.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What was the authority of the Rinpungpa leaders?",
+                "answer": "the rinpungpa leaders' authority shifted over time from simple governors to rulers in their own right over large areas of ü-tsang.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Was the authority structure of the Rinpungpa leaders simple?' \nNo, the authority structure was not simple.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "3. Was the authority of the Rinpungpa leaders straightforward?",
+                "answer": "the authority of the rinpungpa leaders was not straightforward.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Was the authority of the Rinpungpa leaders uncomplicated?'",
+                "answer": "based on the context, it can be inferred that the answer to this question is 'no'. the rinpungpa leaders' authority shifted over time from being simple governors to rulers in their own right, which suggests that their authority was not uncomplicated.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Did the Rinpungpa leaders have a lot of authority?'",
+                "answer": "based on the context, it can be inferred that the rinpungpa leaders had a lot of authority.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'In 1518, was the secular Phagmodru ruler successful in capturing Lhasa from the Rinbung?'",
+                "answer": "the secular phagmodru ruler was successful in capturing lhasa from the rinbung in 1518.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: In 1518, the secular Phagmodru ruler captured Lhasa from the Rinbung, correct?",
+                "answer": "yes, this is correct.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Was it the secular Phagmodru ruler who captured Lhasa from the Rinbung in 1518?",
+                "answer": "yes, it was the secular phagmodru ruler who captured lhasa from the rinbung in 1518.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Was the secular Phagmodru ruler who captured Lhasa from the Rinbung in 1518?",
+                "answer": "yes.",
+                "exact_match": "no",
+                "llm_selfevaluation": "The answer is consistent with the ground truth"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: In 1518, did the secular Phagmodru ruler capture Lhasa from the Rinbung?",
+                "answer": "yes",
+                "exact_match": "no",
+                "llm_selfevaluation": "It is not clear from the answer if Gend"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What year was it when the secular Phagmodru ruler captured Lhasa from the Rinbung?' Answer: 1518",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes, the answer is consistent with"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4. When did the secular Phagmodru ruler capture Lhasa from the Rinbung?'Answer: 1518",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: In 1518, the secular Phagmodru ruler captured Lhasa from the Rinbung.",
+                "answer": "who granted the gelug the right to conduct the new years prayer?\n\nthe secular phagmodru ruler.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: In 1518, the secular Phagmodru ruler captured Lhasa from the Rinbung.",
+                "answer": "what did this allow the gelug?\n\nthe gelug were given rights to conduct the new years prayer.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'In 1518, was the secular Phagmodru ruler able to capture Lhasa from the Rinbung?'",
+                "answer": "yes, the secular phagmodru ruler captured lhasa from the rinbung in 1518.",
+                "exact_match": "no",
+                "llm_selfevaluation": ""
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '5. When the Drikung Kagyu abbot threatened Lhasa, was Gendün Gyatso forced to abandon the Drepung Monastery?' \nYes",
+                "answer": ", gendün gyatso was forced to abandon the drepung monastery when the drikung kagyu abbot threatened lhasa. however, he eventually returned.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "5. Did Gendün Gyatso have to leave the Drepung Monastery when the Drikung Kagyu abbot threatened Lhasa?",
+                "answer": "yes, gendün gyatso had to leave the drepung monastery when the drikung kagyu abbot threatened lhasa.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '5. Gendün Gyatso was forced to abandon the Drepung Monastery when the Drikung Kagyu abbot threatened Lhasa, right?'",
+                "answer": "use the context clues to determine if the answer to the question is most likely true or false.\n\nthe answer to the question is most likely true.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '5. Did Gendün Gyatso abandon the Drepung Monastery when the Drikung Kagyu abbot threatened Lhasa?'\n\nYes, Gendün Gyatso did abandon the Drepung Monastery when the Drikung",
+                "answer": "kagyu abbot threatened lhasa.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Was Gendün Gyatso forced to abandon the Drepung Monastery when the Drikung Kagyu abbot threatened Lhasa?",
+                "answer": "yes, gendün gyatso was forced to abandon the drepung monastery when the drikung kagyu abbot threatened lhasa.",
+                "exact_match": "no",
+                "llm_selfevaluation": "consistent"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "5. Did the Drikung Kagyu abbot threaten Lhasa, causing Gendün Gyatso to abandon the Drepung Monastery?",
+                "answer": "yes",
+                "exact_match": "no",
+                "llm_selfevaluation": "Gendün Gyatso traveled in exile"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Was Gendün Gyatso forced to abandon the Drepung Monastery when the abbot of the Drikung Kagyu school threatened Lhasa?",
+                "answer": "yes, gendün gyatso was forced to abandon the drepung monastery when the abbot of the drikung kagyu school threatened lhasa.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Was Gendün Gyatso forced to abandon the Drepung Monastery when the Drikung Kagyu abbot threatened Lhasa?'",
+                "answer": "yes, gendün gyatso was forced to abandon the drepung monastery when the drikung kagyu abbot threatened lhasa.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What was the reason Gendün Gyatso had to abandon the Drepung Monastery?",
+                "answer": "in 1537, the drikung kagyu abbot of drigung monastery threatened lhasa, which forced gendün gyatso to abandon the drepung monastery.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '5. Did Gendün Gyatso have to leave the Drepung Monastery when the Drikung Kagyu abbot threatened Lhasa?'",
+                "answer": "yes, he was forced to leave, although he eventually returned.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            }
+        ]
+    ]
+}

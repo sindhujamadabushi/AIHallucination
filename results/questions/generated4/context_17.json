@@ -1,0 +1,1255 @@
+{
+    "context": "Schwarzenegger was the first civilian to purchase a Humvee. He was so enamored by the vehicle that he lobbied the Humvee's manufacturer, AM General, to produce a street-legal, civilian version, which they did in 1992; the first two Hummers they sold were also purchased by Schwarzenegger.\n",
+    "count": [
+        "1. How many civilian Humvees were sold in 1992?",
+        "2. How many Humvees did Schwarzenegger purchase?",
+        "3. How many street-legal, civilian Humvees were produced by AM General?",
+        "4. How many years did it take Schwarzenegger to lobby the Humvee's manufacturer to produce a street-legal, civilian version?",
+        "5. How many total Humvees have been sold?"
+    ],
+    "yesno": [
+        "1. Did Schwarzeneggar purchase the first Humvee?",
+        "2. Was he enamored by the vehicle?",
+        "3. Did he lobby the Humvee's manufacturer to produce a street-legal version?",
+        "4. Did they do so in 1992?",
+        "5. Were the first two Hummers sold to Schwarzeneggar?"
+    ],
+    "count_gt": [
+        "unknown",
+        "one",
+        "unknown",
+        "unknown",
+        "unknown"
+    ],
+    "yesno_gt": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ],
+    "count_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Humvees were sold to civilians in 1992?",
+                "answer": "father two humvees were sold to civilians in 1992.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many non-military Humvees were sold in 1992?",
+                "answer": "2 non-military humvees were sold in 1992.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '1. How many Humvees were sold to civilians in 1992?'",
+                "answer": "two humvees were sold to civilians in 1992.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many civilian Humvees were purchased in 1992?",
+                "answer": "the answer to this question is not provided in the context.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'How many Humvees were sold to civilians in 1992?'",
+                "answer": "two",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '1. How many civilian Humvees were there in 1992?'",
+                "answer": "there were two civilian humvees in 1992.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many civilian Humvees were purchased in 1992?",
+                "answer": "schwarzenegger was the first civilian to purchase a humvee, and the first two hummers sold were also purchased by schwarzenegger. this means that a total of three civilian humvees were purchased in 1992.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many civilian Humvees were sold in 1992?",
+                "answer": "two civilian humvees were sold in 1992.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Humvees were sold to civilians in 1992?",
+                "answer": "the first two humvees were sold to civilians in 1992.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Humvees were sold to civilians in 1992?",
+                "answer": "two",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '2. How many Humvees did Schwarzenegger purchase?'\n\n\nFrom what I can recall, he purchased around 3-4 Humvees total.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Humvees did Arnold Schwarzenegger purchase?",
+                "answer": "arnold schwarzenegger purchased two humvees.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '2. How many Humvees did Schwarzenegger buy?'",
+                "answer": "he bought two.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Humvees did Schwarzenegger buy?",
+                "answer": "he bought two.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '2. How many Humvees did Schwarzenegger purchase?'\n\n\nI do not know.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '2. How many Humvees did Schwarzenegger buy?'",
+                "answer": "two",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the number of Humvees that Schwarzenegger bought?",
+                "answer": "a. 2\n\nb. 1\n\nc. 3\n\nd. 0\n\na. 2",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no\n\nb. 1yes/no:"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Humvees did Arnold Schwarzenegger purchase?",
+                "answer": "from the context, it can be inferred that arnold schwarzenegger purchased two humvees.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Humvees did Arnold Schwarzenegger purchase?",
+                "answer": "three",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many Humvees did Arnold Schwarzenegger purchase?",
+                "answer": "schwarzenegger purchased two humvees.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "AM General produced approximately 10,000 civilian Humvees that are street-legal.",
+                "answer": "what kind of vehicle is am general known for producing?\n\nam general is known for producing the humvee.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many street-legal Humvees were produced by AM General?",
+                "answer": "am general produced two street-legal humvees.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many street-legal civilian Humvees were produced by AM General?",
+                "answer": "am general produced two street-legal civilian humvees.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Approximately 275,000 civilian Humvees were produced by AM General.",
+                "answer": "which famous person was the first to purchase one?\n\narnold schwarzenegger",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "AM General produced a total of 10,000 street-legal civilian Humvees.",
+                "answer": "schwarzenegger purchased two of them. how many did he purchase as a percentage of the total number produced?\n\n20%",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many street-legal civilian Humvees were produced by AM General?",
+                "answer": "a. 1\nb. 2\nc. 3\n\nb. 2",
+                "exact_match": "yes",
+                "llm_selfevaluation": "The answer is consistent with the ground truth."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many AM General civilian Humvees are street-legal?",
+                "answer": "as of 1992, there were two am general civilian humvees that were street-legal.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many civilian, street-legal Humvees were produced by AM General?",
+                "answer": "four civilian, street-legal humvees were produced by am general.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '3. How many AM General civilian Humvees were street-legal?'",
+                "answer": "the first two hummers that am general sold were street-legal.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Unknown"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many street-legal, civilian Humvees were produced by AM General?",
+                "answer": "the first two hummers that were sold by am general were street-legal, civilian humvees.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '4. How many years did it take Schwarzenegger to successfully lobby the Humvee's manufacturer to produce a street-legal, civilian version?'",
+                "answer": "4 years",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How long did Schwarzenegger lobby the Humvee's manufacturer to produce a street-legal, civilian version?",
+                "answer": "schwarzenegger lobbied the humvee's manufacturer for about two years before they finally released a street-legal, civilian version of the vehicle.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many years did it take Schwarzenegger to lobby the Humvee's manufacturer to produce a civilian version that can be driven on streets?",
+                "answer": "schwarzenegger lobbied the humvee's manufacturer for two years before they finally produced a civilian version that can be driven on streets.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Approximately how long did it take Schwarzenegger to lobby the Humvee's manufacturer to produce a street-legal, civilian version?",
+                "answer": "schwarzenegger lobbied the humvee's manufacturer for approximately two years.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many years did it take Schwarzenegger to lobby the Humvee's manufacturer to produce a civilian version that could be driven on streets?",
+                "answer": "it took schwarzenegger about two years to lobby the humvee's manufacturer to produce a civilian version of the vehicle.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the duration of time that Schwarzenegger spent lobbying the Humvee's manufacturer to produce a street-legal, civilian version?",
+                "answer": "schwarzenegger likely spent months or even years lobbying the humvee's manufacturer to produce a street-legal, civilian version.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many years did Schwarzenegger lobby the Humvee's manufacturer to produce a street-legal, civilian version?",
+                "answer": "schwarzenegger lobbied the humvee's manufacturer for at least two years to produce a street-legal, civilian version.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: It took Schwarzenegger how many years to lobby the Humvee's manufacturer to produce a street-legal, civilian version?",
+                "answer": "several years. am general produced the first street-legal, civilian humvee in 1992, after schwarzenegger had lobbied them for some time.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the length of time in years that it took Schwarzenegger to persuade the Humvee's manufacturer to create a civilian version that would be legal to drive on streets?",
+                "answer": "it took schwarzenegger two years to persuade the humvee's manufacturer to create a civilian version that would be legal to drive on streets.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many years did Schwarzenegger lobby the Humvee's manufacturer to produce a street-legal, civilian version?",
+                "answer": "schwarzenegger lobbied the humvee's manufacturer for two years to produce a street-legal, civilian version.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Humvees have been sold in total?",
+                "answer": "the total number of humvees sold is unknown.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Humvees have been sold in total?",
+                "answer": "as of june 2006, there have been over 100,000 hummers sold worldwide.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What is the total number of Humvees that have been sold?",
+                "answer": "since the humvee was first developed for military use, there is no accurate way to track the total number of humvees that have been sold. however, it is estimated that there are tens of thousands of humvees in use around the world.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Humvees have been sold in total?",
+                "answer": "this is answer is not provided in the context.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many Humvees have been sold in total?",
+                "answer": "it is unknown how many humvees have been sold in total.",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Humvees have been sold in total?",
+                "answer": "am general has sold more than 300,000 humvees in total.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How many Humvees have been sold in total?",
+                "answer": "am general has sold around 200,000 humvees in total.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Humvees have been sold in total?",
+                "answer": "10,000 humvees have been sold in total.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "In total, how many Humvees have been sold?",
+                "answer": "it is unclear how many humvees have been sold.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many Humvees have been sold in total?",
+                "answer": "since 1992, am general has sold over 300,000 humvees.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            }
+        ]
+    ],
+    "yesno_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Was it Schwarzeneggar who purchased the first Humvee?",
+                "answer": "yes, schwarzenegger was the first civilian to purchase a humvee.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Was Schwarzeneggar the first person to purchase a Humvee?",
+                "answer": "yes, schwarzenegger was the first person to purchase a humvee.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '1. Was the first Humvee purchased by Schwarzeneggar?'",
+                "answer": "yes.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Did Schwarzeneggar buy the first Humvee?",
+                "answer": "yes",
+                "exact_match": "no",
+                "llm_selfevaluation": ".\n\nYes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Did Schwarzeneggar buy the first Humvee?",
+                "answer": "yes, he did.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Was the first Humvee purchased by Schwarzeneggar?",
+                "answer": "2. did schwarzeneggar lobby the humvee's manufacturer to produce a street-legal, civilian version?\n\n1. yes, the first humvee was purchased by schwarzeneggar.\n\n2. yes, schwarzeneggar lobbied the humvee's manufacturer to produce a street-legal, civilian version.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Did Schwarzeneggar buy the first Humvee?",
+                "answer": "yes, schwarzenegger bought the first humvee.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Did Schwarzeneggar purchase the first Humvee?",
+                "answer": "yes he did.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '1. Did Schwarzeneggar buy the first Humvee?'",
+                "answer": "yes, schwarzenegger bought the first humvee.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Did Arnold Schwarzenegger purchase the first Humvee?",
+                "answer": "yes, arnold schwarzenegger was the first civilian to purchase a humvee.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did he like the car?",
+                "answer": "yes, he liked the car.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Was he attracted to the vehicle?",
+                "answer": "based on the context, it seems that schwarzenegger was attracted to the vehicle.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '2. Was he enthralled by the vehicle?'",
+                "answer": "yes, he was.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Was he in love with the vehicle?",
+                "answer": "yes, he was in love with the vehicle.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Most of the important information is there"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did he fall in love with the car?",
+                "answer": "yes, according to the context, schwarzenegger was enamored by the humvee and lobbied for a street-legal civilian version to be produced.",
+                "exact_match": "no",
+                "llm_selfevaluation": ""
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did he fall in love with the vehicle?",
+                "answer": "yes, he did.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Was he enamored with the vehicle?",
+                "answer": "yes, he was.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '2. Was he in love with the vehicle?'",
+                "answer": "yes, he was in love with the vehicle.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2. Did he like the vehicle?",
+                "answer": "yes, schwarzenegger liked the humvee so much that he lobbied the manufacturer to produce a street-legal, civilian version.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "2. Did he like the car?",
+                "answer": "yes, schwarzenegger liked the car so much that he lobbied the manufacturer to produce a street-legal, civilian version.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did he approach the Humvee's manufacturer with the intention of convincing them to produce a street-legal version?",
+                "answer": "yes, schwarzenegger approached the humvee's manufacturer with the intention of convincing them to produce a street-legal version of the vehicle.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did he try to convince the Humvee's manufacturer to produce a street-legal version?",
+                "answer": "yes, the humvee's manufacturer did produce a street-legal version at schwarzenegger's request.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did he contact the Humvee's manufacturer to see if they would produce a street-legal version?",
+                "answer": "based on the context, it can be inferred that schwarzenegger contacted the humvee's manufacturer to see if they would produce a street-legal version.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Did he try to influence the Humvee's manufacturer to produce a street-legal version?'",
+                "answer": "yes, he did try to influence the manufacturer to produce a street-legal version of the humvee.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did he encourage the Humvee's manufacturer to produce a street-legal version?",
+                "answer": "yes, he lobbied the humvee's manufacturer, am general, to produce a street-legal, civilian version.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did he try to convince the Humvee's manufacturer to produce a street-legal version?",
+                "answer": "yes, he did.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '3. Did he try to persuade the Humvee's manufacturer to produce a street-legal version?'",
+                "answer": "based on the context, it can be inferred that schwarzenegger did try to persuade the humvee's manufacturer to produce a street-legal version, and that his lobbying was successful.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did he lobby the Humvee's manufacturer to produce a version that could be driven legally on streets?",
+                "answer": "yes, he lobbied the humvee's manufacturer to produce a version that could be driven legally on streets.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "3. Did he contact the Humvee's manufacturer to discuss making a street-legal version?",
+                "answer": "yes",
+                "exact_match": "no",
+                "llm_selfevaluation": "The ground truth is that Schwarzenegger was the first civilian"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did he advocate to the Humvee's manufacturer to produce a street-legal version?",
+                "answer": "yes, he did advocated to the humvee's manufacturer to produce a street-legal version.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'In 1992, did they do so?'",
+                "answer": "yes, they did.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Did they do that in 1992?",
+                "answer": "yes",
+                "exact_match": "no",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did they do that in 1992?",
+                "answer": "yes, the first two civilian hummers were sold in 1992.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'In 1992, did they do so?'",
+                "answer": "yes, in 1992 the manufacturer produced a street-legal, civilian version of the humvee.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did they do what in 1992?",
+                "answer": "am general sold the first two street-legal humvees to schwarzenegger in 1992.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '4. Did they do this in 1992?'",
+                "answer": "yes, the manufacturer produced a street-legal, civilian version in 1992.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'Did they do this in 1992?'",
+                "answer": "yes, the manufacturer produced a street-legal, civilian version of the humvee in 1992.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did they do it in 1992?",
+                "answer": "yes",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "In what year did they do so?",
+                "answer": "in 1992",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'In 1992, did they do so?'",
+                "answer": "yes. in 1992, am general produced a street-legal, civilian version of the humvee for schwarzenegger.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Were the first two Hummers sold to Arnold Schwarzenegger?",
+                "answer": "yes, the first two hummers were sold to arnold schwarzenegger.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Schwarzeneggar purchase the first two Hummers ever sold?",
+                "answer": "yes",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What were the first two Hummers sold to Schwarzeneggar?'",
+                "answer": "the first two hummers sold to schwarzenegger were civilian versions of the humvee.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '5. Did Schwarzeneggar buy the first two Hummers?'",
+                "answer": "yes, he did.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What were the first two Hummers sold?' \nThe first two Hummers were sold to Schwarzeneggar.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '5. Were the first two Hummers sold to Arnold Schwarzenegger?'",
+                "answer": "yes, the first two hummers were sold to arnold schwarzenegger.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '5. Were the first two Hummers sold to Arnold Schwarzenegger?'",
+                "answer": "yes",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Who were the first two people to buy a Hummer?",
+                "answer": "schwarzenegger and another man",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did Schwarzenegger purchase the first two Hummers?",
+                "answer": "yes, schwarzenegger purchased the first two hummers.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What were the first two Hummers sold?",
+                "answer": "the first two hummers sold were purchased by arnold schwarzenegger.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            }
+        ]
+    ]
+}

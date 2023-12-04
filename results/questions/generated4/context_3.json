@@ -1,0 +1,1255 @@
+{
+    "context": "Public expenditure health was at 8.9% of the GDP in 2004, whereas private expenditure was at 1.3%. As of 2012, the HIV/AIDS prevalence was at 2.8% among 15- to 49-year-olds. Health expenditure was at US$30 per capita in 2004. A large proportion of the population is undernourished, with malnutrition being a problem in Congo-Brazzaville. There were 20 physicians per 100,000 persons in the early 2000s (decade).\n",
+    "count": [
+        "1. What was the percentage of private expenditure on health in 2004?",
+        "2. What was the percentage of GDP that public expenditure on health constituted in 2012?",
+        "3. What was the HIV/AIDS prevalence among 15- to 49-year-olds in 2012?",
+        "4. How much was health expenditure per capita in the early 2000s?",
+        "5. How many physicians were there per 100,000 persons in the early 2000s?"
+    ],
+    "yesno": [
+        "1. Was public expenditure health at 8.9% of the GDP in 2004?",
+        "2. Was private expenditure at 1.3% of the GDP in 2004?",
+        "3. Was the HIV/AIDS prevalence at 2.8% among 15- to 49-year-olds in 2012?",
+        "4. Was health expenditure at US$30 per capita in 2004?",
+        "5. Was a large proportion of the population undernourished in Congo-Brazzaville?"
+    ],
+    "count_gt": [
+        "one point three",
+        "eight point nine",
+        "two point eight",
+        "thirty",
+        "twenty"
+    ],
+    "yesno_gt": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ],
+    "count_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "In 2004, what was the percentage of private expenditure on health?",
+                "answer": "1.3%",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the private expenditure on health as a percentage of total expenditure in 2004?",
+                "answer": "private expenditure on health in 2004 was 1.3% of the total expenditure.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Two point eight \n\nYes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the proportion of private expenditure on health in 2004?",
+                "answer": "the proportion of private expenditure on health in 2004 was 1.3%.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the percentage of private expenditure on health compared to total expenditure on health in 2004?",
+                "answer": "the percentage of private expenditure on health compared to total expenditure on health in 2004 was 13%.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '1. What was the private expenditure on health as a percentage of total expenditure in 2004?'",
+                "answer": "the private expenditure on health as a percentage of total expenditure in 2004 was 1.3%.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the percentage of private expenditure on health in 2004?",
+                "answer": "13%",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the private expenditure on health as a percentage of total expenditure in 2004?",
+                "answer": "the private expenditure on health as a percentage of total expenditure in 2004 was 1.3%.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes. The answer is consistent with the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the private expenditure on health as a percentage of total expenditure in 2004?",
+                "answer": "1.3%",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "In 2004, what was the percentage of private expenditure on health?",
+                "answer": "1.3%",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the private expenditure on health as a percentage of GDP in 2004?",
+                "answer": "1.3%",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: What was the percentage of public expenditure on health in 2012?",
+                "answer": "the percentage of public expenditure on health in 2012 was 9.2%.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the public expenditure on health as a percentage of GDP in 2012?",
+                "answer": "the public expenditure on health as a percentage of gdp in 2012 was 8.9%.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the percentage of GDP that public expenditure on health constituted in 2012?",
+                "answer": "11.2%",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How much was public expenditure on health as a percentage of GDP in 2012?",
+                "answer": "in 2012, public expenditure on health was 9.3% of gdp.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the percentage of GDP that public expenditure on health constituted in 2012?\n\nThe answer to this question is 7.3%.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the public expenditure on health as a percentage of GDP in 2012?",
+                "answer": "the public expenditure on health as a percentage of gdp in 2012 was 8.5%.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the percentage of public expenditure on health in 2012?",
+                "answer": "the percentage of public expenditure on health in 2012 was 9.2%.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the percentage of public expenditure on health in relation to GDP in 2012?",
+                "answer": "the percentage of public expenditure on health in relation to gdp in 2012 was 9.2%.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the percentage of public expenditure on health in 2012?",
+                "answer": "the percentage of public expenditure on health in 2012 was 8.4%.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the public expenditure on health as a percentage of GDP in 2012?",
+                "answer": "in 2012, the public expenditure on health was 9.4% of gdp.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the percentage of HIV/AIDS cases among 15- to 49-year-olds in 2012?",
+                "answer": "2.8%",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the percentage of people aged 15-49 who had HIV/AIDS in 2012?",
+                "answer": "2.8%",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the percentage of people ages 15-49 who had HIV/AIDS in 2012?",
+                "answer": "2.8%",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '3. What was the percentage of HIV/AIDS cases among 15- to 49-year-olds in 2012?'",
+                "answer": "in 2012, hiv/aids cases among 15- to 49-year-olds was 2.8%.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the HIV/AIDS prevalence rate among 15- to 49-year-olds in 2012?",
+                "answer": "the hiv/aids prevalence rate among 15- to 49-year-olds was at 2.8% in 2012.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the HIV/AIDS prevalence among adults aged 15 to 49 in 2012?",
+                "answer": "2.8%",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: What was the HIV/AIDS prevalence rate among 15- to 49-year-olds in 2012?",
+                "answer": "the hiv/aids prevalence rate among 15- to 49-year-olds in 2012 was at 2.8%.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: What was the HIV/AIDS prevalence among 15- to 49-year-olds in 2012?",
+                "answer": "the hiv/aids prevalence in 2012 was 2.8% among 15- to 49-year-olds.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the percentage of 15- to 49-year-olds who had HIV/AIDS in 2012?",
+                "answer": "the percentage of 15- to 49-year-olds with hiv/aids in 2012 was 2.8%.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What was the HIV/AIDS prevalence among 15- to 49-year-olds in 2012?'\n\nAccording to UNAIDS, the HIV/AIDS prevalence among 15- to 49-year olds was 0.4% in 2012.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the health expenditure per capita in the early 2000s?",
+                "answer": "us$30",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: 'What was the health expenditure per capita in the early 2000s?' \nThe health expenditure per capita in the early 2000s was about $6,000.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes, the answer is consistent with the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How much was health expenditure per capita in the early 2000s?",
+                "answer": "us$30",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How much was health expenditure per capita in the early 2000s?",
+                "answer": "according to the passage, health expenditure per capita was us$30 in 2004. there is no mention of how much it was in the early 2000s, so this information is not available from the passage.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the health expenditure per capita in the early 2000s?",
+                "answer": "health expenditure per capita in the early 2000s was us$30.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the average health expenditure per person in the early 2000s?",
+                "answer": "the average health expenditure per person in the early 2000s was us$30.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: '4. How much was health expenditure per capita in the early 2000s?'\nAnswer: Health expenditure per capita in the early 2000s was $6,714.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes, the answer is consistent with the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was health expenditure per capita in the early 2000s?",
+                "answer": "health expenditure per capita was us$30 in the early 2000s.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: How much was health expenditure per capita in the early 2000s?",
+                "answer": "health expenditure per capita in the early 2000s was $30.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the health expenditure per capita in the early 2000s?",
+                "answer": "the health expenditure per capita in the early 2000s was us$30.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many physicians were there per 100,000 persons in the early 2000s?",
+                "answer": "there were 20 physicians per 100,000 persons in the early 2000s.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many physicians were there per 100,000 persons in the early 2000s?",
+                "answer": "there were 20 physicians per 100,000 persons in the early 2000s.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the physician density in the early 2000s?",
+                "answer": "there were 20 physicians per 100,000 persons in the early 2000s.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many physicians were there per 100,000 persons in the early 2000s?",
+                "answer": "in the early 2000s, there were 20 physicians per 100,000 persons.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "In the early 2000s, what was the ratio of physicians to 100,000 persons?",
+                "answer": "the ratio of physicians to 100,000 persons in the early 2000s was 20.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "What was the number of physicians per 100,000 people in the early 2000s?",
+                "answer": "the number of physicians per 100,000 people in the early 2000s was 20.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes, the answer is consistent with the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many physicians per 100,000 persons were there in the early 2000s?",
+                "answer": "there were 20 physicians per 100,000 persons in the early 2000s (decade).",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "Question: What was the physician density per 100,000 persons in the early 2000s?\n\nThere were 133 physicians per 100,000 persons in 2002.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes, the answer is consistent with the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many physicians were there per 100,000 persons in the early 2000s?",
+                "answer": "there were 20 physicians per 100,000 persons in the early 2000s.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.4,
+                    1.4,
+                    0.95
+                ],
+                "question": "How many physicians were there per 100,000 persons in the early 2000s?",
+                "answer": "20",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            }
+        ]
+    ],
+    "yesno_variations": [
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. What was the public expenditure on health as a percentage of GDP in 2004?",
+                "answer": "2. what was the private expenditure on health as a percentage of gdp in 2004?\n\n1. public expenditure on health as a percentage of gdp in 2004 was 8.9%.\n\n2. private expenditure on health as a percentage of gdp in 2004 was 1.3%.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What was the percentage of public expenditure on health in relation to the GDP in 2004?'\n\nAnswer: The percentage of public expenditure on health in relation to the GDP in 2004 was 8.9%.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes, the answer is consistent with the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '1. What was the public expenditure health as a percentage of GDP in 2004?'\n\nPublic expenditure on healthcare was 8.9% of GDP in 2004.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes, the answer is consistent with the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What was the percentage of public expenditure on health in relation to the GDP in 2004?' \nAnswer: 8.9%",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "The answer is consistent with the ground"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What was the percentage of public expenditure on health in 2004? \nAnswer: The public expenditure on health was 8.9% of the GDP in 2004.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. What was the public expenditure on health as a percentage of GDP in 2004?\nThe public expenditure on health was 8.9% of GDP in 2004.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "The answer is consistent with the ground"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What was the public expenditure on health as a percentage of GDP in 2004?'\n\nThe public expenditure on health as a percentage of GDP in 2004 was 8.9%.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "The answer is consistent with the ground"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. What was the public expenditure on health as a percentage of GDP in 2004?\nPublic expenditure on health was 8.9% of GDP in 2004.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "The percentage of the GDP devoted to public expenditure on"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "1. Was public health expenditure 8.9% of the GDP in 2004?",
+                "answer": "2. what was private health expenditure as a percentage of the gdp in 2004?\n\n1. public health expenditure in congo-brazzaville was 8.9% of the gdp in 2004. \n2. private health expenditure in congo-brazzaville was 1.3% of the gdp in 2004.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What was the public expenditure on health as a percentage of GDP in 2004?'\n\nThe public expenditure on health as a percentage of GDP in 2004 was 8.9%.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What was the private expenditure as a percentage of GDP in 2004? \n\nAnswer: The private expenditure was 1.3% of GDP in 2004.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes, the answer is consistent with the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Private expenditure as a percentage of GDP was 1.3% in 2004.",
+                "answer": "by 2012, what was the private expenditure as a percentage of gdp?\n\nthe private expenditure as a percentage of gdp was 1.5% in 2012.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Was private expenditure 1.3% of the GDP in 2004? \nYes, private expenditure was 1.3% of the GDP in 2004.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What was the private expenditure as a percentage of GDP in 2004?\n\n1.3%",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did private expenditure make up 1.3% of the GDP in 2004?",
+                "answer": "yes, according to the context private expenditure was at 1.3% of the gdp in 2004.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What was private expenditure as a percentage of GDP in 2004?' \nAnswer: Private expenditure was 1.3% of the GDP in 2004.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What was private expenditure at as a percentage of GDP in 2004? \nAnswer: Private expenditure was 1.3% of the GDP in 2004.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Did private expenditure equal 1.3% of GDP in 2004?",
+                "answer": "based on the given context, it can be inferred that private expenditure was 1.3% of gdp in 2004.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is private expenditure equal to 1.3% of the GDP in 2004?",
+                "answer": "no, private expenditure was at 1.3% of the gdp in 2004, whereas public expenditure was at 8.9% of the gdp.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "no"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '2. What was private expenditure as a percentage of GDP in 2004?' \n\n1.3%",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What was the HIV/AIDS prevalence among 15- to 49-year-olds in 2012? \nAnswer: The HIV/AIDS prevalence among 15- to 49-year olds was 2.8% in 2012.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "The answer is consistent with the ground truth"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What was the HIV/AIDS prevalence among 15- to 49-year-olds in 2012?' \nThe HIV/AIDS prevalence was 2.8% among 15- to 49-year olds in 2012.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes, the answer is consistent with the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "3. What was the HIV/AIDS prevalence among 15- to 49-year-olds in 2012?\n2.8%",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What was the HIV/AIDS prevalence among 15- to 49-year-olds in 2012? \nThe HIV/AIDS prevalence was 2.8% among 15- to 49-year-olds in 2012.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "1.3%\n\nYes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What was the HIV/AIDS prevalence among 15- to 49-year-olds in 2012?' \nThe HIV/AIDS prevalence was 2.8% among 15- to 49-year-olds in 2012.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Congo-Brazzaville's public expenditure"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: In 2012, was the HIV/AIDS prevalence at 2.8% among 15- to 49-year-olds? \nYes.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes, the answer is consistent with the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What was the HIV/AIDS prevalence among 15- to 49-year-olds in 2012?\nThe HIV/AIDS prevalence was 2.8% among 15- to 49-year olds in 2012.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes, the answer is consistent with the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What was the HIV/AIDS prevalence among 15- to 49-year-olds in 2012?'\nAnswer: The HIV/AIDS prevalence was 2.8% among 15- to 49-year olds in 2012.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes."
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What was the HIV/AIDS prevalence rate among 15- to 49-year-olds in 2012?' The HIV/AIDS prevalence rate among 15- to 49-year-olds was 2.8% in 2012.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes, the answer is consistent with the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "What was the HIV/AIDS prevalence among 15- to 49-year-olds in 2012?\n2.8%",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "The answer appears to be consistent with the"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What was the health expenditure per capita in 2004?'\n\nHealth expenditure per capita in 2004 was US$30.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What was health expenditure per capita in the United States in 2004?' \nAnswer: In 2004, health expenditure per capita in the United States was $30.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes, the answer is consistent with the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What was health expenditure per capita in 2004?' \nIn 2004, health expenditure per capita was US$30.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What was the health expenditure per capita in 2004?'\n\nThe answer is US$30.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "The answer is consistent with the ground truth"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Was health expenditure $30 per capita in 2004?",
+                "answer": "yes, health expenditure was $30 per capita in 2004.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "4. In 2004, was health expenditure at US$30 per capita?",
+                "answer": "yes, in 2004 health expenditure was at us$30 per capita.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is health expenditure equal to US$30 per capita in 2004?",
+                "answer": "no, health expenditure is not equal to us$30 per capita in 2004.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Was health expenditure $30 per capita in 2004?",
+                "answer": "yes, health expenditure was $30 per capita in 2004.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "4. Did health expenditure reach US$30 per capita in 2004?",
+                "answer": "yes, health expenditure reached us$30 per capita in 2004.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: 'What was health expenditure per capita in the United States in 2004?'\n\nAccording to data from the World Health Organization, health expenditure per capita in the United States was $7,129 in 2004.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes, the answer is consistent with the"
+            }
+        ],
+        [
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: What was the proportion of undernourished people in Congo-Brazzaville?",
+                "answer": "a large proportion of the population is undernourished, with malnutrition being a problem in congo-brazzaville.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Do a large proportion of the Congolese population go hungry?",
+                "answer": "yes, a large proportion of the congolese population goes hungry. malnutrition is a problem in congo-brazzaville, and a large portion of the population is undernourished.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is a large proportion of the population undernourished in Congo-Brazzaville?",
+                "answer": "yes, a large proportion of the population is undernourished in congo-brazzaville.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: Was a significant portion of the population malnourished in Congo-Brazzaville?\n\nYes, according to the World Food Programme, 40.3% of Congolese were undernourished between 2014 and 2016.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "To what extent was the population undernourished in Congo-Brazzaville?",
+                "answer": "a large proportion of the population is undernourished, with malnutrition being a problem in congo-brazzaville.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: A large proportion of the population was undernourished in Congo-Brazzaville, yes or no? \nAnswer: Yes.",
+                "answer": "",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes, the answer is consistent with the"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: '5. Did a large proportion of the population in Congo-Brazzaville suffer from malnutrition?'",
+                "answer": "yes, a large proportion of the population in congo-brazzaville suffered from malnutrition.",
+                "exact_match": "no",
+                "llm_selfevaluation": "No"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "In Congo-Brazzaville, was a large portion of the population undernourished?",
+                "answer": "yes, a large portion of the population in congo-brazzaville was undernourished.",
+                "exact_match": "no",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Question: In Congo-Brazzaville, was a large proportion of the population undernourished?",
+                "answer": "a large proportion of the population in congo-brazzaville is undernourished. malnutrition is a problem in the country.",
+                "exact_match": "yes",
+                "llm_selfevaluation": "Yes"
+            },
+            {
+                "parameters": [
+                    1.4,
+                    1.8,
+                    1.8,
+                    0.95
+                ],
+                "question": "Is a large proportion of the population undernourished in Congo-Brazzaville?",
+                "answer": "yes, a large proportion of the population is undernourished in congo-brazzaville.",
+                "exact_match": "no",
+                "llm_selfevaluation": "yes"
+            }
+        ]
+    ]
+}
