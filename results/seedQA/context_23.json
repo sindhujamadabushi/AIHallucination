@@ -1,0 +1,31 @@
+{
+    "context": "On February 8, 1955, Malenkov was officially demoted to deputy Prime Minister. As First Secretary of the Central Committee of the Communist Party, Nikita Khrushchev's authority was significantly enhanced by Malenkov's demotion.\n",
+    "count": [
+        "1. How many days was Malenkov officially demoted?",
+        "2. How many months was Malenkov officially demoted?",
+        "3. How many years was Malenkov officially demoted?",
+        "4. How many deputy Prime Ministers were there?",
+        "5. How many First Secretaries of the Central Committee of the Communist Party were there?"
+    ],
+    "yesno": [
+        "1. Did Malenkov's demotion enhance Khrushchev's authority?",
+        "2. Was Malenkov's demotion officially on February 8, 1955?",
+        "3. Is Nikita Khrushchev the First Secretary of the Central Committee of the Communist Party?",
+        "4. Was Malenkov demoted to a deputy Prime Minister?"
+        
+    ],
+    "count_gt": [
+        "unknown",
+        "unknown",
+        "unknown",
+        "one",
+        "one"
+        
+    ],
+    "yesno_gt": [
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

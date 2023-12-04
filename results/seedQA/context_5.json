@@ -1,0 +1,29 @@
+{
+    "context": "In Eastern Christianity heresy most commonly refers to those beliefs declared heretical by the first seven Ecumenical Councils.[citation needed] Since the Great Schism and the Protestant Reformation, various Christian churches have also used the concept in proceedings against individuals and groups those churches deemed heretical. The Orthodox Church also rejects the early Christian heresies such as Arianism, Gnosticism, Origenism, Montanism, Judaizers, Marcionism, Docetism, Adoptionism, Nestorianism, Monophysitism, Monothelitism and Iconoclasm.\n", 
+    "count": [
+        "How many Ecumenical Councils were there?", 
+        "How many Christian churches are there?", 
+        "How many heresies are there?", 
+        "How many early Christian heresies are there?", 
+        "How many Iconoclasms are there?"
+    ], 
+    "yesno": [
+        "Did Eastern Christianity always deem certain beliefs heretical?", 
+        "Has the concept of heresy changed since the Great Schism?", 
+        "Do all Christian churches see heresy in the same way?"
+        
+    ],
+    "count_gt": [
+        "seven",
+        "unknown",
+        "twelve",
+        "twelve",
+        "one"
+    ],
+    "yesno_gt": [
+        "yes",
+        "no",
+        "no"
+        
+    ]
+}

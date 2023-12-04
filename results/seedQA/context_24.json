@@ -1,0 +1,24 @@
+{
+    "context": "Under the 1830 Act any householder who paid rates could apply, with a one-off payment of two guineas (roughly equal in value to \u00a3168 today), to sell beer or cider in his home (usually the front parlour) and even to brew his own on his premises. The permission did not extend to the sale of spirits and fortified wines, and any beer house discovered selling those items was closed down and the owner heavily fined. Beer houses were not permitted to open on Sundays. The beer was usually served in jugs or dispensed directly from tapped wooden barrels on a table in the corner of the room. Often profits were so high the owners were able to buy the house next door to live in, turning every room in their former home into bars and lounges for customers",
+    "count": [
+        "1. How much did it cost to apply for a license to sell beer in 1830?",
+        "2. How many beer houses were found to be selling spirits and fined?",
+        "3. How many rooms could be turned into bars and lounges if the owner lived next door?",
+        "4. How much did a jug of beer cost in 1830?",
+        "5. How many beer houses were allowed to be open on Sundays?"
+    ],
+    "yesno": [
+        "-Did the 1830 Act allow for the sale of beer on Sundays?"
+    ],
+    "count_gt": [
+        "one hundred and sixty eight dollars",
+        "unknown",
+        "unknown",
+        "unknown",
+        "zero"
+        
+    ],
+    "yesno_gt": [
+        "no"
+    ]
+}

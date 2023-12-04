@@ -1,2 +1,0 @@
-Question: 'How many sections are in the player's guide?'
-Answer: There are three sections in the player's guide.

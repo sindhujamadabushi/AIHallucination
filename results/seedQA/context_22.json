@@ -1,0 +1,32 @@
+{
+    "context": "There are numerous community and international newspapers locally that cater to the city's ethnic mosaic; such as The Black Chronicle, headquartered in the Eastside, the OK VIETIMES and Oklahoma Chinese Times, located in Asia District, and various Hispanic community publications. The Campus is the student newspaper at Oklahoma City University. Gay publications include The Gayly Oklahoman.\n",
+    "count": [
+        "1. How many community and international newspapers are in Oklahoma City?",
+        "2. How many of these cater to the city's ethnic mosaic?",
+        "3. How many publications are there for the LGBTQIA+ community?",
+        "4. How many local publications are students at Oklahoma City University responsible for?",
+        "5. How many different languages are spoken by publications in Oklahoma City?"
+    ],
+    "yesno": [
+        "1) Do the papers mentioned in the context likely have a biased perspective?",
+        "2) Is the city mentioned in the context diverse?",
+        "3) Do all the papers mentioned in the context print in English?",
+        "4) Are the publications mentioned in the context all based in the city?",
+        "5) Is the university mentioned in the context private or public?"
+    ],
+    "count_gt": [
+        "unknown",
+        "unknown",
+        "one",
+        "one",
+        "unknown"
+        
+    ],
+    "yesno_gt": [
+        "no",
+        "yes",
+        "unknown",
+        "yes",
+        "unknown"
+    ]
+}

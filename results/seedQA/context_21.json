@@ -1,0 +1,26 @@
+{
+    "context": "In 2004, SME and Bertelsmann Music Group merged as Sony BMG Music Entertainment. When Sony acquired BMG's half of the conglomerate in 2008, Sony BMG reverted to the SME name. The buyout led to the dissolution of BMG, which then relaunched as BMG Rights Management. Out of the \"Big Three\" record companies, with Universal Music Group being the largest and Warner Music Group, SME is middle-sized.\n",
+    "count": [
+        "How many record companies are there in the world?",
+        "How many record companies are in the \"Big Three?\""
+    ],
+    "yesno": [
+        "1) Has Sony BMG produced any number-one hits?",
+        "2) Is Sony BMG bigger than Universal Music Group?",
+        "3) Was BMG Music Entertainment successful?",
+        "4) Did the merge between SME and BMG dissolve BMG?",
+        "5) Is BMG Rights Management the same as BMG?"
+    ],
+    "count_gt": [
+        "unknown",
+        "three"
+        
+    ],
+    "yesno_gt": [
+        "unknown",
+        "no",
+        "unknown",
+        "yes",
+        "yes"
+    ]
+}
