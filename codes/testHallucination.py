@@ -2,64 +2,16 @@ import json, os
 from answerGenerator import generate_answers
 from evaluationMetrics import llm_selfevaluation, exact_match
 from loadDataset import LoadDataset
-
-def evaluate_llmevaluation(file_path):
-    with open(file_path, 'r', encoding='utf-8') as file:
-        file_content = file.read()
-        data = json.loads(file_content)
-    
-    for question_type in ['count_variations', 'yesno_variations']:
-        for question_dicts in data[question_type]:
-            for question_dict in question_dicts:
-                answer = generate_answers(data["context"], question_dict["question"])
-                question_dict['answer'] = answer
-                llm_evaluation = llm_selfevaluation(data["context"], question_dict["question"], answer)
-                try:
-                    if int(llm_evaluation) < 7:
-                        question_dict['llmevaluation'] = 'no'
-                    else:
-                        question_dict['llmevaluation'] = 'yes'
-                        
-                except:
-                    print('cannot convert to int')
-                    question_dict['llmevaluation'] = 'N'
-    with open('out.json', 'w', encoding='utf-8') as file:
-        json.dump(data, file, indent=4)
-    return
-
-def evaluate_exact_match(file_path):
-    with open('out.json', 'r', encoding='utf-8') as file:
-        file_content = file.read()
-        data = json.loads(file_content)
-    def find_subarray_index(question, variations):
-        for index, subarray in enumerate(variations):
-            if any(q['question'] == question for q in subarray):
-                return index
-        return None
-    for question_type, gt_key in [('count_variations', 'count_gt'), ('yesno_variations', 'yesno_gt')]:
-        for subarray in data[question_type]:
-            for question_dict in subarray:
-                subarray_index = find_subarray_index(question_dict['question'], data[question_type])
-                gt_answer = data[gt_key][subarray_index] if subarray_index is not None else None
-                if gt_answer is not None:
-                    question_dict['exact_match'] = exact_match(gt_answer, question_dict['answer'])
-                try:
-                    if float(exact_match(gt_answer, question_dict['answer'])) == 'yes':
-                        question_dict['exact_match'] = 'yes'
-                    else:
-                        question_dict['exact_match'] = 'no'      
-                except:
-                    print('cannot convert to int')
-                    question_dict['exact_match'] = 'N'
-
-    with open(file_path, 'w', encoding='utf-8') as file:
-        json.dump(data, file, indent=4)
-
+from openai import OpenAI
+ 
+api_key="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"
 
 all_data = LoadDataset.read_all_json_files('../results/questions/generated/')
 output_directory = ('../results/questions/generated2/')
 
 for i, dataset in enumerate(all_data):
+    if i != 6:
+        continue
     context = dataset['context']
     count_questions = dataset['count']
     yesno_questions = dataset['yesno']
@@ -74,29 +26,23 @@ for i, dataset in enumerate(all_data):
         for dict_idx, question_dict in enumerate(question_list):
             print("    Dict idx ", dict_idx)
             question = question_dict['question']
-            answer = generate_answers(context, question)
-            llm_selfevaluation_out = llm_selfevaluation(context, gt_answer, answer)
+            answer = generate_answers(context, question, api_key).lower()
+            print('answer: ', answer)
+            print('type: ', type(answer))
+            llm_selfevaluation_out = llm_selfevaluation(context, gt_answer, answer, api_key)
             exact_match_output = exact_match(gt_answer, answer)
+            question_dict['answer'] = answer
+            question_dict['exact_match'] = exact_match_output
+            question_dict['llm_selfevaluation'] = llm_selfevaluation_out
+            # try:
+            #     if exact_match_output == 'yes':
+            #         question_dict['exact_match'] = 'yes'
+            #     else:
+            #         question_dict['exact_match'] = 'no'
 
-            try:
-                if int(llm_selfevaluation_out) < 7:
-                    question_dict['llmevaluation'] = 'no'
-                else:
-                    question_dict['llmevaluation'] = 'yes'
-
-            except:
-                print('cannot convert to int')
-                question_dict['llmevaluation'] = 'N'
-
-            try:
-                if float(exact_match_output) == 'yes':
-                    question_dict['exact_match'] = 'yes'
-                else:
-                    question_dict['exact_match'] = 'no'
-
-            except:
-                print('cannot convert to int')
-                question_dict['exact_match'] = 'N'
+            # except:
+            #     print('cannot convert to int')
+            #     question_dict['exact_match'] = 'N'
 
     for idx, question_list in enumerate(dataset['yesno_variations']):
 
@@ -107,31 +53,25 @@ for i, dataset in enumerate(all_data):
             print("    Dict idx ", dict_idx)
 
             question = question_dict['question']
-            answer = generate_answers(context, question)
-            llm_selfevaluation_out = llm_selfevaluation(context, gt_answer, answer)
+            answer = generate_answers(context, question, api_key).lower()
+            print('answer: ', answer)
+            print('type: ', type(answer))
+            question_dict['answer'] = answer
+            
+            llm_selfevaluation_out = llm_selfevaluation(context, gt_answer, answer, api_key)
             exact_match_output = exact_match(gt_answer, answer)
+            question_dict['exact_match'] = exact_match_output
+            question_dict['llm_selfevaluation'] = llm_selfevaluation_out
+            # try:
+            #     # print('enter try')
+            #     if float(exact_match_output) == 'yes':
+            #         question_dict['exact_match'] = 'no'
+            #     else:
+            #         question_dict['exact_match'] = 'yes'
 
-            try:
-                # print('enter try')
-                if int(llm_selfevaluation_out) < 7:
-                    question_dict['llmevaluation'] = 'no'
-                else:
-                    question_dict['llmevaluation'] = 'yes'
-
-            except:
-                print('cannot convert to int')
-                question_dict['llmevaluation'] = 'N'
-
-            try:
-                # print('enter try')
-                if float(exact_match_output) == 'yes':
-                    question_dict['exact_match'] = 'no'
-                else:
-                    question_dict['exact_match'] = 'yes'
-
-            except:
-                print('cannot convert to int')
-                question_dict['exact_match'] = 'N'
+            # except:
+            #     print('cannot convert to int')
+            #     question_dict['exact_match'] = 'N'
 
         # print("Finish yesno")
 

@@ -2,9 +2,9 @@ import json
 from openai import OpenAI
 import os
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="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")
 
-with open("../inputs/contexts_100.txt", "r") as f:
+with open("../inputs/contexts.txt", "r") as f:
     contexts = f.readlines()
 
 def generate_questions(context, question_type, num_questions_per_context_qtype):
@@ -33,18 +33,17 @@ def generate_questions(context, question_type, num_questions_per_context_qtype):
                     questions.append(question.strip())
     return questions
 
-
 num_contexts = 5
 num_questions_per_context_qtype = 5
-all_contexts = contexts[:num_contexts]
+# all_contexts = contexts[:num_contexts]
 
-directory_name = "../results/questions/context"
+directory_name = "../results/seedQA"
 question_types = ["count", "yesno"]
 
-for c in range(len(all_contexts)):
-    context_questions = {"context": all_contexts[c], "count": [], "yesno": []}
+for c in range(21, len(contexts)):
+    context_questions = {"context": contexts[c], "count": [], "yesno": []}
     for q_t in question_types:
-        questions = generate_questions(all_contexts[c], q_t, num_questions_per_context_qtype)
+        questions = generate_questions(contexts[c], q_t, num_questions_per_context_qtype)
         questions = questions[0].split('\n')
         context_questions[q_t] = questions
     
