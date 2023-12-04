@@ -2,8 +2,6 @@ from openai import OpenAI
 import json
 import os
 import random
-import itertools
-from tqdm import tqdm
 
 from loadDataset import LoadDataset  
 
@@ -73,20 +71,12 @@ class DiverseQuestionGenerator:
     def call_gpt_api(self, context, question):
         paraphrased_questions = []
 
-        # Define the parameter ranges
-        temperatures = [1.2, 1.4, 1.6, 1.8]
-        fp_list = [1.2, 1.4, 1.6, 1.8]
-        pp_list = [1.2, 1.4, 1.6, 1.8]
-        top_p_list = [0.92, 0.95]
-
-        # Create a Cartesian product of all parameter ranges
-        all_parameter_combinations = itertools.product(temperatures, fp_list, pp_list, top_p_list)
-
-        for param_combination in tqdm(all_parameter_combinations):
-            
-            T, FP, PP, top_p = param_combination
-            paraphrased_question = {'parameters': param_combination, 'question': self.paraphrase_question(question, T, FP, PP, top_p)}
-            paraphrased_questions.append(paraphrased_question)
+        while len(paraphrased_questions) < num_questions:
+            T = random.choice([1.2, 1.4, 1.6, 1.8])
+            FP = random.choice([1.2, 1.4, 1.6, 1.8])
+            PP = random.choice([1.2, 1.4, 1.6, 1.8])
+            top_p = random.choice([0.92, 0.95])
+            paraphrased_questions.append({'parameters': (T, FP, PP, top_p), 'question': self.paraphrase_question(question, T, FP, PP, top_p)})
 
         return paraphrased_questions
 
