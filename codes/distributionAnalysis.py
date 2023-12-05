@@ -38,8 +38,8 @@ def analyze_hallucination_parameters(dataset):
 
     # Analyze count question variations
     for idx, variations in enumerate(dataset['count_variations']):
-        if dataset['count_gt'][idx] == 'unknown':
-            continue
+        # if dataset['count_gt'][idx] == 'unknown':
+        #     continue
 
         for variation in variations:
             params = tuple(variation['parameters'])
@@ -51,8 +51,8 @@ def analyze_hallucination_parameters(dataset):
     # Analyze yesno question variations
     for idx, variations in enumerate(dataset['yesno_variations']):
 
-        if dataset['yesno_gt'][idx] == 'unknown':
-            continue
+        # if dataset['yesno_gt'][idx] == 'unknown':
+        #     continue
 
         for variation in variations:
             params = tuple(variation['parameters'])
@@ -106,10 +106,10 @@ def main():
                 total_yesno_bert_params[params] += count
 
     # Save the sorted tables to CSV files
-    save_to_csv(total_count_llm_params, "no_unknown_count", "LLM_Evaluation", output_directory)
-    save_to_csv(total_count_bert_params, "no_unknown_count", "Exact_Match", output_directory)
-    save_to_csv(total_yesno_llm_params, "no_unknown_yesno", "LLM_Evaluation", output_directory)
-    save_to_csv(total_yesno_bert_params, "no_unknown_yesno", "Exact_Match", output_directory)
+    save_to_csv(total_count_llm_params, "unknown_count", "LLM_Evaluation", output_directory)
+    save_to_csv(total_count_bert_params, "unknown_count", "Exact_Match", output_directory)
+    save_to_csv(total_yesno_llm_params, "unknown_yesno", "LLM_Evaluation", output_directory)
+    save_to_csv(total_yesno_bert_params, "unknown_yesno", "Exact_Match", output_directory)
 
 if __name__ == '__main__':
     main()
