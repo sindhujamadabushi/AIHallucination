@@ -8,27 +8,6 @@ def load_json_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         return json.load(file)
 
-# def prune_questions():
-#     file_base_path = '/Users/sindhuja/Desktop/AIHallucination/results/questions/generated2/context_'
-#     file_count = 22  
-#     total_nan_count = 0
-#     total_unknown_count = 0
-#     for i in range(file_count):
-#         file_path = f'{file_base_path}{i}.json'
-#         nan_count = 0
-#         unknown_count = 0
-#         with open(file_path, 'r') as file:
-#             data = json.load(file)
-
-#         if 'NaN' in data["count_gt"] or 'NaN' in data["yesno_gt"]:
-#             nan_count += 1
-#         if 'unknown' in data["count_gt"] or 'unknown' in data["yesno_gt"]:
-#             unknown_count += 1 
-#         total_nan_count += nan_count
-#         total_unknown_count += unknown_count
-        
-#     return total_nan_count, total_unknown_count
-
 def analyze_hallucination_parameters(dataset):
     # Initialize counters for parameter combinations
     count_llm_params = defaultdict(int)
@@ -38,9 +17,6 @@ def analyze_hallucination_parameters(dataset):
 
     # Analyze count question variations
     for idx, variations in enumerate(dataset['count_variations']):
-        # if dataset['count_gt'][idx] == 'unknown':
-        #     continue
-
         for variation in variations:
             params = tuple(variation['parameters'])
             if variation['llm_selfevaluation'] == 'yes':
@@ -50,10 +26,6 @@ def analyze_hallucination_parameters(dataset):
 
     # Analyze yesno question variations
     for idx, variations in enumerate(dataset['yesno_variations']):
-
-        # if dataset['yesno_gt'][idx] == 'unknown':
-        #     continue
-
         for variation in variations:
             params = tuple(variation['parameters'])
             if variation['llm_selfevaluation'] == 'yes':
