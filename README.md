@@ -15,4 +15,6 @@ Secondary Objectives: perturb LLM decoding strategies such as temperature, prese
 
 Prerequisites: Python3, OpenAI libraries installed
 
+The report for our project can be found in the pdf folder
+
 Contact Sindhuja Madabushi at msindhuja@vt.edu for questions.
